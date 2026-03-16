@@ -1,0 +1,894 @@
+{
+  "knowledgePoint": "电磁感应",
+  "summary": {
+    "coreConcepts": [
+      "电场强度",
+      "库仑定律",
+      "电势"
+    ],
+    "formulas": [
+      "E = F/q",
+      "E = kQ/r²",
+      "E = U/d"
+    ],
+    "keyPoints": [
+      "电场强度 定义：试探电荷在电场中某点所受电场力与试探电荷量的比值..."
+    ]
+  },
+  "examples": [
+    {
+      "title": "典型例题：电场强度",
+      "content": "详见课件内容",
+      "solution": "见课堂讲解"
+    }
+  ],
+  "mistakes": [
+    "混淆电场强度与电势的概念",
+    "忘记电场强度是矢量，需要考虑方向",
+    "库仑常数 k 取值错误（应为 9×10⁹ N·m²/C²）",
+    "计算时忘记试探电荷 q 的正负",
+    "忘记库仑力是矢量，需满足平行四边形定则",
+    "混淆作用力与反作用力",
+    "距离趋近于零时库仑力趋向无穷大（物理上不成立）"
+  ],
+  "recommendations": [
+    {
+      "id": "Q015",
+      "topic": "电磁感应",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "content": "感应电流的方向判断"
+    },
+    {
+      "id": "Q016",
+      "topic": "电磁感应",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "content": "楞次定律的应用"
+    },
+    {
+      "id": "Q017",
+      "topic": "电磁感应",
+      "difficulty": "综合",
+      "type": "FRQ",
+      "year": "2023",
+      "content": "电磁感应中的能量转化"
+    },
+    {
+      "id": "AP2021-E&M-Q3-a",
+      "topic": "电磁感应",
+      "subTopic": "法拉第定律",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2021",
+      "content": "推导感应电流 I 与时间 t 的函数关系"
+    },
+    {
+      "id": "AP2021-E&M-Q3-b",
+      "topic": "电磁感应",
+      "subTopic": "能量耗散",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2021",
+      "content": "计算 1s 到 2s 期间环内耗散的 electrical energy"
+    },
+    {
+      "id": "AP2021-E&M-Q3-c",
+      "topic": "电磁感应",
+      "subTopic": "磁通量",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2021",
+      "content": "分析环平面与磁场夹角变化时能量耗散的变化"
+    },
+    {
+      "id": "AP2021-E&M-Q3-d",
+      "topic": "电磁感应",
+      "subTopic": "旋转感应",
+      "difficulty": "综合",
+      "type": "FRQ",
+      "year": "2021",
+      "content": "计算旋转环的角速度 ω"
+    },
+    {
+      "id": "AP2021-E&M-Q3-e",
+      "topic": "电磁感应",
+      "subTopic": "感应电动势",
+      "difficulty": "综合",
+      "type": "FRQ",
+      "year": "2021",
+      "content": "计算感应电动势的最大值 emax"
+    },
+    {
+      "id": "AP2021-E&M-Q3-f",
+      "topic": "电磁感应",
+      "subTopic": "感应电动势",
+      "difficulty": "综合",
+      "type": "FRQ",
+      "year": "2021",
+      "content": "分析角速度加倍时感应电动势图像的变化"
+    },
+    {
+      "id": "U5-FRQ-01",
+      "topic": "电磁感应",
+      "subTopic": "法拉第定律",
+      "difficulty": "基础",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U5",
+      "content": "线圈面积 A=0.1m²，匝数 N=100，磁场变化率 dB/dt=0.5T/s，求感应电动势",
+      "skills": [
+        "法拉第定律",
+        "感应电动势"
+      ]
+    },
+    {
+      "id": "U5-FRQ-02",
+      "topic": "电磁感应",
+      "subTopic": "楞次定律",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U5",
+      "content": "磁铁 N 极插入线圈，判断感应电流方向并解释",
+      "skills": [
+        "楞次定律",
+        "感应电流方向"
+      ]
+    },
+    {
+      "id": "U5-FRQ-03",
+      "topic": "电磁感应",
+      "subTopic": "自感",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U5",
+      "content": "线圈自感 L=0.5H，电流从 2A 减到 0 需要 0.1s，求自感电动势",
+      "skills": [
+        "自感电动势",
+        "楞次定律"
+      ]
+    },
+    {
+      "id": "U5-FRQ-04",
+      "topic": "电磁感应",
+      "subTopic": "能量",
+      "difficulty": "综合",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U5",
+      "content": "金属棒在磁场中滑动（v=2m/s, B=0.3T, L=0.5m），求感应电动势和焦耳热功率",
+      "skills": [
+        "动生电动势",
+        "能量转换"
+      ]
+    },
+    {
+      "id": "U5-MC-01",
+      "topic": "电磁感应",
+      "subTopic": "基本概念",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "线圈平面与磁场方向垂直时，磁通量最大，此时感应电动势？",
+      "options": [
+        "A. 最大",
+        "B. 最小",
+        "C. 为零",
+        "D. 无法确定"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "U5-FRQ-06",
+      "topic": "电磁感应",
+      "difficulty": "基础",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U5",
+      "content": "线圈面积 A=0.05m²，匝数 N=50，匀强磁场 B=0.3T，线圈从水平旋转至竖直，求感应电动势"
+    },
+    {
+      "id": "U5-FRQ-07",
+      "topic": "电磁感应",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U5",
+      "content": "磁铁 N 极以速度 v 插入线圈，判断并画出感应电流方向"
+    },
+    {
+      "id": "U5-FRQ-08",
+      "topic": "电磁感应",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U5",
+      "content": "两个互感线圈 M=0.1H，I1 变化率 dI1/dt=5A/s，求互感电动势"
+    },
+    {
+      "id": "U5-FRQ-09",
+      "topic": "电磁感应",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U5",
+      "content": "导体棒在磁场中匀速滑动（v=1m/s, B=0.4T, L=0.3m），求感应电动势"
+    },
+    {
+      "id": "U5-FRQ-10",
+      "topic": "电磁感应",
+      "difficulty": "综合",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U5",
+      "content": "交流发电机：线圈面积 A=0.1m²，匝数 N=100，转速 n=60rpm，B=0.5T，求峰值电动势"
+    },
+    {
+      "id": "U5-MC-mc_01",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 5 - MC Questions",
+      "options": [
+        "A. Zero",
+        "B. 0.012 T-m?",
+        "C. 0.02 T-m?",
+        "D. 0.024 T-m?",
+        "E. 0.048 T-m?",
+        "A. xr2Bsinb",
+        "B. zr2Bcos0",
+        "D. 2xr8cosb",
+        "E. 2arB"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_02",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 6 - MC Questions",
+      "options": [
+        "A. B(b? = a*)sine",
+        "B. B(b* - a*)coso",
+        "D. Ba’ sind",
+        "E. Bb\" sind"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_03",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 7 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_04",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 8 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_05",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 9 - MC Questions",
+      "options": [
+        "A. It is counterclockwise and constant.",
+        "B. Itis counterclockwise and increasing.",
+        "C. Itis clockwise and constant.",
+        "D. It is clockwise and increasing.",
+        "E. Itis oscillating.",
+        "A. It also decreases to zero.",
+        "B. It decreases, but not to zero.",
+        "C. It does not change.",
+        "D. It increases.",
+        "E. Its direction is reversed."
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_06",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 10 - MC Questions",
+      "options": [
+        "A. Toward the left",
+        "B. Toward the right",
+        "C. Toward the top of the page",
+        "D. Toward the bottom of the page",
+        "E. Out of the page"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_07",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 11 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_08",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 12 - MC Questions",
+      "options": [
+        "B. 又",
+        "C. 1",
+        "D. 10 (i.e., constant)",
+        "E. 2",
+        "A. 1x 107 s",
+        "B. 3x10 s",
+        "C. 3x10 s",
+        "D. 1x107 s",
+        "E. 3x10\" s",
+        "A. 2aR(b1? + ct)",
+        "B. 2xR(2pr +c)",
+        "D. 2R? (bt +c)",
+        "E. 2R? (2bt +c)"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_09",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 13 - MC Questions",
+      "options": [
+        "A. 9",
+        "B. 9",
+        "D. 9",
+        "E. ¢"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_10",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 14 - MC Questions",
+      "options": [
+        "A. 0V",
+        "B. 0.5 V",
+        "C. 10 V",
+        "D. 15V",
+        "E. 200 V",
+        "A. Clockwise Clockwise",
+        "B. Clockwise Counterclockwise",
+        "C. Counterclockwise Clockwise",
+        "D. Counterclockwise Counterclockwise",
+        "E. Undefined, since Undefined, since"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_11",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 15 - MC Questions",
+      "options": [
+        "A. 04 V",
+        "B. 1.6 V",
+        "D. 4.0 V",
+        "E. 8.0 V",
+        "A. 6A",
+        "B. 7A",
+        "C. 12A",
+        "D. 14 A",
+        "E. 24 A"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_12",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 16 - MC Questions",
+      "options": [
+        "A. Counterclockwise Clockwise",
+        "B. Counterclockwise Counterclockwise",
+        "C. Clockwise Counterclockwise",
+        "D. Clockwise Clockwise",
+        "E. None None",
+        "A. Counterclockwise Clockwise",
+        "B. Counterclockwise Counterclockwise",
+        "C. Clockwise Counterclockwise",
+        "D. Clockwise Clockwise",
+        "E. None None"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_13",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 17 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_14",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 18 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_15",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 19 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_16",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 20 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_17",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 21 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_18",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 22 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_19",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 23 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_20",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 24 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_21",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 25 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_22",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 26 - MC Questions",
+      "options": [
+        "B. 一 5 一"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_23",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 27 - MC Questions",
+      "options": [
+        "A. 0V",
+        "B. 0.50 V",
+        "C. 0.75 V",
+        "D. 3.0V",
+        "E. 6.0V",
+        "A. 0.1 m",
+        "B. 0.2m",
+        "C. 0.4m",
+        "D. 0.6m",
+        "E. 0.8m"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_24",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 28 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_25",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 29 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_26",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 30 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_27",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 31 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_28",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 32 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_29",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 33 - MC Questions",
+      "options": [
+        "A. LI",
+        "B. PR",
+        "C. tip",
+        "D. LI+ PR",
+        "E. 7 LIX +I-R"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_30",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 34 - MC Questions",
+      "options": [
+        "A. Lonly",
+        "B. I only",
+        "C. Land III only",
+        "D. II and III only",
+        "E. L I and II",
+        "B. oa",
+        "D. 2r",
+        "E. 47"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_31",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 35 - MC Questions",
+      "options": [
+        "A. Zero",
+        "B. R",
+        "C. i Le",
+        "D. IER",
+        "A. It is zero.",
+        "B. Itis less than 7 but greater than zero.",
+        "C. Itis equal to ty.",
+        "D. It is greater than zp but not infinite.",
+        "E. Itis infinite."
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_32",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 36 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_33",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 37 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_34",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 38 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_35",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 39 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_36",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 40 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_37",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 41 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_38",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 42 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_39",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 43 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_40",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 44 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_41",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 45 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_42",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 46 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_43",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 47 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_44",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 48 - MC Questions",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U5-MC-mc_45",
+      "topic": "电磁感应",
+      "subTopic": "Electromagnetism",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U5",
+      "content": "Page 49 - MC Questions",
+      "options": [],
+      "answer": ""
+    }
+  ],
+  "timestamp": "2026-03-16T23:36:27.232Z"
+}

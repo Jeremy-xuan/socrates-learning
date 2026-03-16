@@ -1,0 +1,233 @@
+{
+  "knowledgePoint": "电路",
+  "summary": {
+    "coreConcepts": [
+      "电场强度",
+      "库仑定律",
+      "电势"
+    ],
+    "formulas": [
+      "E = F/q",
+      "E = kQ/r²",
+      "E = U/d"
+    ],
+    "keyPoints": [
+      "电场强度 定义：试探电荷在电场中某点所受电场力与试探电荷量的比值..."
+    ]
+  },
+  "examples": [
+    {
+      "title": "典型例题：电场强度",
+      "content": "详见课件内容",
+      "solution": "见课堂讲解"
+    }
+  ],
+  "mistakes": [
+    "混淆电场强度与电势的概念",
+    "忘记电场强度是矢量，需要考虑方向",
+    "库仑常数 k 取值错误（应为 9×10⁹ N·m²/C²）",
+    "计算时忘记试探电荷 q 的正负",
+    "忘记库仑力是矢量，需满足平行四边形定则",
+    "混淆作用力与反作用力",
+    "距离趋近于零时库仑力趋向无穷大（物理上不成立）"
+  ],
+  "recommendations": [
+    {
+      "id": "AP2021-E&M-Q1-a",
+      "topic": "电路",
+      "subTopic": "电容充电",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2021",
+      "content": "计算开关关闭后瞬间通过 R1 的电流（电容初始未充电）",
+      "parts": [
+        "计算电流",
+        "稳态电位差",
+        "计算电荷",
+        "开关打开后的电流",
+        "画电压-时间图"
+      ]
+    },
+    {
+      "id": "AP2021-E&M-Q1-b",
+      "topic": "电路",
+      "subTopic": "稳态电路",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2021",
+      "content": "计算稳态时 R1 两端的电位差"
+    },
+    {
+      "id": "AP2021-E&M-Q1-c",
+      "topic": "电路",
+      "subTopic": "电容串联",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2021",
+      "content": "计算电容器 C2 正极板上的电荷，并比较 C3 与 C2 的电荷大小"
+    },
+    {
+      "id": "AP2021-E&M-Q1-d",
+      "topic": "电路",
+      "subTopic": "电容放电",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2021",
+      "content": "开关打开后计算 R1 和 R2 的电流"
+    },
+    {
+      "id": "AP2021-E&M-Q1-e",
+      "topic": "电路",
+      "subTopic": "RC 电路",
+      "difficulty": "综合",
+      "type": "FRQ",
+      "year": "2021",
+      "content": "画电容器 C2 两端电压随时间变化的图像"
+    },
+    {
+      "id": "AP2021-E&M-Q1-f",
+      "topic": "电路",
+      "subTopic": "等效电容",
+      "difficulty": "综合",
+      "type": "FRQ",
+      "year": "2021",
+      "content": "C3 替换为两个串联的 10μF 电容，分析电压随时间变化曲线"
+    },
+    {
+      "id": "U3-FRQ-02",
+      "topic": "电路",
+      "subTopic": "串并联",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U3",
+      "content": "电路如图：电源 E=10V，R1=2Ω, R2=3Ω, R3=6Ω，求等效电阻和总电流",
+      "skills": [
+        "串并联分析",
+        "基尔霍夫定律"
+      ]
+    },
+    {
+      "id": "U3-FRQ-03",
+      "topic": "电路",
+      "subTopic": "RC 电路",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U3",
+      "content": "RC 电路中 R=10kΩ, C=100μF，求时间常数 τ 和充电到 95% 所需时间",
+      "skills": [
+        "RC 电路",
+        "时间常数"
+      ]
+    },
+    {
+      "id": "U3-FRQ-04",
+      "topic": "电路",
+      "subTopic": "功率分析",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U3",
+      "content": "电路中 4 个相同电阻 R=10Ω 组成.square，求等效电阻和各电阻功率比",
+      "skills": [
+        "等效电阻",
+        "功率分配"
+      ]
+    },
+    {
+      "id": "U3-FRQ-06",
+      "topic": "电路",
+      "difficulty": "基础",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U3",
+      "content": "电动势 E=12V，内阻 r=2Ω，外阻 R=4Ω，求端电压和输出功率"
+    },
+    {
+      "id": "U3-FRQ-07",
+      "topic": "电路",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U3",
+      "content": "惠斯通电桥中 R1=R2=10Ω，R3=15Ω，R4=？时电桥平衡"
+    },
+    {
+      "id": "U3-FRQ-08",
+      "topic": "电路",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U3",
+      "content": "复杂电路：用戴维南定理求等效电路和负载最大功率"
+    },
+    {
+      "id": "U3-FRQ-09",
+      "topic": "电路",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U3",
+      "content": "RL 电路：L=0.5H，R=10Ω，求时间常数和电流达到 90% 所需时间"
+    },
+    {
+      "id": "U3-FRQ-10",
+      "topic": "电路",
+      "difficulty": "综合",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U3",
+      "content": "含受控源的电路：电流源 I=2A，电阻 R=5Ω，求各支路电流"
+    },
+    {
+      "id": "U3-MC-01-current",
+      "topic": "电路",
+      "subTopic": "Circuits",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U3",
+      "content": "3.1 电流",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U3-MC-02-resistance",
+      "topic": "电路",
+      "subTopic": "Circuits",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U3",
+      "content": "3.2 电阻",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U3-MC-03-circuit-energy",
+      "topic": "电路",
+      "subTopic": "Circuits",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U3",
+      "content": "3.3 闭合电路 & 3.4 电能",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U3-MC-04-comprehensive",
+      "topic": "电路",
+      "subTopic": "Circuits",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U3",
+      "content": "综合测试",
+      "options": [],
+      "answer": ""
+    }
+  ],
+  "timestamp": "2026-03-16T23:36:27.229Z"
+}
