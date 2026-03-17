@@ -2,21 +2,11 @@ import type { NextApiRequest, NextApiResponse } from 'next'
 import fs from 'fs'
 import path from 'path'
 
-const ALLOWLIST = ['teacher/runtime', 'teacher/config']
+const RUNTIME_PREFIX = 'teacher/runtime/'
+const RUNTIME_ROOT = '/tmp/openclaw-state'
 
-function resolveAllowedPath(inputPath: string): string {
-  if (!inputPath) throw new Error('path is required')
-  if (path.isAbsolute(inputPath)) throw new Error('absolute path is forbidden')
-  if (inputPath.includes('..')) throw new Error('path traversal is forbidden')
-
-  const normalized = inputPath.replace(/\\/g, '/').replace(/^\.\//, '')
-  const allowed = ALLOWLIST.some((p) => normalized === p || normalized.startsWith(`${p}/`))
-  if (!allowed) throw new Error('path is not in allowlist')
-
-  // Vercel 环境：使用 workspace 根目录（/root/.openclaw/workspace-gongbu）
-  // 本地环境：使用相对路径
-  const workspaceRoot = process.env.OPENCLAW_WORKSPACE_ROOT || path.join(process.cwd(), '..')
-  return path.join(workspaceRoot, normalized)
+function normalize(inputPath: string) {
+  return inputPath.replace(/\\/g, '/').replace(/^\.\//, '')
 }
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
@@ -24,11 +14,17 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
 
   try {
     const { path: filePath, content } = req.body as { path?: string; content?: string }
-    if (typeof content !== 'string') {
-      return res.status(400).json({ error: 'content is required' })
+    if (typeof content !== 'string') return res.status(400).json({ error: 'content is required' })
+
+    const normalized = normalize(filePath || '')
+    if (!normalized.startsWith(RUNTIME_PREFIX)) {
+      return res.status(400).json({ success: false, error: 'write only allowed in teacher/runtime' })
+    }
+    if (normalized.startsWith('/') || normalized.includes('..')) {
+      return res.status(400).json({ success: false, error: 'invalid path' })
     }
 
-    const abs = resolveAllowedPath(filePath || '')
+    const abs = path.join(RUNTIME_ROOT, normalized)
     fs.mkdirSync(path.dirname(abs), { recursive: true })
     fs.writeFileSync(abs, content, 'utf8')
     return res.status(200).json({ success: true })

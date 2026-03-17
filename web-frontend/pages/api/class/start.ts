@@ -42,7 +42,7 @@ export default async function handler(
     const skipSync = isDev && process.env.SKIP_WECHAT_SYNC === 'true'
     
     if (!skipSync) {
-      const workspaceRoot = process.env.OPENCLAW_WORKSPACE_ROOT || path.join(process.cwd(), '..')
+      const workspaceRoot = process.env.OPENCLAW_WORKSPACE_ROOT || '/tmp/openclaw-state'
       const unreadPath = path.join(workspaceRoot, 'teacher/runtime/wechat_unread.md')
       const unreadContent = fs.existsSync(unreadPath) ? fs.readFileSync(unreadPath, 'utf8').trim() : ''
       const synced = unreadContent.includes('已同步') || unreadContent.includes('无未读') || unreadContent.includes('（空）')
