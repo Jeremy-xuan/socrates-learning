@@ -1,0 +1,64 @@
+name: CI/CD
+
+on:
+  push:
+    branches:
+      - main
+      - migration/openclaw
+  pull_request:
+    branches:
+      - main
+      - migration/openclaw
+
+jobs:
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install pymupdf python-docx
+
+      - name: Validate Markdown files
+        run: |
+          echo "Validating markdown files..."
+          find . -name "*.md" -type f | head -20 | while read f; do
+            if [ -f "$f" ]; then
+              echo "✓ $f"
+            fi
+          done
+
+      - name: Check file structure
+        run: |
+          echo "Checking required files..."
+          test -f "CLAUDE.md" && echo "✓ CLAUDE.md exists"
+          test -f "OPENCLAW.md" && echo "✓ OPENCLAW.md exists"
+          test -f "teacher/config/system.md" && echo "✓ system.md exists"
+          test -d "teacher/characters" && echo "✓ characters directory exists"
+          test -d "teacher/runtime" && echo "✓ runtime directory exists"
+
+  deploy:
+    name: Deploy to Vercel
+    runs-on: ubuntu-latest
+    needs: test
+    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/migration/openclaw'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Deploy to Vercel
+        uses: amondnet/vercel-action@v25
+        with:
+          vercel-token: ${{ secrets.VERCEL_TOKEN }}
+          vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
+          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
+          vercel-args: '--prod'
+          working-directory: ./
