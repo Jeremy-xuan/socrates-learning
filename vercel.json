@@ -1,11 +1,18 @@
 {
   "version": 2,
   "name": "socrates-learning",
-  "buildCommand": null,
-  "devCommand": null,
-  "installCommand": null,
-  "framework": null,
-  "outputDirectory": null,
+  "builds": [
+    {
+      "src": "index.html",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ],
   "env": {
     "OPENCLAW_MODEL": "bailian/qwen3.5-plus",
     "OPENCLAW_WORKSPACE": "./teacher"

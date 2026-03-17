@@ -1,6 +1,21 @@
 // lib/openclaw.ts — OpenClaw 后端集成
 
-import { sessions_spawn, sessions_send, sessions_history, read, write } from '@openclaw/tools'
+import {
+  spawnTeacherAgent,
+  sendToAgent,
+  getAgentHistory,
+  readFile,
+  writeFile
+} from './openclaw-local'
+
+// 重新导出以兼容现有代码
+export {
+  spawnTeacherAgent as sessions_spawn,
+  sendToAgent as sessions_send,
+  getAgentHistory as sessions_history,
+  readFile as read,
+  writeFile as write
+}
 
 // 角色名称映射
 const TEACHER_NAMES: Record<string, string> = {
@@ -44,21 +59,8 @@ export async function spawnPdfReader({
   return session
 }
 
-// 发送消息到 Agent
-export async function sendToAgent({
-  sessionId,
-  message
-}: {
-  sessionId: string
-  message: string
-}) {
-  const result = await sessions_send({
-    sessionKey: sessionId,
-    message
-  })
-
-  return result
-}
+// 发送消息到 Agent（已从上方的 openclaw-local 导入）
+// export { sendToAgent } from './openclaw-local'
 
 // 获取对话历史
 export async function getClassHistory({

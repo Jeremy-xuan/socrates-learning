@@ -11,7 +11,8 @@
     "GITHUB_REPO": "socrates-learning",
     "GITHUB_BRANCH": "main",
     "OPENCLAW_MODEL": "bailian/qwen3.5-plus",
-    "OPENCLAW_WORKSPACE": "./teacher"
+    "OPENCLAW_WORKSPACE": "./teacher",
+    "NEXT_PUBLIC_OPENCLAW_API_URL": "http://localhost:3001"
   },
   "github": {
     "silent": false,
