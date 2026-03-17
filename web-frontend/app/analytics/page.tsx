@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function DashboardPage() {
+export default function AnalyticsPage() {
   return (
     <div className="min-h-screen bg-slate-50">
       {/* Header */}
@@ -11,7 +11,7 @@ export default function DashboardPage() {
             <Link href="/classroom" className="hover:underline">上课</Link>
             <Link href="/chat" className="hover:underline">群聊</Link>
             <Link href="/settings" className="hover:underline">配置</Link>
-            <Link href="/analytics" className="hover:underline">统计</Link>
+            <Link href="/analytics" className="underline">统计</Link>
             <Link href="/config" className="hover:underline">API</Link>
           </nav>
         </div>
@@ -19,14 +19,10 @@ export default function DashboardPage() {
 
       {/* Main */}
       <main className="max-w-6xl mx-auto p-6">
-        <h1 className="text-3xl font-bold text-slate-800 mb-6">📊 学习仪表盘</h1>
+        <h1 className="text-3xl font-bold text-slate-800 mb-6">📊 学习统计</h1>
         
-        {/* Stats */}
-        <div className="grid md:grid-cols-4 gap-4 mb-6">
-          <div className="bg-white rounded-lg shadow p-6 text-center">
-            <div className="text-4xl font-bold text-blue-600">65%</div>
-            <div className="text-slate-600 mt-2">整体进度</div>
-          </div>
+        {/* 统计卡片 */}
+        <div className="grid md:grid-cols-4 gap-4 mb-8">
           <div className="bg-white rounded-lg shadow p-6 text-center">
             <div className="text-4xl font-bold text-blue-600">178</div>
             <div className="text-slate-600 mt-2">已做题数</div>
@@ -39,15 +35,19 @@ export default function DashboardPage() {
             <div className="text-4xl font-bold text-orange-600">12</div>
             <div className="text-slate-600 mt-2">错题数</div>
           </div>
+          <div className="bg-white rounded-lg shadow p-6 text-center">
+            <div className="text-4xl font-bold text-purple-600">65%</div>
+            <div className="text-slate-600 mt-2">整体进度</div>
+          </div>
         </div>
 
-        {/* Unit Progress */}
+        {/* 单元进度 */}
         <div className="bg-white rounded-lg shadow p-6 mb-6">
           <h2 className="text-xl font-semibold text-slate-700 mb-4">单元进度</h2>
-          <div className="space-y-3">
+          <div className="space-y-4">
             {[
               { name: 'U1 静电学', progress: 100 },
-              { name: 'U2 电容', progress: 85 },
+              { name: 'U2 电容/导体', progress: 85 },
               { name: 'U3 电路', progress: 60 },
               { name: 'U4 磁场', progress: 45 },
               { name: 'U5 电磁感应', progress: 20 }
@@ -68,22 +68,18 @@ export default function DashboardPage() {
           </div>
         </div>
 
-        {/* Recent Activity */}
+        {/* 薄弱点 */}
         <div className="bg-white rounded-lg shadow p-6">
-          <h2 className="text-xl font-semibold text-slate-700 mb-4">最近活动</h2>
-          <div className="space-y-3">
+          <h2 className="text-xl font-semibold text-slate-700 mb-4">需要加强</h2>
+          <div className="grid md:grid-cols-3 gap-4">
             {[
-              { action: '完成 U2 电容练习', time: '10 分钟前', icon: '✅' },
-              { action: '错题复习：高斯定理', time: '1 小时前', icon: '📖' },
-              { action: '预习 Agent 推荐题目', time: '2 小时前', icon: '🤖' },
-              { action: '完成 U1 单元测试', time: '昨天', icon: '🎯' }
-            ].map((item, i) => (
-              <div key={i} className="flex items-center gap-3 p-3 bg-slate-50 rounded">
-                <span className="text-xl">{item.icon}</span>
-                <div className="flex-1">
-                  <div className="font-medium text-slate-700">{item.action}</div>
-                  <div className="text-sm text-slate-500">{item.time}</div>
-                </div>
+              { topic: '电磁感应', accuracy: '58%' },
+              { topic: '电路分析', accuracy: '65%' },
+              { topic: '电势能', accuracy: '72%' }
+            ].map((item) => (
+              <div key={item.topic} className="border rounded-lg p-4">
+                <div className="font-medium text-slate-700">{item.topic}</div>
+                <div className="text-sm text-slate-500 mt-1">正确率：{item.accuracy}</div>
               </div>
             ))}
           </div>
