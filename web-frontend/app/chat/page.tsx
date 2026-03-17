@@ -1,36 +1,24 @@
-import Link from "next/link";
+"use client";
+import { useState } from "react";
 
 export default function ChatPage() {
-  return (
-    <div className="min-h-screen bg-slate-50">
-      {/* Header */}
-      <header className="bg-blue-600 text-white py-4">
-        <div className="max-w-6xl mx-auto px-4 flex justify-between items-center">
-          <Link href="/" className="text-lg font-bold">苏格拉底学习系统</Link>
-          <nav className="flex gap-4">
-            <Link href="/classroom" className="hover:underline">上课</Link>
-            <Link href="/chat" className="underline">群聊</Link>
-            <Link href="/settings" className="hover:underline">配置</Link>
-            <Link href="/analytics" className="hover:underline">统计</Link>
-            <Link href="/config" className="hover:underline">API</Link>
-          </nav>
-        </div>
-      </header>
+  const [text, setText] = useState("");
+  const [messages, setMessages] = useState<string[]>([
+    "紅莉栖：先把今天电场知识点过一遍。",
+    "公生：我补一张图帮你建立直觉。",
+    "蕾娜：先同步未读，再开课。",
+  ]);
 
-      {/* Main */}
-      <main className="max-w-6xl mx-auto p-6">
-        <h1 className="text-3xl font-bold text-slate-800 mb-6">💬 学习群聊</h1>
-        
-        <div className="bg-white rounded-lg shadow p-6">
-          <p className="text-slate-600 mb-4">与老师和同学讨论问题，分享学习心得。</p>
-          
-          {/* Chat placeholder */}
-          <div className="border rounded-lg p-8 text-center bg-slate-50">
-            <p className="text-slate-500">群聊功能开发中...</p>
-            <p className="text-sm text-slate-400 mt-2">即将支持微信群消息同步</p>
-          </div>
-        </div>
-      </main>
+  return (
+    <div className="card p-6">
+      <h2 className="text-xl font-semibold">四重奏群聊</h2>
+      <div className="mt-4 h-80 overflow-y-auto rounded-xl border border-slate-200 bg-slate-50 p-4 text-sm">
+        {messages.map((m, i) => (<div key={i} className="mb-2 text-slate-700">{m}</div>))}
+      </div>
+      <div className="mt-4 flex gap-2">
+        <input value={text} onChange={(e) => setText(e.target.value)} placeholder="输入消息…" className="flex-1 rounded-lg border border-slate-300 px-3 py-2" />
+        <button onClick={() => { if (!text.trim()) return; setMessages((p) => [...p, `你：${text}`]); setText(""); }} className="rounded-lg bg-blue-600 px-4 py-2 text-white hover:bg-blue-700">发送</button>
+      </div>
     </div>
   );
 }

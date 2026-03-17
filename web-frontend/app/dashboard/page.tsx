@@ -1,94 +1,14 @@
-import Link from "next/link";
+const cards = [["总进度", "65%"],["完成题数", "178"],["正确率", "92%"],["错题", "12"]] as const;
 
 export default function DashboardPage() {
   return (
-    <div className="min-h-screen bg-slate-50">
-      {/* Header */}
-      <header className="bg-blue-600 text-white py-4">
-        <div className="max-w-6xl mx-auto px-4 flex justify-between items-center">
-          <Link href="/" className="text-lg font-bold">苏格拉底学习系统</Link>
-          <nav className="flex gap-4">
-            <Link href="/classroom" className="hover:underline">上课</Link>
-            <Link href="/chat" className="hover:underline">群聊</Link>
-            <Link href="/settings" className="hover:underline">配置</Link>
-            <Link href="/analytics" className="hover:underline">统计</Link>
-            <Link href="/config" className="hover:underline">API</Link>
-          </nav>
-        </div>
-      </header>
-
-      {/* Main */}
-      <main className="max-w-6xl mx-auto p-6">
-        <h1 className="text-3xl font-bold text-slate-800 mb-6">📊 学习仪表盘</h1>
-        
-        {/* Stats */}
-        <div className="grid md:grid-cols-4 gap-4 mb-6">
-          <div className="bg-white rounded-lg shadow p-6 text-center">
-            <div className="text-4xl font-bold text-blue-600">65%</div>
-            <div className="text-slate-600 mt-2">整体进度</div>
-          </div>
-          <div className="bg-white rounded-lg shadow p-6 text-center">
-            <div className="text-4xl font-bold text-blue-600">178</div>
-            <div className="text-slate-600 mt-2">已做题数</div>
-          </div>
-          <div className="bg-white rounded-lg shadow p-6 text-center">
-            <div className="text-4xl font-bold text-green-600">92%</div>
-            <div className="text-slate-600 mt-2">正确率</div>
-          </div>
-          <div className="bg-white rounded-lg shadow p-6 text-center">
-            <div className="text-4xl font-bold text-orange-600">12</div>
-            <div className="text-slate-600 mt-2">错题数</div>
-          </div>
-        </div>
-
-        {/* Unit Progress */}
-        <div className="bg-white rounded-lg shadow p-6 mb-6">
-          <h2 className="text-xl font-semibold text-slate-700 mb-4">单元进度</h2>
-          <div className="space-y-3">
-            {[
-              { name: 'U1 静电学', progress: 100 },
-              { name: 'U2 电容', progress: 85 },
-              { name: 'U3 电路', progress: 60 },
-              { name: 'U4 磁场', progress: 45 },
-              { name: 'U5 电磁感应', progress: 20 }
-            ].map((unit) => (
-              <div key={unit.name}>
-                <div className="flex justify-between mb-1">
-                  <span className="text-sm font-medium text-slate-700">{unit.name}</span>
-                  <span className="text-sm text-slate-600">{unit.progress}%</span>
-                </div>
-                <div className="w-full bg-slate-200 rounded-full h-2">
-                  <div
-                    className="bg-blue-600 h-2 rounded-full"
-                    style={{ width: `${unit.progress}%` }}
-                  />
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-
-        {/* Recent Activity */}
-        <div className="bg-white rounded-lg shadow p-6">
-          <h2 className="text-xl font-semibold text-slate-700 mb-4">最近活动</h2>
-          <div className="space-y-3">
-            {[
-              { action: '完成 U2 电容练习', time: '10 分钟前', icon: '✅' },
-              { action: '错题复习：高斯定理', time: '1 小时前', icon: '📖' },
-              { action: '预习 Agent 推荐题目', time: '2 小时前', icon: '🤖' },
-              { action: '完成 U1 单元测试', time: '昨天', icon: '🎯' }
-            ].map((item, i) => (
-              <div key={i} className="flex items-center gap-3 p-3 bg-slate-50 rounded">
-                <span className="text-xl">{item.icon}</span>
-                <div className="flex-1">
-                  <div className="font-medium text-slate-700">{item.action}</div>
-                  <div className="text-sm text-slate-500">{item.time}</div>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </main>
+    <div className="space-y-4">
+      <h2 className="text-xl font-semibold">学习仪表盘</h2>
+      <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
+        {cards.map(([k, v]) => (
+          <div key={k} className="card p-5"><div className="text-sm text-slate-500">{k}</div><div className="mt-2 text-2xl font-semibold text-blue-700">{v}</div></div>
+        ))}
+      </div>
     </div>
   );
 }
