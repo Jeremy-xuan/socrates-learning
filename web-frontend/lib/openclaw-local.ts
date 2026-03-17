@@ -41,6 +41,11 @@ export async function sendToAgent({
   return response.json()
 }
 
+// 获取历史（占位：当前网关未开放 history，返回空数组）
+export async function getAgentHistory({ sessionKey, limit = 20 }: { sessionKey: string; limit?: number }) {
+  return { sessionKey, limit, messages: [] }
+}
+
 // 读取文件
 export async function readFile(path: string) {
   const response = await fetch(`${API_BASE}/read`, {
