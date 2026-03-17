@@ -1,0 +1,1564 @@
+{
+  "knowledgePoint": "电容",
+  "summary": {
+    "coreConcepts": [
+      "电场强度",
+      "库仑定律",
+      "电势"
+    ],
+    "formulas": [
+      "E = F/q",
+      "E = kQ/r²",
+      "E = U/d"
+    ],
+    "keyPoints": [
+      "电场强度 定义：试探电荷在电场中某点所受电场力与试探电荷量的比值..."
+    ]
+  },
+  "examples": [
+    {
+      "title": "典型例题：电场强度",
+      "content": "详见课件内容",
+      "solution": "见课堂讲解"
+    }
+  ],
+  "mistakes": [
+    "混淆电场强度与电势的概念",
+    "忘记电场强度是矢量，需要考虑方向",
+    "库仑常数 k 取值错误（应为 9×10⁹ N·m²/C²）",
+    "计算时忘记试探电荷 q 的正负",
+    "忘记库仑力是矢量，需满足平行四边形定则",
+    "混淆作用力与反作用力",
+    "距离趋近于零时库仑力趋向无穷大（物理上不成立）"
+  ],
+  "recommendations": [
+    {
+      "id": "Q011",
+      "topic": "电容",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "content": "电容的定义式"
+    },
+    {
+      "id": "Q012",
+      "topic": "电容",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "content": "平行板电容器的电容计算"
+    },
+    {
+      "id": "U2-FRQ-01",
+      "topic": "电容",
+      "subTopic": "电容定义",
+      "difficulty": "基础",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U2",
+      "content": "平行板电容器极板面积 A=0.01m²，间距 d=0.001m，求电容值",
+      "skills": [
+        "电容公式",
+        "平行板电容器"
+      ]
+    },
+    {
+      "id": "U2-FRQ-02",
+      "topic": "电容",
+      "subTopic": "能量储存",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U2",
+      "content": "电容器 C=10μF 充电至电压 V=100V，计算储存的电场能量",
+      "skills": [
+        "电容储能公式",
+        "电能计算"
+      ]
+    },
+    {
+      "id": "U2-FRQ-03",
+      "topic": "电容",
+      "subTopic": "串并联",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U2",
+      "content": "三个电容 C1=2μF, C2=3μF, C3=6μF 分别串联和并联，求等效电容",
+      "skills": [
+        "串并联等效",
+        "电容计算"
+      ]
+    },
+    {
+      "id": "U2-FRQ-04",
+      "topic": "电容",
+      "subTopic": "介质影响",
+      "difficulty": "综合",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U2",
+      "content": "平行板电容器插入介质（κ=4），保持电荷不变，求电压变化和能量变化",
+      "skills": [
+        "介质常数",
+        "能量守恒"
+      ]
+    },
+    {
+      "id": "U2-MC-01",
+      "topic": "电容",
+      "subTopic": "基本概念",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "平行板电容器极板间距减半，电容如何变化？",
+      "options": [
+        "A. 不变",
+        "B. 加倍",
+        "C. 减半",
+        "D. 变为1/4"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "U2-FRQ-06",
+      "topic": "电容",
+      "difficulty": "基础",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U2",
+      "content": "球形电容器内导体半径 a，外导体半径 b，求电容表达式"
+    },
+    {
+      "id": "U2-FRQ-07",
+      "topic": "电容",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U2",
+      "content": "两个电容器 C1=2μF（充电至 100V）和 C2=4μF（充电至 50V）并联，求等效电容和总电荷"
+    },
+    {
+      "id": "U2-FRQ-08",
+      "topic": "电容",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U2",
+      "content": "电容器带电 Q=10μC，极板间距离增大一倍（不断电），求电场强度变化"
+    },
+    {
+      "id": "U2-FRQ-09",
+      "topic": "电容",
+      "difficulty": "综合",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U2",
+      "content": "平行板电容器间距 d=2mm，面积 A=0.01m²，介电常数 ε=2ε0，求电容和储能"
+    },
+    {
+      "id": "U2-FRQ-10",
+      "topic": "电容",
+      "difficulty": "综合",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U2",
+      "content": "电容器充电后断开电源，插入介质板，求电压和能量的变化"
+    },
+    {
+      "id": "U2-MC-q01",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q1",
+      "options": [
+        "A. Current only",
+        "B. Current and drift velocity",
+        "C. Current and charge carrier density",
+        "D. Current, drift velocity, and charge carrier density"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q02",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q2",
+      "options": [
+        "A. A metallic conductor at room temperature",
+        "B. A semiconductor diode",
+        "C. A good conductor",
+        "D. A vacuum tube"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q03",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q3",
+      "options": [
+        "A. J = I/πR²",
+        "B. J = I/2πR",
+        "C. J = IR²",
+        "D. J = I²/πR"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q04",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q4",
+      "options": [
+        "A. The wire with the larger radius",
+        "B. The wire with the smaller radius",
+        "C. Both wires have the same current",
+        "D. Cannot be determined without more information"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q05",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q5",
+      "options": [
+        "A. It remains the same",
+        "B. It doubles",
+        "C. It quadruples",
+        "D. It becomes eight times larger"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q06",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q6",
+      "options": [
+        "A. v/2",
+        "B. v",
+        "C. 2v",
+        "D. 4v"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q07",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q7",
+      "options": [
+        "A. 1.6 × 10⁻¹⁹",
+        "B. 6.25 × 10¹⁸",
+        "C. 1 × 10¹⁹",
+        "D. 1.6 × 10¹⁹"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q08",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q8",
+      "options": [
+        "A. 10 C",
+        "B. 300 C",
+        "C. 600 C"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q09",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q9",
+      "options": [
+        "A. 30 J",
+        "B. 360 J",
+        "C. 120 J",
+        "D. 36 J"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q10",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q10",
+      "options": [
+        "A. 0.3 A",
+        "B. 0.5 A",
+        "C. 30 A",
+        "D. 120 A"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q11",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q11",
+      "options": [
+        "A. R",
+        "B. 2R",
+        "C. 4R",
+        "D. 8R"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q12",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q12",
+      "options": [
+        "A. The number of free electrons increases",
+        "B. The number of free electrons decreases",
+        "C. The lattice ions vibrate more, increasing electron scattering",
+        "D. The length of the conductor increases"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q13",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q13",
+      "options": [
+        "A. 10 Ω",
+        "B. 12 Ω",
+        "C. 14 Ω",
+        "D. 20 Ω"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q14",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q14",
+      "options": [
+        "A. Ω",
+        "B. Ω/m",
+        "C. Ω·m",
+        "D. Ω/m²"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q15",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q15",
+      "options": [
+        "A. R₁ + R₂",
+        "B. (R₁R₂)/(R₁ + R₂)",
+        "C. R₁R₂",
+        "D. (R₁ + R₂)/2"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q16",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q16",
+      "options": [
+        "A. R₁ + R₂",
+        "B. (R₁R₂)/(R₁ + R₂)",
+        "C. R₁R₂",
+        "D. (R₁ + R₂)/2"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q17",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q17",
+      "options": [
+        "A. 0.2 A",
+        "B. 0.3 A",
+        "C. 0.6 A",
+        "D. 1.8 A"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q18",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q18",
+      "options": [
+        "A. 0.2 A",
+        "B. 0.3 A",
+        "C. 0.9 A",
+        "D. 1.8 A"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q19",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q19",
+      "options": [
+        "A. Voltage",
+        "B. Current",
+        "C. Resistance",
+        "D. Power"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q20",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q20",
+      "options": [
+        "A. Voltage",
+        "B. Current",
+        "C. Resistance",
+        "D. Power"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q21",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q21",
+      "options": [
+        "A. P = IV",
+        "B. P = I²R",
+        "C. P = V²/R",
+        "D. All of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q22",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q22",
+      "options": [
+        "A. 0.12 W",
+        "B. 1.44 W",
+        "C. 12 W",
+        "D. 1200 W"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q23",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q23",
+      "options": [
+        "A. 0.2 Ω",
+        "B. 2 Ω",
+        "C. 5 Ω",
+        "D. 500 Ω"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q24",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q24",
+      "options": [
+        "A. volt",
+        "B. ampere",
+        "C. watt",
+        "D. ohm"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q25",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q25",
+      "options": [
+        "A. Length",
+        "B. Cross-sectional area",
+        "C. Temperature",
+        "D. Both length and cross-sectional area"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q26",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q26",
+      "options": [
+        "A. Copper",
+        "B. Aluminum",
+        "C. Silicon",
+        "D. Glass"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q27",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q27",
+      "options": [
+        "A. resistance",
+        "B. resistivity",
+        "C. current",
+        "D. voltage"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q28",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q28",
+      "options": [
+        "A. 6.25 × 10¹⁹",
+        "B. 1.6 × 10¹⁹",
+        "C. 4 × 10¹⁹",
+        "D. 6.25 × 10¹⁸"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q29",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q29",
+      "options": [
+        "A. 10⁶ m/s",
+        "B. 10⁴ m/s",
+        "C. 10⁻⁴ m/s",
+        "D. 10⁻⁸ m/s"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q30",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q30",
+      "options": [
+        "A. J = σ/E",
+        "B. J = σE",
+        "C. J = E/σ",
+        "D. J = σ²E"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q31",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q31",
+      "options": [
+        "A. I = ε/R",
+        "B. I = ε/(R + r)",
+        "C. I = εr/R",
+        "D. I = ε/Rr"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q32",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q32",
+      "options": [
+        "A. V = ε",
+        "B. V = ε + Ir",
+        "C. V = ε - Ir",
+        "D. V = ε/r"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q33",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q33",
+      "options": [
+        "A. 2 A",
+        "B. 2.18 A",
+        "C. 2.4 A",
+        "D. 24 A"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q34",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q34",
+      "options": [
+        "A. 12 V",
+        "B. 10.91 V",
+        "C. 9 V",
+        "D. 6 V"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q35",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q35",
+      "options": [
+        "A. Measuring the open-circuit voltage",
+        "B. Measuring the voltage under load and no-load conditions",
+        "C. Measuring the current",
+        "D. Measuring the resistance directly"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q36",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q36",
+      "options": [
+        "A. The same as one battery",
+        "B. n times the emf of one battery",
+        "C. 1/n times the emf of one battery",
+        "D. n² times the emf of one battery"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q37",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q37",
+      "options": [
+        "A. r",
+        "B. r/n",
+        "C. nr",
+        "D. n²r"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q38",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q38",
+      "options": [
+        "A. Conservation of charge",
+        "B. Conservation of energy",
+        "C. Conservation of momentum",
+        "D. Conservation of mass"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q39",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q39",
+      "options": [
+        "A. Conservation of charge",
+        "B. Conservation of energy",
+        "C. Conservation of momentum",
+        "D. Conservation of mass"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q40",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q40",
+      "options": [
+        "A. Direction of electron flow",
+        "B. Direction of proton flow",
+        "C. Direction of positive charge flow",
+        "D. Direction of negative charge flow"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q41",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q41",
+      "options": [
+        "A. V = IR",
+        "B. R = VI",
+        "C. I = VR",
+        "D. All of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q42",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q42",
+      "options": [
+        "A. 5 V",
+        "B. 12 V",
+        "C. 20 V",
+        "D. 0.2 V"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q43",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q43",
+      "options": [
+        "A. Zero",
+        "B. Very small",
+        "C. Very large",
+        "D. Equal to the circuit resistance"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q44",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q44",
+      "options": [
+        "A. Zero",
+        "B. Very small",
+        "C. Very large",
+        "D. Equal to the circuit resistance"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q45",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q45",
+      "options": [
+        "A. Silver",
+        "B. Copper",
+        "C. Gold",
+        "D. Aluminum"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q46",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q46",
+      "options": [
+        "A. The length of the wire",
+        "B. The cross-sectional area",
+        "C. The type of metal",
+        "D. The temperature only"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q47",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q47",
+      "options": [
+        "A. Drift velocity",
+        "B. Current density",
+        "C. Resistivity",
+        "D. Power"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q48",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q48",
+      "options": [
+        "A. Maximum at the surface",
+        "B. Maximum at the center",
+        "C. Uniform across the cross-section",
+        "D. Zero at the surface"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q49",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q49",
+      "options": [
+        "A. A·m²",
+        "B. A/m²",
+        "C. A·m",
+        "D. A"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q50",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q50",
+      "options": [
+        "A. They have infinite resistance",
+        "B. They have zero resistance below a critical temperature",
+        "C. Their resistance increases with temperature",
+        "D. Their resistance is always constant"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q51",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q51",
+      "options": [
+        "A. 10 Ω ± 5%",
+        "B. 100 Ω ± 5%",
+        "C. 1000 Ω ± 5%",
+        "D. 10000 Ω ± 5%"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q52",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q52",
+      "options": [
+        "A. Positive",
+        "B. Negative",
+        "C. Zero",
+        "D. Infinite"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q53",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q53",
+      "options": [
+        "A. Positive",
+        "B. Negative",
+        "C. Zero",
+        "D. Infinite"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q54",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q54",
+      "options": [
+        "A. Ampere",
+        "B. Volt",
+        "C. Ohm",
+        "D. Watt"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q55",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q55",
+      "options": [
+        "A. Only the battery voltage",
+        "B. Only the resistor value",
+        "C. Both voltage and resistance",
+        "D. Neither voltage nor resistance"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q56",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q56",
+      "options": [
+        "A. 20 Ω",
+        "B. 10 Ω",
+        "C. 5 Ω",
+        "D. 0.5 Ω"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q57",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q57",
+      "options": [
+        "A. IV",
+        "B. I²R",
+        "C. V²/R",
+        "D. All of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q58",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q58",
+      "options": [
+        "A. Doubles",
+        "B. Halves",
+        "C. Remains the same",
+        "D. Quadruples"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q59",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q59",
+      "options": [
+        "A. Length",
+        "B. Cross-sectional area",
+        "C. Temperature",
+        "D. Resistivity"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q60",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q60",
+      "options": [
+        "A. 2 Ω",
+        "B. 72 Ω",
+        "C. 240 Ω",
+        "D. 7200 Ω"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q61",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q61",
+      "options": [
+        "A. Copper",
+        "B. Silver",
+        "C. Rubber",
+        "D. Aluminum"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q62",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q62",
+      "options": [
+        "A. Is the same",
+        "B. Depends on the resistance",
+        "C. Is zero",
+        "D. Is maximum across the smallest resistor"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q63",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q63",
+      "options": [
+        "A. Electric magnetic force",
+        "B. Electromotive force",
+        "C. Electron motive force",
+        "D. Energy magnetic force"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q64",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q64",
+      "options": [
+        "A. The maximum voltage it can handle",
+        "B. The maximum current it can handle",
+        "C. The maximum power it can dissipate without damage",
+        "D. Its resistance value"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q65",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q65",
+      "options": [
+        "A. Large resistance in series",
+        "B. Small resistance in series",
+        "C. Large resistance in parallel",
+        "D. Small resistance in parallel"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q66",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q66",
+      "options": [
+        "A. Large resistance in series",
+        "B. Small resistance in series",
+        "C. Large resistance in parallel",
+        "D. Small resistance in parallel"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q67",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q67",
+      "options": [
+        "A. Current flows through the galvanometer",
+        "B. No current flows through the galvanometer",
+        "C. Voltage across the bridge is zero",
+        "D. Resistance is zero"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q68",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q68",
+      "options": [
+        "A. Voltage",
+        "B. Current",
+        "C. Resistance",
+        "D. Power"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q69",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q69",
+      "options": [
+        "A. Current",
+        "B. Resistance",
+        "C. Emf of a cell",
+        "D. Power"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q70",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q70",
+      "options": [
+        "A. R₁R₂ = R₃R₄",
+        "B. R₁R₃ = R₂R₄",
+        "C. R₁ + R₂ = R₃ + R₄",
+        "D. R₁/R₂ = R₃/R₄"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q71",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q71",
+      "options": [
+        "A. Magnetic effect",
+        "B. Chemical effect",
+        "C. Heating effect",
+        "D. Mechanical effect"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q72",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q72",
+      "options": [
+        "A. Electric heater",
+        "B. Electric bulb",
+        "C. Electroplating",
+        "D. Electric fan"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q73",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q73",
+      "options": [
+        "A. The sum of individual emfs",
+        "B. The average of individual emfs",
+        "C. The same as one battery",
+        "D. Zero"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q74",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q74",
+      "options": [
+        "A. Ohm",
+        "B. Millikan",
+        "C. Faraday",
+        "D. Thomson"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q75",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q75",
+      "options": [
+        "A. Length only",
+        "B. Area only",
+        "C. Material only",
+        "D. All of the above"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q76",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q76",
+      "options": [
+        "A. Fleming's left-hand rule",
+        "B. Fleming's right-hand rule",
+        "C. Ohm's law",
+        "D. Kirchhoff's law"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q77",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q77",
+      "options": [
+        "A. ε = V + Ir",
+        "B. ε = V - Ir",
+        "C. ε = V × Ir",
+        "D. ε = V/I"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q78",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q78",
+      "options": [
+        "A. 1 Ω",
+        "B. 2 Ω",
+        "C. 5 Ω",
+        "D. 10 Ω"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q79",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q79",
+      "options": [
+        "A. V/ε",
+        "B. ε/V",
+        "C. IR/V",
+        "D. VI/ε"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q80",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q80",
+      "options": [
+        "A. Ω",
+        "B. Ω/m",
+        "C. S/m",
+        "D. Ω·m"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q81",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q81",
+      "options": [
+        "A. Equal to the sum of individual powers",
+        "B. Less than the sum",
+        "C. Greater than the sum",
+        "D. Equal to the power of the smallest resistor"
+      ],
+      "answer": ""
+    },
+    {
+      "id": "U2-MC-q82",
+      "topic": "电容",
+      "subTopic": "Conductors",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U2",
+      "content": "Q82",
+      "options": [
+        "A. All materials",
+        "B. Metallic conductors",
+        "C. Only semiconductors",
+        "D. Only insulators"
+      ],
+      "answer": ""
+    }
+  ],
+  "timestamp": "2026-03-16T23:36:27.227Z"
+}

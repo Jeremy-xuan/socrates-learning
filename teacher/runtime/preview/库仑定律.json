@@ -1,0 +1,73 @@
+{
+  "knowledgePoint": "库仑定律",
+  "summary": {
+    "coreConcepts": [
+      "电场强度",
+      "库仑定律",
+      "电势"
+    ],
+    "formulas": [
+      "E = F/q",
+      "E = kQ/r²",
+      "E = U/d"
+    ],
+    "keyPoints": [
+      "电场强度 定义：试探电荷在电场中某点所受电场力与试探电荷量的比值..."
+    ]
+  },
+  "examples": [
+    {
+      "title": "典型例题：电场强度",
+      "content": "详见课件内容",
+      "solution": "见课堂讲解"
+    }
+  ],
+  "mistakes": [
+    "混淆电场强度与电势的概念",
+    "忘记电场强度是矢量，需要考虑方向",
+    "库仑常数 k 取值错误（应为 9×10⁹ N·m²/C²）",
+    "计算时忘记试探电荷 q 的正负",
+    "忘记库仑力是矢量，需满足平行四边形定则",
+    "混淆作用力与反作用力",
+    "距离趋近于零时库仑力趋向无穷大（物理上不成立）"
+  ],
+  "recommendations": [
+    {
+      "id": "AP2021-E&M-Q2-a",
+      "topic": "库仑定律",
+      "subTopic": "点电荷力",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2021",
+      "content": "分析 F 与 1/d² 的关系，计算电荷 Q 的值"
+    },
+    {
+      "id": "AP2021-E&M-Q2-b",
+      "topic": "库仑定律",
+      "subTopic": "电荷泄漏",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2021",
+      "content": "分析电荷泄漏是否可以解释实验偏差"
+    },
+    {
+      "id": "AP2021-E&M-Q2-c",
+      "topic": "库仑定律",
+      "subTopic": "极化效应",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2021",
+      "content": "分析导体极化对实验结果的影响"
+    },
+    {
+      "id": "AP2021-E&M-Q2-d",
+      "topic": "库仑定律",
+      "subTopic": "异种电荷",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2021",
+      "content": "分析异性电荷与同性电荷情况下力的大小关系"
+    }
+  ],
+  "timestamp": "2026-03-16T23:21:52.251Z"
+}

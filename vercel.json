@@ -12,5 +12,14 @@
       "src": "/(.*)",
       "dest": "/index.html"
     }
-  ]
+  ],
+  "env": {
+    "OPENCLAW_MODEL": "bailian/qwen3.5-plus",
+    "OPENCLAW_WORKSPACE": "./teacher"
+  },
+  "github": {
+    "enabled": true,
+    "silent": false,
+    "autoJobCancelation": true
+  }
 }

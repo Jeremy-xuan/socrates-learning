@@ -1,0 +1,191 @@
+{
+  "knowledgePoint": "磁场",
+  "summary": {
+    "coreConcepts": [
+      "电场强度",
+      "库仑定律",
+      "电势"
+    ],
+    "formulas": [
+      "E = F/q",
+      "E = kQ/r²",
+      "E = U/d"
+    ],
+    "keyPoints": [
+      "电场强度 定义：试探电荷在电场中某点所受电场力与试探电荷量的比值..."
+    ]
+  },
+  "examples": [
+    {
+      "title": "典型例题：电场强度",
+      "content": "详见课件内容",
+      "solution": "见课堂讲解"
+    }
+  ],
+  "mistakes": [
+    "混淆电场强度与电势的概念",
+    "忘记电场强度是矢量，需要考虑方向",
+    "库仑常数 k 取值错误（应为 9×10⁹ N·m²/C²）",
+    "计算时忘记试探电荷 q 的正负",
+    "忘记库仑力是矢量，需满足平行四边形定则",
+    "混淆作用力与反作用力",
+    "距离趋近于零时库仑力趋向无穷大（物理上不成立）"
+  ],
+  "recommendations": [
+    {
+      "id": "U4-FRQ-01",
+      "topic": "磁场",
+      "subTopic": "安培力",
+      "difficulty": "基础",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U4",
+      "content": "长直导线电流 I=10A，垂直进入磁场 B=0.5T，长度 L=0.2m，求安培力大小",
+      "skills": [
+        "安培力公式",
+        "左手定则"
+      ]
+    },
+    {
+      "id": "U4-FRQ-02",
+      "topic": "磁场",
+      "subTopic": "洛伦兹力",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U4",
+      "content": "电子速度 v=10⁶m/s 垂直进入 B=0.1T 磁场，求回旋半径和周期",
+      "skills": [
+        "洛伦兹力",
+        "回旋运动"
+      ]
+    },
+    {
+      "id": "U4-FRQ-03",
+      "topic": "磁场",
+      "subTopic": "安培环路定理",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U4",
+      "content": "用安培环路定理求无限长直导线产生的磁场（B 与距离 r 的关系）",
+      "skills": [
+        "安培环路定理",
+        "磁场分布"
+      ]
+    },
+    {
+      "id": "U4-FRQ-04",
+      "topic": "磁场",
+      "subTopic": "磁场叠加",
+      "difficulty": "综合",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U4",
+      "content": "两根平行长直导线电流 I1=I2=5A（同向），间距 d=0.1m，求中点处合磁场",
+      "skills": [
+        "磁场叠加",
+        "右手定则"
+      ]
+    },
+    {
+      "id": "U4-MC-01",
+      "topic": "磁场",
+      "subTopic": "基本概念",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U4",
+      "content": "关于磁场线的说法正确的是？",
+      "options": [
+        "A. 从 N 极出发到 S 极",
+        "B. 磁场线是封闭曲线",
+        "C. 磁场线可以相交",
+        "D. 磁场线密度与磁场强度无关"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "U4-FRQ-06",
+      "topic": "磁场",
+      "difficulty": "基础",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U4",
+      "content": "长直导线 I=5A，求距导线 0.1m 处的磁感应强度"
+    },
+    {
+      "id": "U4-FRQ-07",
+      "topic": "磁场",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U4",
+      "content": "两根平行直导线电流相反（I1=I2=10A，间距 d=0.2m），求两导线间中点的磁场"
+    },
+    {
+      "id": "U4-FRQ-08",
+      "topic": "磁场",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U4",
+      "content": "长直螺线管匝数 N=500，长度 L=0.5m，电流 I=2A，求管内磁场强度"
+    },
+    {
+      "id": "U4-FRQ-09",
+      "topic": "磁场",
+      "difficulty": "进阶",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U4",
+      "content": "带电粒子垂直进入 B=0.2T 磁场，求回旋半径 r 和周期 T"
+    },
+    {
+      "id": "U4-FRQ-10",
+      "topic": "磁场",
+      "difficulty": "综合",
+      "type": "FRQ",
+      "year": "2024",
+      "unit": "U4",
+      "content": "霍尔效应：一块导体宽 d=1mm，B=0.5T，电流 I=10A，求霍尔电压"
+    },
+    {
+      "id": "U4-MC-01-mc-basic",
+      "topic": "磁场",
+      "subTopic": "MagneticFields",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U4",
+      "content": "磁场 选择题专项练习",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U4-MC-02-mc-advanced",
+      "topic": "磁场",
+      "subTopic": "MagneticFields",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U4",
+      "content": "11. 速度选择器中选择粒子的原理是（ ）",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": "U4-MC-03-mc-comprehensive",
+      "topic": "磁场",
+      "subTopic": "MagneticFields",
+      "difficulty": "基础",
+      "type": "MC",
+      "year": "2024",
+      "unit": "U4",
+      "content": "21. 关于带电粒子在组合场中的运动，以下说法正确的是（ ）",
+      "options": [],
+      "answer": ""
+    }
+  ],
+  "timestamp": "2026-03-16T23:36:27.230Z"
+}
