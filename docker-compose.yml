@@ -1,0 +1,46 @@
+version: '3.8'
+
+services:
+  socrates:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: socrates-learning
+    restart: unless-stopped
+    volumes:
+      # 持久化存储状态文件
+      - ./teacher/runtime:/app/teacher/runtime
+      # 持久化存储课件缓存
+      - ./materials/cache:/app/materials/cache
+      # Git 配置（用于提交）
+      - ~/.gitconfig:/root/.gitconfig:ro
+    environment:
+      # 时区设置
+      - TZ=Asia/Shanghai
+      # 注意：OpenClaw 实际运行在宿主或 Discord 中
+      # 容器仅用于验证项目文件结构和提供持久化存储
+    networks:
+      - socrates-network
+    # 如需 Web 界面，取消下方注释
+    # ports:
+    #   - "3000:3000"
+
+  # 可选：PDF 转换服务（独立容器）
+  pdf-converter:
+    image: python:3.11-slim
+    container_name: socrates-pdf-converter
+    volumes:
+      - ./materials:/app/materials
+      - ./convert_pdfs.py:/app/convert_pdfs.py
+    working_dir: /app
+    command: >
+      sh -c "pip install pymupdf python-docx &&
+             python convert_pdfs.py || echo 'PDF 转换完成'"
+    profiles:
+      - tools
+    networks:
+      - socrates-network
+
+networks:
+  socrates-network:
+    driver: bridge

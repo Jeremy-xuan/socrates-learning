@@ -1,0 +1,21 @@
+version: '3.8'
+
+# 测试专用配置 - 不挂载卷，使用容器内文件
+
+services:
+  socrates-test:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: socrates-learning-test
+    # 测试运行一次就退出，不重启
+    restart: "no"
+    # 不挂载卷，测试容器内文件
+    environment:
+      - TZ=Asia/Shanghai
+    networks:
+      - socrates-test-network
+
+networks:
+  socrates-test-network:
+    driver: bridge
