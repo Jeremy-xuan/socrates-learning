@@ -25,5 +25,5 @@ RUN echo "# 学习进度\n\n待开始" > teacher/runtime/progress.md && \
 HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
   CMD test -d /app/teacher && test -f /app/teacher/runtime/progress.md || exit 1
 
-# 默认命令：运行测试脚本
-CMD ["sh", "-c", "/app/scripts/run-test.sh"]
+# 默认命令：运行对话模拟测试
+CMD ["sh", "-c", "/app/scripts/simulate-conversation.sh"]
