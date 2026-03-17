@@ -1,66 +1,47 @@
 import Link from "next/link";
 
+const stats = [
+  ["题目总数", "222"],
+  ["完整题目", "153"],
+  ["当前单元", "Ch.22"],
+  ["正确率", "92%"],
+] as const;
+
+const modules = [
+  ["/classroom", "上课界面", "苏格拉底式对话学习"],
+  ["/materials", "题目索引", "按单元与知识点筛题"],
+  ["/dashboard", "学习仪表盘", "进度、错题、趋势"],
+  ["/chat", "四重奏群聊", "老师协同讨论与同步"],
+  ["/settings", "角色配置", "教师提示词与参数"],
+  ["/analytics", "统计分析", "Token 与学习行为统计"],
+  ["/config", "API 配置", "模型与网关配置"],
+] as const;
+
 export default function Home() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-purple-50 to-blue-50">
-      {/* Header */}
-      <header className="bg-gradient-to-r from-purple-600 to-blue-600 text-white py-20">
-        <div className="container mx-auto px-4 text-center">
-          <h1 className="text-5xl font-bold mb-4">🎓 苏格拉底式 AI 家教系统</h1>
-          <p className="text-xl opacity-90">用 AI 重新定义学习｜AP Physics C 电磁学专项</p>
-        </div>
-      </header>
-
-      {/* Stats */}
-      <section className="container mx-auto px-4 -mt-10">
-        <div className="bg-white rounded-xl shadow-xl p-8 grid grid-cols-2 md:grid-cols-4 gap-6">
-          <div className="text-center">
-            <div className="text-4xl font-bold text-purple-600">272</div>
-            <div className="text-gray-600 mt-2">道题目</div>
-          </div>
-          <div className="text-center">
-            <div className="text-4xl font-bold text-blue-600">5</div>
-            <div className="text-gray-600 mt-2">个单元</div>
-          </div>
-          <div className="text-center">
-            <div className="text-4xl font-bold text-green-600">7</div>
-            <div className="text-gray-600 mt-2">个知识点</div>
-          </div>
-          <div className="text-center">
-            <div className="text-4xl font-bold text-orange-600">100%</div>
-            <div className="text-gray-600 mt-2">覆盖考纲</div>
-          </div>
-        </div>
+    <div className="space-y-6">
+      <section className="card p-6">
+        <h2 className="text-2xl font-semibold text-slate-900">现代简约版学习主页</h2>
+        <p className="mt-2 text-slate-600">蓝白主色，信息优先，减少视觉噪声。</p>
       </section>
 
-      {/* Navigation */}
-      <section className="container mx-auto px-4 py-16">
-        <h2 className="text-3xl font-bold text-center mb-12">核心功能</h2>
-        <div className="grid md:grid-cols-3 gap-8">
-          <Link href="/classroom" className="block bg-white rounded-xl p-6 shadow-lg hover:shadow-xl transition-shadow">
-            <div className="text-4xl mb-4">🤖</div>
-            <h3 className="text-xl font-bold mb-2">预习 Agent</h3>
-            <p className="text-gray-600">智能分析课件，自动推荐预习题目。</p>
-          </Link>
-          <Link href="/materials" className="block bg-white rounded-xl p-6 shadow-lg hover:shadow-xl transition-shadow">
-            <div className="text-4xl mb-4">📚</div>
-            <h3 className="text-xl font-bold mb-2">题目索引</h3>
-            <p className="text-gray-600">按知识点/难度/题型分类。</p>
-          </Link>
-          <Link href="/dashboard" className="block bg-white rounded-xl p-6 shadow-lg hover:shadow-xl transition-shadow">
-            <div className="text-4xl mb-4">📊</div>
-            <h3 className="text-xl font-bold mb-2">学习仪表盘</h3>
-            <p className="text-gray-600">实时记录学习进度，错题本。</p>
-          </Link>
-        </div>
+      <section className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        {stats.map(([k, v]) => (
+          <div key={k} className="card p-5">
+            <div className="text-sm text-slate-500">{k}</div>
+            <div className="mt-2 text-2xl font-semibold text-blue-700">{v}</div>
+          </div>
+        ))}
       </section>
 
-      {/* Footer */}
-      <footer className="bg-gray-800 text-white py-8 mt-16">
-        <div className="container mx-auto px-4 text-center">
-          <p>苏格拉底式 AI 家教系统 © 2026 | Powered by OpenClaw</p>
-        </div>
-      </footer>
+      <section className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+        {modules.map(([href, title, desc]) => (
+          <Link key={href} href={href} className="card p-5 transition hover:border-blue-300 hover:shadow-md">
+            <h3 className="font-semibold text-slate-900">{title}</h3>
+            <p className="mt-1 text-sm text-slate-600">{desc}</p>
+          </Link>
+        ))}
+      </section>
     </div>
   );
 }
