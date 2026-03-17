@@ -7,9 +7,18 @@
 }
 
 body {
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
   min-height: 100vh;
 }
 
 .card {
-  @apply rounded-2xl border border-slate-200 bg-white shadow-sm;
+  @apply rounded-2xl border border-slate-200 bg-white shadow-sm transition hover:shadow-md;
+}
+
+.btn-primary {
+  @apply rounded-xl bg-blue-600 px-4 py-2 text-sm font-medium text-white transition hover:bg-blue-700 active:scale-[0.98];
+}
+
+.btn-secondary {
+  @apply rounded-xl border border-slate-300 bg-white px-4 py-2 text-sm font-medium text-slate-700 transition hover:bg-slate-50 active:scale-[0.98];
 }
