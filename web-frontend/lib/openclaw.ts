@@ -1,14 +1,21 @@
 // lib/openclaw.ts — OpenClaw 后端集成
 
-// TODO: OpenClaw tools 需本地安装
-// import { sessions_spawn, sessions_send, sessions_history, read, write } from '@openclaw/tools'
+import {
+  spawnTeacherAgent,
+  sendToAgent,
+  getAgentHistory,
+  readFile,
+  writeFile
+} from './openclaw-local'
 
-// 临时占位函数
-const sessions_spawn = async () => ({ sessionKey: 'mock' })
-const sessions_send = async () => ({})
-const sessions_history = async () => []
-const read = async () => ''
-const write = async () => true
+// 重新导出以兼容现有代码
+export {
+  spawnTeacherAgent as sessions_spawn,
+  sendToAgent as sessions_send,
+  getAgentHistory as sessions_history,
+  readFile as read,
+  writeFile as write
+}
 
 // 角色名称映射
 const TEACHER_NAMES: Record<string, string> = {
