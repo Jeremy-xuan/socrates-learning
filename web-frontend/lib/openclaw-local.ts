@@ -1,7 +1,9 @@
 // lib/openclaw-local.ts — OpenClaw 本地 API 集成（安全版）
 
-// 使用相对路径调用 Vercel API Routes（同一域名，无公网暴露）
-const API_BASE = '/api/openclaw'
+// 浏览器端用相对路径；服务端（API route内）用绝对地址
+const API_BASE = typeof window === 'undefined'
+  ? `${process.env.INTERNAL_API_BASE || 'http://localhost:3000'}/api/openclaw`
+  : '/api/openclaw'
 
 // 创建讲师 Agent
 export async function spawnTeacherAgent({

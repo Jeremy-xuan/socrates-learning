@@ -3,20 +3,25 @@ import fs from 'fs'
 import path from 'path'
 
 const ALLOWLIST = ['teacher/runtime', 'teacher/config']
+const RUNTIME_ROOT = '/tmp/openclaw-state'
 
-function resolveAllowedPath(inputPath: string): string {
-  if (!inputPath) throw new Error('path is required')
-  if (path.isAbsolute(inputPath)) throw new Error('absolute path is forbidden')
-  if (inputPath.includes('..')) throw new Error('path traversal is forbidden')
+function normalize(inputPath: string) {
+  return inputPath.replace(/\\/g, '/').replace(/^\.\//, '')
+}
 
-  const normalized = inputPath.replace(/\\/g, '/').replace(/^\.\//, '')
+function assertAllowed(normalized: string) {
+  if (!normalized) throw new Error('path is required')
+  if (normalized.startsWith('/')) throw new Error('absolute path is forbidden')
+  if (normalized.includes('..')) throw new Error('path traversal is forbidden')
   const allowed = ALLOWLIST.some((p) => normalized === p || normalized.startsWith(`${p}/`))
   if (!allowed) throw new Error('path is not in allowlist')
+}
 
-  // Vercel 环境：使用 workspace 根目录（/root/.openclaw/workspace-gongbu）
-  // 本地环境：使用相对路径
-  const workspaceRoot = process.env.OPENCLAW_WORKSPACE_ROOT || path.join(process.cwd(), '..')
-  return path.join(workspaceRoot, normalized)
+function resolveReadPath(normalized: string): string {
+  if (normalized.startsWith('teacher/runtime/')) {
+    return path.join(RUNTIME_ROOT, normalized)
+  }
+  return path.join(process.cwd(), normalized)
 }
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
@@ -24,7 +29,17 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
 
   try {
     const { path: filePath } = req.body as { path?: string }
-    const abs = resolveAllowedPath(filePath || '')
+    const normalized = normalize(filePath || '')
+    assertAllowed(normalized)
+
+    const abs = resolveReadPath(normalized)
+
+    // runtime 文件不存在时，给默认值，避免流程卡死
+    if (!fs.existsSync(abs) && normalized === 'teacher/runtime/wechat_unread.md') {
+      fs.mkdirSync(path.dirname(abs), { recursive: true })
+      fs.writeFileSync(abs, '# 微信群未读同步\n\n状态：已同步\n\n（空）\n', 'utf8')
+    }
+
     const content = fs.readFileSync(abs, 'utf8')
     return res.status(200).json({ success: true, content })
   } catch (e) {

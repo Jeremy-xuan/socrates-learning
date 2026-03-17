@@ -40,7 +40,7 @@ export default async function handler(
     // 开发/测试模式：允许跳过（设置 SKIP_WECHAT_SYNC=true）
     const skipSync = process.env.SKIP_WECHAT_SYNC === 'true'
     if (!skipSync) {
-      const workspaceRoot = process.env.OPENCLAW_WORKSPACE_ROOT || path.join(process.cwd(), '..')
+      const workspaceRoot = process.env.OPENCLAW_WORKSPACE_ROOT || '/tmp/openclaw-state'
       const unreadPath = path.join(workspaceRoot, 'teacher/runtime/wechat_unread.md')
       const unreadContent = fs.existsSync(unreadPath) ? fs.readFileSync(unreadPath, 'utf8').trim() : ''
       const synced = unreadContent.includes('已同步') || unreadContent.includes('无未读') || unreadContent.includes('（空）')
