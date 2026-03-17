@@ -1,0 +1,55 @@
+// /api/class/start — 开始上课
+
+import type { NextApiRequest, NextApiResponse } from 'next'
+import { spawnTeacherAgent } from '../../../lib/openclaw'
+
+interface StartClassRequest {
+  teacher: 'kurisu' | 'kousei' | 'lena'
+  chapter?: string
+}
+
+interface StartClassResponse {
+  success: boolean
+  sessionId?: string
+  message?: string
+}
+
+export default async function handler(
+  req: NextApiRequest,
+  res: NextApiResponse<StartClassResponse>
+) {
+  if (req.method !== 'POST') {
+    return res.status(405).json({ success: false, message: 'Method not allowed' })
+  }
+
+  try {
+    const { teacher, chapter }: StartClassRequest = req.body
+
+    // 验证老师选择
+    const validTeachers = ['kurisu', 'kousei', 'lena']
+    if (!teacher || !validTeachers.includes(teacher)) {
+      return res.status(400).json({ 
+        success: false, 
+        message: 'Invalid teacher. Choose from: kurisu, kousei, lena' 
+      })
+    }
+
+    // 创建讲师 Agent
+    const session = await spawnTeacherAgent({
+      teacher,
+      chapter: chapter || 'Chapter 21 - Electric Fields'
+    })
+
+    res.status(200).json({
+      success: true,
+      sessionId: session.sessionKey,
+      message: `已启动${teacher}老师的课程`
+    })
+  } catch (error) {
+    console.error('Failed to start class:', error)
+    res.status(500).json({ 
+      success: false, 
+      message: error instanceof Error ? error.message : 'Failed to start class' 
+    })
+  }
+}
