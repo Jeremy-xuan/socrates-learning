@@ -48,13 +48,17 @@
 
 ---
 
-## Phase 5: 子 Agent 创建 🔄
+## Phase 5: 子 Agent 创建 ✅
 
-- [ ] 测试 sessions_spawn 创建预习 Agent
-- [ ] 实现角色切换逻辑
+- [x] 设计主 Agent 架构 (`agents/master_agent.md`)
+- [x] 设计讲师 Agent 模板 (`agents/teacher_agent_template.md`)
+- [x] 设计课件阅读 Agent (`agents/pdf_reader_agent.md`)
+- [x] 定义 Agent 通信协议 (`agents/communication_protocol.md`)
+- [ ] 测试 sessions_spawn 创建讲师 Agent
+- [ ] 测试 Agent 间通信
 - [ ] 实现群聊消息生成 Agent
 
-**状态：待开始**
+**状态：配置已完成，待测试**
 
 ---
 
