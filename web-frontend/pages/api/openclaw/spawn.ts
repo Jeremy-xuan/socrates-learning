@@ -1,6 +1,10 @@
-// pages/api/openclaw/spawn.ts — Vercel Serverless Function
-
 import type { NextApiRequest, NextApiResponse } from 'next'
+
+function getGatewayUrl() {
+  const url = process.env.OPENCLAW_GATEWAY_URL
+  if (!url) throw new Error('OPENCLAW_GATEWAY_URL is required in production')
+  return url
+}
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
   if (req.method !== 'POST') {
@@ -9,20 +13,18 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
 
   const { task, runtime, mode, label, thread } = req.body
 
-  // 调用本地 OpenClaw Gateway（内网访问）
-  const gatewayUrl = process.env.OPENCLAW_GATEWAY_URL || 'http://localhost:3001'
-  
   try {
+    const gatewayUrl = getGatewayUrl()
     const response = await fetch(`${gatewayUrl}/api/sessions/spawn`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ task, runtime, mode, label, thread })
     })
-    
+
     const data = await response.json()
     res.status(200).json(data)
   } catch (error) {
     console.error('OpenClaw spawn error:', error)
-    res.status(500).json({ error: 'Failed to spawn agent' })
+    res.status(500).json({ error: error instanceof Error ? error.message : 'Failed to spawn agent' })
   }
 }
