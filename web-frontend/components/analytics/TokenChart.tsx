@@ -59,53 +59,34 @@ export default function TokenChart({ sessionId, period = 'week' }: TokenChartPro
       const response = await fetch(`/api/token/usage?${params}`)
       const data = await response.json()
 
-      if (data.success && data.data) {
-        // 模拟数据（实际应从后端获取）
-        const mockData: TokenUsage[] = generateMockData(period)
-        setUsage(mockData)
+      if (data.success && data.dailyStats && data.dailyStats.length > 0) {
+        // 使用真实数据
+        const realData: TokenUsage[] = data.dailyStats.map((stat: any) => ({
+          date: period === 'day' ? `${new Date(stat.date).getHours()}:00` : stat.date,
+          inputTokens: stat.inputTokens,
+          outputTokens: stat.outputTokens,
+          totalTokens: stat.totalTokens,
+          cost: stat.cost
+        }))
+        setUsage(realData)
 
         // 计算总计
         setTotal({
-          inputTokens: mockData.reduce((sum, d) => sum + d.inputTokens, 0),
-          outputTokens: mockData.reduce((sum, d) => sum + d.outputTokens, 0),
-          totalTokens: mockData.reduce((sum, d) => sum + d.totalTokens, 0),
-          cost: mockData.reduce((sum, d) => sum + d.cost, 0)
+          inputTokens: realData.reduce((sum, d) => sum + d.inputTokens, 0),
+          outputTokens: realData.reduce((sum, d) => sum + d.outputTokens, 0),
+          totalTokens: realData.reduce((sum, d) => sum + d.totalTokens, 0),
+          cost: realData.reduce((sum, d) => sum + d.cost, 0)
         })
+      } else if (data.success) {
+        // 无数据，显示空状态
+        setUsage([])
+        setTotal({ inputTokens: 0, outputTokens: 0, totalTokens: 0, cost: 0 })
       }
     } catch (error) {
       console.error('Failed to load token usage:', error)
     } finally {
       setLoading(false)
     }
-  }
-
-  // 生成模拟数据（待户部提供真实数据后替换）
-  const generateMockData = (period: string): TokenUsage[] => {
-    const days = period === 'day' ? 24 : period === 'week' ? 7 : 30
-    const data: TokenUsage[] = []
-    const now = new Date()
-
-    for (let i = days - 1; i >= 0; i--) {
-      const date = new Date(now)
-      date.setDate(date.getDate() - i)
-
-      const inputTokens = Math.floor(Math.random() * 5000) + 1000
-      const outputTokens = Math.floor(Math.random() * 3000) + 500
-      const totalTokens = inputTokens + outputTokens
-      const cost = totalTokens * 0.000002 // 假设每 token $0.000002
-
-      data.push({
-        date: period === 'day'
-          ? `${date.getHours()}:00`
-          : `${date.getMonth() + 1}/${date.getDate()}`,
-        inputTokens,
-        outputTokens,
-        totalTokens,
-        cost: parseFloat(cost.toFixed(4))
-      })
-    }
-
-    return data
   }
 
   const pieData = [
