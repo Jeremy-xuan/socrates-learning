@@ -24,7 +24,6 @@ export default function Home() {
         <h2 className="text-2xl font-semibold text-slate-900">现代简约版学习主页</h2>
         <p className="mt-2 text-slate-600">蓝白主色，信息优先，减少视觉噪声。</p>
       </section>
-
       <section className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
         {stats.map(([k, v]) => (
           <div key={k} className="card p-5">
@@ -33,7 +32,6 @@ export default function Home() {
           </div>
         ))}
       </section>
-
       <section className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
         {modules.map(([href, title, desc]) => (
           <Link key={href} href={href} className="card p-5 transition hover:border-blue-300 hover:shadow-md">

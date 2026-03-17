@@ -1,5 +1,4 @@
 "use client";
-
 import { useState } from "react";
 
 export default function ClassroomPage() {
@@ -12,7 +11,6 @@ export default function ClassroomPage() {
         <h2 className="text-xl font-semibold">上课界面</h2>
         <p className="mt-1 text-sm text-slate-600">先同步群聊未读，再开始课程。</p>
       </div>
-
       <div className="card p-6">
         <div className="mb-4 flex items-center gap-3">
           <label className="text-sm text-slate-600">选择老师</label>

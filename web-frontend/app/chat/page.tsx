@@ -1,5 +1,4 @@
 "use client";
-
 import { useState } from "react";
 
 export default function ChatPage() {
@@ -14,27 +13,11 @@ export default function ChatPage() {
     <div className="card p-6">
       <h2 className="text-xl font-semibold">四重奏群聊</h2>
       <div className="mt-4 h-80 overflow-y-auto rounded-xl border border-slate-200 bg-slate-50 p-4 text-sm">
-        {messages.map((m, i) => (
-          <div key={i} className="mb-2 text-slate-700">{m}</div>
-        ))}
+        {messages.map((m, i) => (<div key={i} className="mb-2 text-slate-700">{m}</div>))}
       </div>
       <div className="mt-4 flex gap-2">
-        <input
-          value={text}
-          onChange={(e) => setText(e.target.value)}
-          placeholder="输入消息…"
-          className="flex-1 rounded-lg border border-slate-300 px-3 py-2"
-        />
-        <button
-          onClick={() => {
-            if (!text.trim()) return;
-            setMessages((p) => [...p, `你：${text}`]);
-            setText("");
-          }}
-          className="rounded-lg bg-blue-600 px-4 py-2 text-white hover:bg-blue-700"
-        >
-          发送
-        </button>
+        <input value={text} onChange={(e) => setText(e.target.value)} placeholder="输入消息…" className="flex-1 rounded-lg border border-slate-300 px-3 py-2" />
+        <button onClick={() => { if (!text.trim()) return; setMessages((p) => [...p, `你：${text}`]); setText(""); }} className="rounded-lg bg-blue-600 px-4 py-2 text-white hover:bg-blue-700">发送</button>
       </div>
     </div>
   );
