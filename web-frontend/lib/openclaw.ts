@@ -59,21 +59,8 @@ export async function spawnPdfReader({
   return session
 }
 
-// 发送消息到 Agent
-export async function sendToAgent({
-  sessionId,
-  message
-}: {
-  sessionId: string
-  message: string
-}) {
-  const result = await sessions_send({
-    sessionKey: sessionId,
-    message
-  })
-
-  return result
-}
+// 发送消息到 Agent（已从上方的 openclaw-local 导入）
+// export { sendToAgent } from './openclaw-local'
 
 // 获取对话历史
 export async function getClassHistory({
