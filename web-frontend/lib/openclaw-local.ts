@@ -1,6 +1,7 @@
-// lib/openclaw-local.ts — OpenClaw 本地 API 集成
+// lib/openclaw-local.ts — OpenClaw 本地 API 集成（安全版）
 
-const OPENCLAW_API_URL = process.env.NEXT_PUBLIC_OPENCLAW_API_URL || 'http://localhost:3001'
+// 使用相对路径调用 Vercel API Routes（同一域名，无公网暴露）
+const API_BASE = '/api/openclaw'
 
 // 创建讲师 Agent
 export async function spawnTeacherAgent({
@@ -10,7 +11,7 @@ export async function spawnTeacherAgent({
   teacher: string
   chapter: string
 }) {
-  const response = await fetch(`${OPENCLAW_API_URL}/api/sessions/spawn`, {
+  const response = await fetch(`${API_BASE}/spawn`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
@@ -32,7 +33,7 @@ export async function sendToAgent({
   sessionKey: string
   message: string
 }) {
-  const response = await fetch(`${OPENCLAW_API_URL}/api/sessions/send`, {
+  const response = await fetch(`${API_BASE}/send`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ sessionKey, message })
@@ -40,21 +41,9 @@ export async function sendToAgent({
   return response.json()
 }
 
-// 获取 Agent 历史
-export async function getAgentHistory({
-  sessionKey,
-  limit = 20
-}: {
-  sessionKey: string
-  limit?: number
-}) {
-  const response = await fetch(`${OPENCLAW_API_URL}/api/sessions/history?sessionKey=${sessionKey}&limit=${limit}`)
-  return response.json()
-}
-
 // 读取文件
 export async function readFile(path: string) {
-  const response = await fetch(`${OPENCLAW_API_URL}/api/files/read`, {
+  const response = await fetch(`${API_BASE}/read`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ path })
@@ -64,7 +53,7 @@ export async function readFile(path: string) {
 
 // 写入文件
 export async function writeFile(path: string, content: string) {
-  const response = await fetch(`${OPENCLAW_API_URL}/api/files/write`, {
+  const response = await fetch(`${API_BASE}/write`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ path, content })
