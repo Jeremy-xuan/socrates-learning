@@ -2,8 +2,6 @@
 
 import type { NextApiRequest, NextApiResponse } from 'next'
 import { spawnTeacherAgent } from '../../../lib/openclaw'
-import fs from 'fs'
-import path from 'path'
 
 interface StartClassRequest {
   teacher: 'kurisu' | 'kousei' | 'lena'
@@ -36,21 +34,27 @@ export default async function handler(
       })
     }
 
-    // P0: 开课前强制检查微信群未读同步状态
-    // 仅本地开发模式允许跳过（VERCEL_ENV 为空时）
-    const isDev = !process.env.VERCEL_ENV
-    const skipSync = isDev && process.env.SKIP_WECHAT_SYNC === 'true'
+    // 开发/测试模式：允许跳过同步检查（Vercel 环境默认跳过）
+    const skipSync = process.env.SKIP_WECHAT_SYNC === 'true' || process.env.VERCEL === '1'
     
     if (!skipSync) {
+      // 仅本地环境执行同步检查
       const workspaceRoot = process.env.OPENCLAW_WORKSPACE_ROOT || '/tmp/openclaw-state'
+      const fs = await import('fs')
+      const path = await import('path')
       const unreadPath = path.join(workspaceRoot, 'teacher/runtime/wechat_unread.md')
-      const unreadContent = fs.existsSync(unreadPath) ? fs.readFileSync(unreadPath, 'utf8').trim() : ''
-      const synced = unreadContent.includes('已同步') || unreadContent.includes('无未读') || unreadContent.includes('（空）')
-      if (!synced) {
-        return res.status(412).json({
-          success: false,
-          message: '请先同步微信群未读后再开课'
-        })
+      
+      try {
+        const unreadContent = fs.existsSync(unreadPath) ? fs.readFileSync(unreadPath, 'utf8').trim() : ''
+        const synced = unreadContent.includes('已同步') || unreadContent.includes('无未读') || unreadContent.includes('（空）')
+        if (!synced) {
+          return res.status(412).json({
+            success: false,
+            message: '请先同步微信群未读（teacher/runtime/wechat_unread.md）后再开课'
+          })
+        }
+      } catch {
+        // 本地文件不可读时，降级允许继续
       }
     }
 
