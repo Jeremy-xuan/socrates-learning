@@ -4,7 +4,8 @@ import type { NextApiRequest, NextApiResponse } from 'next'
 import { sendToAgent, getClassHistory } from '../../../lib/openclaw'
 
 interface SendAgentRequest {
-  sessionId: string
+  sessionKey?: string
+  sessionId?: string
   message: string
 }
 
@@ -23,18 +24,19 @@ export default async function handler(
   }
 
   try {
-    const { sessionId, message }: SendAgentRequest = req.body
+    const { sessionKey, sessionId, message }: SendAgentRequest = req.body
+    const key = sessionKey || sessionId
 
     // 验证参数
-    if (!sessionId || !message) {
+    if (!key || !message) {
       return res.status(400).json({ 
         success: false, 
-        error: 'sessionId and message are required' 
+        error: 'sessionKey (or sessionId) and message are required' 
       })
     }
 
     // 发送消息到 Agent
-    const result = await sendToAgent({ sessionId, message })
+    const result = await sendToAgent({ sessionKey: key, message })
 
     res.status(200).json({
       success: true,

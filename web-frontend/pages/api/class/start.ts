@@ -2,6 +2,8 @@
 
 import type { NextApiRequest, NextApiResponse } from 'next'
 import { spawnTeacherAgent } from '../../../lib/openclaw'
+import fs from 'fs'
+import path from 'path'
 
 interface StartClassRequest {
   teacher: 'kurisu' | 'kousei' | 'lena'
@@ -31,6 +33,17 @@ export default async function handler(
       return res.status(400).json({ 
         success: false, 
         message: 'Invalid teacher. Choose from: kurisu, kousei, lena' 
+      })
+    }
+
+    // P0: 开课前强制检查微信群未读同步状态
+    const unreadPath = path.join(process.cwd(), '../teacher/runtime/wechat_unread.md')
+    const unreadContent = fs.existsSync(unreadPath) ? fs.readFileSync(unreadPath, 'utf8').trim() : ''
+    const synced = unreadContent.includes('已同步') || unreadContent.includes('无未读') || unreadContent.includes('（空）')
+    if (!synced) {
+      return res.status(412).json({
+        success: false,
+        message: '请先同步微信群未读（teacher/runtime/wechat_unread.md）后再开课'
       })
     }
 
