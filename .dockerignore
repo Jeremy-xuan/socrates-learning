@@ -28,14 +28,11 @@ __tests__
 *.test.js
 *.spec.js
 
-# Documentation (not needed for runtime)
-docs
-*.md
-!README.md
-!OPENCLAW.md
+# Documentation (keep essential files)
+docs/
 
-# OpenClaw migration configs (not needed in Docker test)
-openclaw/
+# OpenClaw migration configs (needed for runtime)
+# openclaw/
 
 # Build outputs
 dist
