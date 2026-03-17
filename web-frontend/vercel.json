@@ -12,7 +12,8 @@
     "GITHUB_BRANCH": "main",
     "OPENCLAW_MODEL": "bailian/qwen3.5-plus",
     "OPENCLAW_WORKSPACE": "./teacher",
-    "NEXT_PUBLIC_OPENCLAW_API_URL": "http://localhost:3001"
+    "OPENCLAW_GATEWAY_URL": "http://localhost:3001",
+    "NEXT_PUBLIC_OPENCLAW_API_URL": "/api/openclaw"
   },
   "github": {
     "silent": false,

@@ -13,7 +13,10 @@ function resolveAllowedPath(inputPath: string): string {
   const allowed = ALLOWLIST.some((p) => normalized === p || normalized.startsWith(`${p}/`))
   if (!allowed) throw new Error('path is not in allowlist')
 
-  return path.join(process.cwd(), '..', normalized)
+  // Vercel 环境：使用 workspace 根目录（/root/.openclaw/workspace-gongbu）
+  // 本地环境：使用相对路径
+  const workspaceRoot = process.env.OPENCLAW_WORKSPACE_ROOT || path.join(process.cwd(), '..')
+  return path.join(workspaceRoot, normalized)
 }
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {

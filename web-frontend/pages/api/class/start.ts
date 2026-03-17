@@ -37,14 +37,19 @@ export default async function handler(
     }
 
     // P0: 开课前强制检查微信群未读同步状态
-    const unreadPath = path.join(process.cwd(), '../teacher/runtime/wechat_unread.md')
-    const unreadContent = fs.existsSync(unreadPath) ? fs.readFileSync(unreadPath, 'utf8').trim() : ''
-    const synced = unreadContent.includes('已同步') || unreadContent.includes('无未读') || unreadContent.includes('（空）')
-    if (!synced) {
-      return res.status(412).json({
-        success: false,
-        message: '请先同步微信群未读（teacher/runtime/wechat_unread.md）后再开课'
-      })
+    // 开发/测试模式：允许跳过（设置 SKIP_WECHAT_SYNC=true）
+    const skipSync = process.env.SKIP_WECHAT_SYNC === 'true'
+    if (!skipSync) {
+      const workspaceRoot = process.env.OPENCLAW_WORKSPACE_ROOT || path.join(process.cwd(), '..')
+      const unreadPath = path.join(workspaceRoot, 'teacher/runtime/wechat_unread.md')
+      const unreadContent = fs.existsSync(unreadPath) ? fs.readFileSync(unreadPath, 'utf8').trim() : ''
+      const synced = unreadContent.includes('已同步') || unreadContent.includes('无未读') || unreadContent.includes('（空）')
+      if (!synced) {
+        return res.status(412).json({
+          success: false,
+          message: '请先同步微信群未读（teacher/runtime/wechat_unread.md）后再开课'
+        })
+      }
     }
 
     // 创建讲师 Agent
