@@ -12,7 +12,9 @@
     "GITHUB_BRANCH": "main",
     "OPENCLAW_MODEL": "bailian/qwen3.5-plus",
     "OPENCLAW_WORKSPACE": "./teacher",
-    "OPENCLAW_GATEWAY_URL": "http://localhost:3001",
+    "OPENCLAW_GATEWAY_URL": "http://host.docker.internal:3001",
+    "OPENCLAW_WORKSPACE_ROOT": "/root/.openclaw/workspace-gongbu",
+    "SKIP_WECHAT_SYNC": "false",
     "NEXT_PUBLIC_OPENCLAW_API_URL": "/api/openclaw"
   },
   "github": {

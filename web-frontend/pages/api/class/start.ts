@@ -37,8 +37,10 @@ export default async function handler(
     }
 
     // P0: 开课前强制检查微信群未读同步状态
-    // 开发/测试模式：允许跳过（设置 SKIP_WECHAT_SYNC=true）
-    const skipSync = process.env.SKIP_WECHAT_SYNC === 'true'
+    // 仅本地开发模式允许跳过（VERCEL_ENV 为空时）
+    const isDev = !process.env.VERCEL_ENV
+    const skipSync = isDev && process.env.SKIP_WECHAT_SYNC === 'true'
+    
     if (!skipSync) {
       const workspaceRoot = process.env.OPENCLAW_WORKSPACE_ROOT || path.join(process.cwd(), '..')
       const unreadPath = path.join(workspaceRoot, 'teacher/runtime/wechat_unread.md')
@@ -47,7 +49,7 @@ export default async function handler(
       if (!synced) {
         return res.status(412).json({
           success: false,
-          message: '请先同步微信群未读（teacher/runtime/wechat_unread.md）后再开课'
+          message: '请先同步微信群未读后再开课'
         })
       }
     }
