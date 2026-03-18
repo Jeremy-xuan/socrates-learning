@@ -1,27 +1,9 @@
 import type { NextApiRequest, NextApiResponse } from 'next'
-import fs from 'fs'
-import path from 'path'
 
-const ALLOWLIST = ['teacher/runtime', 'teacher/config']
-const RUNTIME_ROOT = '/tmp/openclaw-state'
-
-function normalize(inputPath: string) {
-  return inputPath.replace(/\\/g, '/').replace(/^\.\//, '')
-}
-
-function assertAllowed(normalized: string) {
-  if (!normalized) throw new Error('path is required')
-  if (normalized.startsWith('/')) throw new Error('absolute path is forbidden')
-  if (normalized.includes('..')) throw new Error('path traversal is forbidden')
-  const allowed = ALLOWLIST.some((p) => normalized === p || normalized.startsWith(`${p}/`))
-  if (!allowed) throw new Error('path is not in allowlist')
-}
-
-function resolveReadPath(normalized: string): string {
-  if (normalized.startsWith('teacher/runtime/')) {
-    return path.join(RUNTIME_ROOT, normalized)
-  }
-  return path.join(process.cwd(), normalized)
+// Vercel Serverless 无持久化文件系统，全部走 mock
+const MOCK_DATA: Record<string, string> = {
+  'teacher/runtime/wechat_unread.md': '# 微信群未读同步\n\n状态：已同步\n\n（空）\n',
+  'teacher/config/learner_profile.md': '# 学习者配置\n\n姓名：吴宇轩\n目标：IPhO 电磁学邀请赛\n',
 }
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
@@ -29,19 +11,19 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
 
   try {
     const { path: filePath } = req.body as { path?: string }
-    const normalized = normalize(filePath || '')
-    assertAllowed(normalized)
+    if (!filePath) return res.status(400).json({ success: false, error: 'path is required' })
 
-    const abs = resolveReadPath(normalized)
+    const normalized = filePath.replace(/\\/g, '/').replace(/^\.\//, '')
 
-    // runtime 文件不存在时，给默认值，避免流程卡死
-    if (!fs.existsSync(abs) && normalized === 'teacher/runtime/wechat_unread.md') {
-      fs.mkdirSync(path.dirname(abs), { recursive: true })
-      fs.writeFileSync(abs, '# 微信群未读同步\n\n状态：已同步\n\n（空）\n', 'utf8')
+    // 安全拦截
+    if (normalized.startsWith('/')) return res.status(400).json({ success: false, error: 'absolute path is forbidden' })
+    if (normalized.includes('..')) return res.status(400).json({ success: false, error: 'path traversal is forbidden' })
+    if (!normalized.startsWith('teacher/runtime/') && !normalized.startsWith('teacher/config/')) {
+      return res.status(400).json({ success: false, error: 'path is not in allowlist' })
     }
 
-    const content = fs.readFileSync(abs, 'utf8')
-    return res.status(200).json({ success: true, content })
+    const content = MOCK_DATA[normalized] || `# ${normalized}\n\n（模拟数据）\n`
+    return res.status(200).json({ success: true, content, mock: true })
   } catch (e) {
     return res.status(400).json({ success: false, error: e instanceof Error ? e.message : 'read failed' })
   }

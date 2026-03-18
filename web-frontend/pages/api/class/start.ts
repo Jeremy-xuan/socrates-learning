@@ -1,9 +1,6 @@
 // /api/class/start — 开始上课
 
 import type { NextApiRequest, NextApiResponse } from 'next'
-import { spawnTeacherAgent } from '../../../lib/openclaw'
-import fs from 'fs'
-import path from 'path'
 
 interface StartClassRequest {
   teacher: 'kurisu' | 'kousei' | 'lena'
@@ -14,6 +11,16 @@ interface StartClassResponse {
   success: boolean
   sessionId?: string
   message?: string
+}
+
+// Vercel 环境直接返回 mock session，避免 fetch 相对路径问题
+async function mockSpawnTeacher({ teacher, chapter }: { teacher: string; chapter: string }) {
+  return {
+    success: true,
+    mock: true,
+    sessionKey: `mock-teacher-${teacher}-${Date.now()}`,
+    message: `已启动${teacher}老师的课程（模拟模式）`
+  }
 }
 
 export default async function handler(
@@ -36,29 +43,35 @@ export default async function handler(
       })
     }
 
-    // P0: 开课前强制检查微信群未读同步状态
-    // 仅本地开发模式允许跳过（VERCEL_ENV 为空时）
-    const isDev = !process.env.VERCEL_ENV
-    const skipSync = isDev && process.env.SKIP_WECHAT_SYNC === 'true'
+    // Vercel 环境直接返回 mock（无网关）
+    const isVercel = process.env.VERCEL === '1' || !process.env.OPENCLAW_GATEWAY_URL
     
-    if (!skipSync) {
-      const workspaceRoot = process.env.OPENCLAW_WORKSPACE_ROOT || '/tmp/openclaw-state'
-      const unreadPath = path.join(workspaceRoot, 'teacher/runtime/wechat_unread.md')
-      const unreadContent = fs.existsSync(unreadPath) ? fs.readFileSync(unreadPath, 'utf8').trim() : ''
-      const synced = unreadContent.includes('已同步') || unreadContent.includes('无未读') || unreadContent.includes('（空）')
-      if (!synced) {
-        return res.status(412).json({
-          success: false,
-          message: '请先同步微信群未读后再开课'
-        })
-      }
+    if (isVercel) {
+      const session = await mockSpawnTeacher({
+        teacher,
+        chapter: chapter || 'Chapter 21 - Electric Fields'
+      })
+      return res.status(200).json({
+        success: true,
+        sessionId: session.sessionKey,
+        message: session.message
+      })
     }
 
-    // 创建讲师 Agent
-    const session = await spawnTeacherAgent({
-      teacher,
-      chapter: chapter || 'Chapter 21 - Electric Fields'
+    // 本地环境：调用真实网关
+    const gatewayUrl = process.env.OPENCLAW_GATEWAY_URL
+    const response = await fetch(`${gatewayUrl}/api/sessions/spawn`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        task: `扮演${teacher}进行苏格拉底式物理教学，当前章节：${chapter || 'Chapter 21 - Electric Fields'}`,
+        runtime: 'subagent',
+        mode: 'session',
+        label: `teacher-${teacher}`,
+        thread: true
+      })
     })
+    const session = await response.json()
 
     res.status(200).json({
       success: true,

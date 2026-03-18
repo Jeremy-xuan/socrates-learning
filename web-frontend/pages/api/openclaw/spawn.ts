@@ -21,15 +21,21 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
   }
 
   try {
+    const controller = new AbortController()
+    const timeoutId = setTimeout(() => controller.abort(), 5000)
+    
     const response = await fetch(`${gatewayUrl}/api/sessions/spawn`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ task, runtime, mode, label, thread })
+      body: JSON.stringify({ task, runtime, mode, label, thread }),
+      signal: controller.signal
     })
+    clearTimeout(timeoutId)
+    
     const data = await response.json()
     res.status(200).json(data)
-  } catch (error) {
-    // 网关不可达时同样降级 mock
+  } catch {
+    // 网关不可达时降级 mock
     return res.status(200).json({
       success: true,
       mock: true,
