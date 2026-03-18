@@ -145,7 +145,7 @@ function runParser(pdfPath, parserCommand) {
   }
 }
 
-function convertPdfToMarkdown({ pdfPath, parsed, force = false, outputDir = DEFAULT_OUTPUT_DIR, parserCommand }) {
+function convertPdfToMarkdown({ pdfPath, parsed = undefined, force = false, outputDir = DEFAULT_OUTPUT_DIR, parserCommand = undefined }) {
   if (!pdfPath) throw new Error('pdfPath is required')
   if (!fs.existsSync(pdfPath)) throw new Error(`PDF not found: ${pdfPath}`)
 
