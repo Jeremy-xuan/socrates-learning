@@ -1,0 +1,25 @@
+Electrostatics
+
+52. (2021-DE-D62503-Section 2-MCQ-17)
+
+The figure shows lines to represent the electric field in a region of space. Three points A, B, and C are labeled in that space. Which of the following correctly ranks the value of the electric potentials $ V_A, V_B $, and $ V_C $ at each point?
+
+A. $ V_A > V_B > V_C $
+
+B. $ V_C > V_B > V_A $
+
+C. $ V_A = V_C > V_B $
+
+D. $ V_B > V_A = V_C $
+
+E. $ V_A = V_B = V_C $
+
+UNIT
+1
+
+TestDaily
+
+Physics C: Electricity and Magnetism Practice Book
+39
+From Here, Go Anywhere
+© 2022 TestDaily

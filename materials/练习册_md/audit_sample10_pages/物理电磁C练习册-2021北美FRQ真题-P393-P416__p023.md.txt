@@ -1,0 +1,68 @@
+以下是图片中所有文字内容的完整识别，包括公式、符号和题目格式：
+
+---
+
+**Physics C: Electricity and Magnetism**
+
+AP® Physics C: Electricity & Magnetism 2021 Scoring Guidelines
+
+For substituting appropriate values from the graph in the correct equation  
+1 point  
+
+$$
+\omega = \frac{(2\pi)}{(2\,\text{s})} = 3.14\ \frac{\text{rad}}{\text{s}}
+$$
+
+Total for part (d) 2 points
+
+**(e)** For using a correct equation for solving for the emf in terms of the angular speed  
+1 point  
+
+$$
+\mathcal{E} = \frac{d\Phi}{dt} = \frac{d(B \cdot A)}{dt} = BA\frac{d}{dt}(\cos(\omega t)) = -BA\omega\sin(\omega t)
+$$
+
+For correctly substituting into the correct equation  
+1 point  
+
+$$
+\mathcal{E}_{\text{MAX}} = BA\omega = (0.50\,\text{T})(0.50\,\text{m}^2)\left(3.14\ \frac{\text{rad}}{\text{s}}\right) = 0.79\,\text{V}
+$$
+
+Total for part (e) 2 points
+
+**(f)** For a sine curve with half the period of the dashed curve and a correct justification  
+1 point  
+
+For a sine curve with twice the amplitude of the dashed curve and a correct justification  
+1 point  
+
+OR  
+a sine curve with an amplitude consistent with work shown in part (e)
+
+**Example response for part (f)**
+
+![Graph](https://i.imgur.com/placeholder.png)  
+*(Note: The graph shows two curves: a dashed one and a solid red one. The solid red curve has double the amplitude and half the period of the dashed curve.)*
+
+Because the rotational speed is twice the original speed, then, according to the equation  
+$$
+|\mathcal{E}| = B_0A\omega\sin(\omega t)
+$$  
+this will double the amplitude of the curve and cut the period in half.
+
+Total for part (f) 2 points
+
+Total for question 3 15 points
+
+---
+
+From Here, Go Anywhere  
+关注TestDaily, 和20W+出国留学党一起奋斗  
+415  
+
+（右下角二维码）  
+
+--- 
+
+> **注：** 图片中的水印“TestDaily”为背景透明水印，不影响内容识别。公式排版已尽量还原原始格式，使用 LaTeX 表达。

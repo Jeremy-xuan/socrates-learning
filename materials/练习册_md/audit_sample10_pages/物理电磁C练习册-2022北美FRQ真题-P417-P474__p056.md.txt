@@ -1,0 +1,66 @@
+AP Physics C: Electricity and Magnetism
+
+AP® Physics C: Electricity and Magnetism 2022 Scoring Guidelines
+
+Question 3: Free-Response Question  
+15 points
+
+(a) For selecting "Counterclockwise" and an attempt at a relevant justification  
+1 point
+
+For a justification that correctly relates how the changing current in the solenoid changes  
+the flux through the loop with respect to time  
+1 point
+
+For a justification that has a correct relationship between the change in magnetic flux  
+through the loop of wire and how the current in the loop changes to oppose the change in  
+magnetic flux  
+1 point
+
+Example Response  
+In the end view, the magnetic field due to the solenoid is directed into the page. The current  
+in the solenoid is increasing; thus, the magnetic flux is increasing. According to Lenz's  
+law, because the magnetic flux is increasing and into the page, the current in the loop must  
+create a magnetic field directed out of the page; thus, the current in the loop must be  
+counterclockwise the counter the change in magnetic flux.
+
+Total for part (a) 3 points
+
+(b) For using an appropriate equation to calculate emf in the loop  
+1 point
+
+Example Response  
+\[
+\varepsilon = \left| \frac{d\Phi}{dt} \right| = \frac{d(BA)}{dt} = A \frac{dB}{dt}
+\]
+
+For correctly substituting the magnetic field for a solenoid into above equation  
+1 point
+
+Example Response  
+\[
+\varepsilon = A \frac{d(\mu_0 nI)}{dt} = \mu_0 nA \frac{dI}{dt}
+\]
+
+For using Ohm’s law to calculate the current in the loop  
+1 point
+
+Example Response  
+\[
+I_{\text{loop}} = \frac{\varepsilon}{R} = \frac{\mu_0 nA}{R} \frac{dI}{dt}
+\]
+
+For correctly substituting into the previous equation for the induced current in the loop  
+1 point
+
+Example Response  
+\[
+I_{\text{loop}} = \frac{(4\pi \times 10^{-7}~\text{T}\cdot\text{m}/\text{A})\left( \frac{500~\text{turns}}{0.25~\text{m}} \right)\left( \pi \right)(0.10~\text{m})^2}{(3~\Omega)} (5.0~\text{A/s}) = 1.3 \times 10^{-4}~\text{A}
+\]
+
+Total for part (b) 4 points
+
+From Here, Go Anywhere  
+关注TestDaily和20W+出国留学党一起奋斗  
+
+472

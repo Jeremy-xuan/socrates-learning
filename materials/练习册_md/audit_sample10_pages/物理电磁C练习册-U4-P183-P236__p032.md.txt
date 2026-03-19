@@ -1,0 +1,20 @@
+Magnetic Fields
+
+39. (2021-DE-D61102-Section 1-MCQ-30)
+RI            ve    同 同
+Two identical straight conducting rods with resistance R are connected in series to a power supply of emf
+€ using wires of negligible resistance, as shown in the figure on the left. When the rods are next to each
+other, the force on each rod from the other has magnitude F. When the power supply is replaced with one
+of emf 2¢ and the rods are the same distance apart but connected in parallel, as shown in the figure on
+the right, the force of one rod on the other will have magnitude
+大
+
+“16
+eG
+C.4F
+D. 16F
+E. 32F
+
+AP Physics C: Electricity and Magnetism Practice Book                 214                                                  From Here, Go Anywhere
+
+(@ 2022 TestDaily

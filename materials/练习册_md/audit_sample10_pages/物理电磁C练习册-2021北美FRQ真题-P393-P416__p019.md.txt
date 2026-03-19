@@ -1,0 +1,108 @@
+以下是图片中所有文字内容的完整识别，包括公式、符号和格式：
+
+---
+
+**Physics C: Electricity and Magnetism**
+
+AP® Physics C: Electricity & Magnetism 2021 Scoring Guidelines
+
+---
+
+**Question 2: Free-Response Question**  
+**15 points**
+
+**(a)**  
+i. For drawing an appropriate best-fit line  
+**1 point**
+
+**Example response for part (a)(i)**
+
+$$
+F\ (\mu\text{N})
+$$
+
+$$
+\begin{array}{c}
+\text{13,000} \\
+\text{12,000} \\
+\text{11,000} \\
+\text{10,000} \\
+\text{9000} \\
+\end{array}
+\quad
+\begin{array}{c}
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\end{array}
+\quad
+\begin{array}{c}
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\end{array}
+\quad
+\begin{array}{c}
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\end{array}
+\quad
+\begin{array}{c}
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\end{array}
+\quad
+\begin{array}{c}
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\end{array}
+\quad
+\begin{array}{c}
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\end{array}
+\quad
+\begin{array}{c}
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\end{array}
+\quad
+\begin{array}{c}
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\end{array}
+\quad
+\begin{array}{c}
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\text{ } \\
+\end{array}
+\quad
+\begin{array}{c}
+\text{ } \\
+\text{ } \\
+\text

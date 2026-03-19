@@ -1,0 +1,41 @@
+Electrostatics
+
+UNIT
+1
+
+42. (2021-DE-D61102-Section 1-MCQ-18)
+Under only the influence of the electric field, what would be the change in the kinetic energy of an electron when it moves from point 1 to point 2?
+
+A. -8.0×10⁻²⁰ J  
+B. +8.0×10⁻²⁰ J  
+C. -3.2×10⁻¹⁹ J  
+D. +3.2×10⁻¹⁹ J  
+E. 0J  
+
+Questions 43–45
+
++q
+     / \
+    /   \
+   /     \
+a /       \ a
+ /         \
+/           \
++Q--------- -Q
+   a
+
+Three particles having charges of +q, +Q, and -Q are placed at the corners of an equilateral triangle of side a, as shown above.
+
+43. (2012-2)  
+The net force on the particle with charge +q due to the other two charges is in the plane of the page and directed
+
+(A) vertically upward  
+(B) vertically downward  
+(C) horizontally to the right  
+(D) horizontally to the left  
+(E) toward the charge -Q  
+
+Physics C: Electricity and Magnetism Practice Book
+33
+From Here, Go Anywhere
+© 2022 TestDaily

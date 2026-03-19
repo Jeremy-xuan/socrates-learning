@@ -1,0 +1,23 @@
+Conductors, Capacitors, Dielectrics
+
+5. (2014-33)
+A solid metal sphere is in equilibrium and has a
+net charge Q placed on it. If the sphere is heated
+so that it expands uniformly without affecting the
+amount of charge and so that it is still in equilib-
+rium, which of the following will be unaffected
+by the expansion?
+I. The surface charge density
+II. The electric potential inside the sphere
+III. The electric field inside the sphere
+(A) I only
+(B) II only
+(C) III only
+(D) I and II
+(E) II and III
+
+UNIT
+2
+
+AP Physics C: Electricity and Magnetism Practice Book 93 From Here, Go Anywhere
+@ 2022 TestDaily

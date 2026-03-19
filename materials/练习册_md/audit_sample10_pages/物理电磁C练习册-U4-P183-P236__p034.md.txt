@@ -1,0 +1,54 @@
+Magnetic Fields
+
+41. (2019-set2-3a/c~e)
+
+Two plates are set up with a potential difference V between them. A small sphere of mass m and charge ~
+is placed at the left-hand plate, which has a negative charge, and is allowed to accelerate across the space
+between the plates and pass through a small opening. After passing through the small opening, the sphere
+enters a region in which there is a uniform magnetic field of magnitude B directed into the page, as shown
+above. Ignore gravitational effects. Express all algebraic answers in terms of V, m, e, B, and fundamental
+constants, as appropriate.
+
+(a)
+i. What is the initial direction of the force on the sphere as it enters the magnetic field?
+Into the page                              Out of the page
+
+Toward the top of the page           Toward the bottom of the page
+
+ii. Describe the path taken by the sphere after it enters the magnetic field.
+(c) Derive an expression for the radius of the path taken by the sphere as it moves through the magnetic field.
+
+An experiment is performed in which a beam of electrons is accelerated across the space between the plates and
+passes through the small opening. After passing through the opening, the electrons travel in a semicircular path
+and strike the right-hand plate. The potential difference between the plates is varied in regular increments, as
+shown in the table below. For each potet      difference, the magnetic field is varied in order to cause the beam to
+strike the right-hand plate at a distance of 0.020 m from the opening.
+
+Potential difference (V)           60         70         100        110        120        140
+Magnetic field (T x 10)
+
+2.62          2.78
+
+»
+國
+Xa}
+
+3.54       3.78        3.99
+
+(d) Indcate below which quantities should be graphed to yield a straight line whose slope could be used to
+calculate a numerical value for the mass-to-charge ratio of an electron.
+
+Vertical a’
+
+Horizontal axi
+
+Use the remaining columns in the table above, as needed, to record any quant
+not given. Label each column you use and include units.
+
+s that you indicated that are
+
+(e) Onthe graph below, plot the relationship determined in part (d). Clearly scale and label all axes, including
+units, if appropriate. Draw a straight line that best represents the data.
+
+AP Physics C: Electricity and Magnetism Practice Book                 216                                                  From Here, Go Anywhere
+@ 2022 TestDaily

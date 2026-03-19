@@ -1,0 +1,24 @@
+Electromagnetism
+
+UNIT 5
+
+21. (2021-DE-D61102-Section 1-MCQ-11)
+
+B(T)
+α
+Slope=β
+t(s)
+
+A square loop with sides of length s is perpendicular to a uniform time-varying magnetic field with half the area of the loop in the field, as shown. The loop resistance is R. The magnitude of the field varies with time according to the graph, where β is the absolute value of the slope and α is the value of the vertical intercept. The magnitude of the induced current in the loop is
+
+A. $\frac{\alpha s^2}{2R}$
+
+B. $\frac{\alpha s^2}{R}$
+
+C. Zero
+
+D. $\frac{\beta s^2}{R}$
+
+E. $\frac{\beta s^2}{2R}$
+
+AP Physics C: Electricity and Magnetism Practice Book 253 From Here, Go Anywhere @ 2022 TestDaily

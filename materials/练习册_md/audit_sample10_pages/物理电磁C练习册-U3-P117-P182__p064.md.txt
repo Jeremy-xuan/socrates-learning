@@ -1,0 +1,32 @@
+49.(a)
+
+(b)
+
+(0
+
+2 points
+
+For using Ohm’s law                                                                                              1 point
+p= =o
+Ry  (R+R)
+For correct substitution leading to correct answer                                                                1 point
+=o
+全入
+2 points
+For using the equation relating stored charge to capacitance                                                1 point
+q=CV =CVe = CV
+For determining Vz and substituting into the above equation                                           1 point
+VY,         1
+V, =IR=|— |R==V,
+3R        3
+q= (Vp = chr   =1ey,
+3°) 309
+2 points
+For any correct voltage loop equation                                                                                1 point
+Vo -Va —Vop = 02. Ve =Vg +Vap
+ao = 1(R+2R)
+Note: Any correct loop equation for when the switch is open earns the point
+For substitutirg -dq/dt or dq/dr for the current, consistent with loop equation                   1 point
+
+qt) _ nay
+“C7 ORG

@@ -1,0 +1,470 @@
+[
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 35,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 8933,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 36,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 4639,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 37,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 5549,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 38,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 5981,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 39,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 5726,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 40,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 5826,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 41,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 6020,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 42,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 6004,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 43,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 7398,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 44,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 6150,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 45,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 9866,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 46,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 7308,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 47,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 6900,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 48,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 8107,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 49,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 6098,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 50,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 6236,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 51,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 7689,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 52,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 6530,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 53,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 6437,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 54,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 6579,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 55,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 6842,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 56,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 7193,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 57,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 7647,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 58,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 7824,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 59,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 8083,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 60,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 7025,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 61,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 6149,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 62,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 8235,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 63,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 8107,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 64,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 8738,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 65,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 4733,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 66,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 7285,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 67,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 8361,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 68,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 7964,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 69,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 12401,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 70,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 21064,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 71,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 13438,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 72,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 15573,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 73,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 9286,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 74,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 8234,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 75,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 5342,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 76,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 10212,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 77,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 6578,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 78,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 13276,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 79,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 8073,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 80,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 10138,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 81,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 8970,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 82,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 7948,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 83,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 9045,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 84,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 8048,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 85,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 11441,
+    "round": 2
+  },
+  {
+    "timestamp": "2026-03-19T09:29:16.905681",
+    "model": "qwen-vl-plus-latest",
+    "page": 86,
+    "status": "success",
+    "text_length": 500,
+    "latency_ms": 15698,
+    "round": 2
+  }
+]

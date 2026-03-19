@@ -1,0 +1,62 @@
+UNIT  
+5  
+Electromagnetism  
+
+Now the portion of the circuit containing bulb 3 is removed, and a wire is added to connect the midpoints of the top and bottom of the original loop, as shown below.  
+
+```
+       L
+    ┌─────────┐
+    │  ×  ×   │
+    │  ×  ×   │
+    │  ×  B   │
+    │  ×  ×   │
+    │  ×  ×   │
+    └─────────┘
+      ①        ②
+```
+
+(e) How does the brightness of bulb 1 compare to what it was in the first circuit?  
+____ Brighter      ____ Dimmer      ____ The same  
+
+Justify your answer.  
+
+48. (2010-3a/b/d/e)  
+
+```
+         b
+     ┌───────┐
+     │       │
+     │   ⬤   │
+     │       │
+     │       │
+     └───────┘
+         a
+         d
+          ↓
+         I →
+```
+
+Lightbulb  
+(resistance R)  
+
+The long straight wire illustrated above carries a current $ I $ to the right. The current varies with time $ t $ according to the equation $ I = I_0 - Kt $, where $ I_0 $ and $ K $ are positive constants and $ I $ remains positive throughout the time period of interest. The bottom of a rectangular loop of wire of width $ b $ and height $ a $ is located a distance $ d $ above the long wire, with the long wire in the plane of the loop as shown. A lightbulb with resistance $ R $ is connected in the loop. Express all algebraic answers in terms of the given quantities and fundamental constants.  
+
+(a) Indicate the direction of the current in the loop.  
+____ Clockwise      ____ Counterclockwise  
+
+Justify your answer.  
+
+(b) Indicate whether the lightbulb gets brighter, gets dimmer, or stays the same brightness over the time period of interest.  
+____ Gets brighter      ____ Gets dimmer      ____ Remains the same  
+
+Justify your answer.  
+
+(d) Derive an expression for the magnetic flux through the loop as a function of time.  
+
+(e) Derive an expression for the power dissipated by the lightbulb.  
+
+AP Physics C: Electricity and Magnetism Practice Book  
+276  
+From Here, Go Anywhere  
+© 2022 TestDaily

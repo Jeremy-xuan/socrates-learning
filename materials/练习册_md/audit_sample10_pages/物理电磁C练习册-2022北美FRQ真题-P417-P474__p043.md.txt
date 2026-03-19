@@ -1,0 +1,36 @@
+Physics C:Electricity and Magnetism
+
+AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions
+
+Begin your response to QUESTION 3 on this page.
+
+Solenoid
+Loop of Wire
+I(t)
+Side View
+
+Solenoid
+Loop of
+Wire
+I(t)
+End View
+
+Note: Figures not drawn to scale.
+
+3. A single loop of wire with resistance 3.0 Ω and radius 0.10 m is placed inside a solenoid, with the normal to the loop parallel to the axis of the solenoid. The solenoid has 500 turns, is 0.25 m long, and is connected to a power supply that is not shown. At time t = 0, the power supply is turned on, and the current I in the solenoid as a function of t is given by the equation I(t) = βt, where β = 5.0 A/s. The direction of the current in the solenoid is clockwise, as shown in the end view.
+
+(a) At time t = 2.0 s, is the induced current in the loop, as seen from the end view shown, clockwise, counterclockwise, or zero?
+
+___ Clockwise  
+___ Counterclockwise  
+___ Zero
+
+Justify your answer.
+
+(b) Calculate the current in the loop of wire at time t = 2.0 s.
+
+GO ON TO THE NEXT PAGE.
+
+From Here, Go Anywhere
+关注TestDaily,和20W+出国留学党一起奋斗
+459

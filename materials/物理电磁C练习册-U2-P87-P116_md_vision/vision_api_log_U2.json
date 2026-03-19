@@ -1,0 +1,272 @@
+[
+  {
+    "timestamp": "2026-03-19T09:33:14.626694",
+    "model": "qwen-vl-plus-latest",
+    "page": 4,
+    "status": "success",
+    "text_length": 52,
+    "latency_ms": 3813,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:17.145843",
+    "model": "qwen-vl-plus-latest",
+    "page": 1,
+    "status": "success",
+    "text_length": 424,
+    "latency_ms": 6336,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:17.374822",
+    "model": "qwen-vl-plus-latest",
+    "page": 3,
+    "status": "success",
+    "text_length": 893,
+    "latency_ms": 6563,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:17.544830",
+    "model": "qwen-vl-plus-latest",
+    "page": 7,
+    "status": "success",
+    "text_length": 837,
+    "latency_ms": 6725,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:18.755668",
+    "model": "qwen-vl-plus-latest",
+    "page": 5,
+    "status": "success",
+    "text_length": 1331,
+    "latency_ms": 7942,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:22.524295",
+    "model": "qwen-vl-plus-latest",
+    "page": 6,
+    "status": "success",
+    "text_length": 1148,
+    "latency_ms": 11710,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:23.284489",
+    "model": "qwen-vl-plus-latest",
+    "page": 8,
+    "status": "success",
+    "text_length": 721,
+    "latency_ms": 12461,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:24.465822",
+    "model": "qwen-vl-plus-latest",
+    "page": 2,
+    "status": "success",
+    "text_length": 1417,
+    "latency_ms": 13656,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:29.964490",
+    "model": "qwen-vl-plus-latest",
+    "page": 9,
+    "status": "success",
+    "text_length": 644,
+    "latency_ms": 5497,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:32.096398",
+    "model": "qwen-vl-plus-latest",
+    "page": 12,
+    "status": "success",
+    "text_length": 1094,
+    "latency_ms": 7624,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:32.756651",
+    "model": "qwen-vl-plus-latest",
+    "page": 13,
+    "status": "success",
+    "text_length": 1477,
+    "latency_ms": 8283,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:32.883405",
+    "model": "qwen-vl-plus-latest",
+    "page": 15,
+    "status": "success",
+    "text_length": 1079,
+    "latency_ms": 8404,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:33.591768",
+    "model": "qwen-vl-plus-latest",
+    "page": 16,
+    "status": "success",
+    "text_length": 1074,
+    "latency_ms": 9111,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:34.890348",
+    "model": "qwen-vl-plus-latest",
+    "page": 10,
+    "status": "success",
+    "text_length": 2393,
+    "latency_ms": 10422,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:37.258177",
+    "model": "qwen-vl-plus-latest",
+    "page": 11,
+    "status": "success",
+    "text_length": 1362,
+    "latency_ms": 12787,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:40.139700",
+    "model": "qwen-vl-plus-latest",
+    "page": 14,
+    "status": "success",
+    "text_length": 1037,
+    "latency_ms": 15663,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:46.575644",
+    "model": "qwen-vl-plus-latest",
+    "page": 19,
+    "status": "success",
+    "text_length": 632,
+    "latency_ms": 6432,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:46.781450",
+    "model": "qwen-vl-plus-latest",
+    "page": 18,
+    "status": "success",
+    "text_length": 685,
+    "latency_ms": 6638,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:46.819227",
+    "model": "qwen-vl-plus-latest",
+    "page": 24,
+    "status": "success",
+    "text_length": 890,
+    "latency_ms": 6669,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:47.366006",
+    "model": "qwen-vl-plus-latest",
+    "page": 17,
+    "status": "success",
+    "text_length": 842,
+    "latency_ms": 7224,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:48.124289",
+    "model": "qwen-vl-plus-latest",
+    "page": 20,
+    "status": "success",
+    "text_length": 1181,
+    "latency_ms": 7979,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:48.413362",
+    "model": "qwen-vl-plus-latest",
+    "page": 22,
+    "status": "success",
+    "text_length": 1378,
+    "latency_ms": 8266,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:50.909404",
+    "model": "qwen-vl-plus-latest",
+    "page": 23,
+    "status": "success",
+    "text_length": 962,
+    "latency_ms": 10760,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:51.747958",
+    "model": "qwen-vl-plus-latest",
+    "page": 21,
+    "status": "success",
+    "text_length": 2036,
+    "latency_ms": 11602,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:57.455367",
+    "model": "qwen-vl-plus-latest",
+    "page": 27,
+    "status": "success",
+    "text_length": 337,
+    "latency_ms": 5702,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:58.242216",
+    "model": "qwen-vl-plus-latest",
+    "page": 28,
+    "status": "success",
+    "text_length": 527,
+    "latency_ms": 6487,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:33:59.946656",
+    "model": "qwen-vl-plus-latest",
+    "page": 30,
+    "status": "success",
+    "text_length": 1555,
+    "latency_ms": 8188,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:34:00.937844",
+    "model": "qwen-vl-plus-latest",
+    "page": 29,
+    "status": "success",
+    "text_length": 1221,
+    "latency_ms": 9181,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:34:00.985383",
+    "model": "qwen-vl-plus-latest",
+    "page": 25,
+    "status": "success",
+    "text_length": 1638,
+    "latency_ms": 9234,
+    "round": 1
+  },
+  {
+    "timestamp": "2026-03-19T09:34:01.995712",
+    "model": "qwen-vl-plus-latest",
+    "page": 26,
+    "status": "success",
+    "text_length": 1841,
+    "latency_ms": 10244,
+    "round": 1
+  }
+]

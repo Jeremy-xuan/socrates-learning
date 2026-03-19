@@ -1,0 +1,23 @@
+Electromagnetism
+
+UNIT
+5
+
+25. (2021-DE-D61102-Section 2-MCQ-23)
+
+A tightly wound ideal solenoid of radius 0.06 m, has 50 turns, and is measured to be 0.20m in length. It has a current of $ 3.0 \times 10^{-3} $ A. A single loop of wire, with cross sectional area of $ 3.0 \times 10^{-3} \, \text{m}^2 $, is placed inside the solenoid so that it is perpendicular to the magnetic field created by the solenoid. The current in the solenoid is then reduced at steady rate to zero in $ 5.0 \times 10^{-3} $ s. Which of the following is a possible expression for the magnitude of the induced emf while the current is varied in terms of $ \mu_0 $ where the numerical constant has units of $ \frac{\text{A} \cdot \text{V}}{\text{T} \cdot \text{m}} $?
+
+A. $ 150\mu_0 $
+
+B. $ 3.0\mu_0 $
+
+C. $ 0.75\mu_0 $
+
+D. $ 0.45\mu_0 $
+
+E. $ 0.0\mu_0 $
+
+TestDaily
+
+AP Physics C: Electricity and Magnetism Practice Book 257 From Here, Go Anywhere  
+© 2022 TestDaily

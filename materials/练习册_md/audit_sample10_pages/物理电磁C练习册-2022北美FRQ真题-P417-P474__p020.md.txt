@@ -1,0 +1,37 @@
+AP Physics C: Electricity and Magnetism
+
+AP® Physics C: Electricity and Magnetism 2022 Scoring Guidelines
+
+(c) For recognizing the electric field varies as an inverse square of the separation distance from the center of the nonconducting sphere
+1 point
+
+Example Response
+$$ E \propto \frac{1}{r^2} $$
+
+For the correct magnitude, including units, of the electric field at $ 2R $
+1 point
+
+Example Response
+$$ E_{\text{new}} = \frac{E_{\text{old}}}{4} = \frac{8 \, \text{N/C}}{4} $$
+$$ E_{\text{new}} = 2 \, \text{N/C} $$
+
+Total for part (c) 2 points
+
+(d) For using the equation relating potential difference to the electric field with an attempt at either integration limits or evaluating the integral
+1 point
+
+Example Response
+$$ V_f - V_i = -\int_{s_i}^{s_f} E dr $$
+$$ \Delta V = -\int_{r=R}^{r=4R} E dr $$
+
+For substituting the correct expression for the electric field or an expression for $ E $ that is consistent with the explicit functional dependence of $ E(r) $ from part (c)
+1 point
+
+Example Response
+$$ \Delta V = -\int_{r=R}^{r=4R} -\frac{Q}{4\pi\varepsilon_0 r^2} dr $$
+$$ \Delta V = \frac{Q}{4\pi\varepsilon_0} \int_{r=R}^{r=4R} \frac{1}{r^2} dr $$
+
+436
+
+From Here, Go Anywhere  
+关注TestDaily和20W+出国留学党一起奋斗

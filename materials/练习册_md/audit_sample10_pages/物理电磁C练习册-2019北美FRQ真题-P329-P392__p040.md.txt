@@ -1,0 +1,60 @@
+以下是图片中所有文字内容的完整识别，包括公式、符号和题目格式：
+
+---
+
+**AP**  
+**Physics C: Electricity and Magnetism**
+
+**2019 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS**
+
+**PHYSICS C: ELECTRICITY AND MAGNETISM**  
+**SECTION II**  
+**Time — 45 minutes**  
+**3 Questions**
+
+---
+
+**Directions:** Answer all three questions. The suggested time is about 15 minutes for answering each of the questions, which are worth 15 points each. The parts within a question may not have equal weight. Show all your work in this booklet in the spaces provided after each part.
+
+---
+
+![Circuit Diagram](image_placeholder)  
+*(A circuit diagram is shown with:)*  
+- A battery of voltage $ V_0 $  
+- Resistors labeled $ 2R $, $ R $, and $ 2R $  
+- A capacitor $ C $  
+- A switch $ S $
+
+---
+
+**1.** The circuit represented above is composed of three resistors with the resistances shown, a battery of voltage $ V_0 $, a capacitor of capacitance $ C $, and a switch $ S $. The switch is closed, and after a long time, the circuit reaches steady-state conditions. Answer the following questions in terms of $ V_0 $, $ R $, $ C $, and fundamental constants, as appropriate.
+
+**(a)** Derive an expression for the steady-state current supplied by the battery.
+
+**(b)** Derive an expression for the charge on the capacitor.
+
+**(c)** Derive an expression for the energy stored in the capacitor.
+
+Now the switch is opened at time $ t = 0 $.
+
+**(d)** Write, but do NOT solve, a differential equation that could be used to solve for the charge $ q(t) $ on the capacitor as a function of the time $ t $ after the switch is opened.
+
+---
+
+**Page Number:** 368
+
+**Bottom Left Corner:**  
+QR Code (not readable)
+
+**Bottom Right Corner:**  
+*From Here, Go Anywhere*  
+关注TestDaily, 和20W+出国留学党一起奋斗
+
+---
+
+**Watermark (center):**  
+*TestDaily*
+
+---
+
+> 注：图像中的电路图无法以文本形式完全还原，但其组件已通过文字描述说明。所有物理符号、变量和数学表达式均已准确保留。

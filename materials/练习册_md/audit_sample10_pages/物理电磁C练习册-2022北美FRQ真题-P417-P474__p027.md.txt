@@ -1,0 +1,59 @@
+Physics C:Electricity and Magnetism
+
+AP® Physics C: Electricity and Magnetism 2022 Scoring Guidelines
+
+Question 3: Free-Response Question
+15 points
+
+(a) For selecting "Out of the page" and an attempt at a relevant justification
+1 point
+
+For a justification that correctly relates how the changing current in the long wire changes the flux through the loop with respect to time
+1 point
+
+For indicating the induced current will oppose the change in magnetic flux
+1 point
+
+Example Response
+Because the current in the straight wire is decreasing, the magnetic field, which is originally pointing out of the page, is decreasing. Hence, the induced current produces a field that is directed out of the page to compensate for the decreasing flux.
+
+Total for part (a) 3 points
+
+(b) For using an appropriate integral equation, with a substitution of an expression for magnetic field, to calculate magnetic flux
+1 point
+
+Example Response
+\(\Phi_{B}=\int \vec{B} \cdot d \vec{A}\)
+
+For writing a correct equation for the magnetic field as a function of distance from the wire
+1 point
+
+Example Response
+\(B=\frac{\mu_{0} I}{2 \pi r}\)
+
+For substituting the value of \(t=3\) s to find the electric current
+1 point
+
+Example Response
+\(I(t)=C-D t\)
+\(I(3 \mathrm{~s})=10 \mathrm{~A}-(2 \mathrm{~A} / \mathrm{s})(3 \mathrm{~s})\)
+\(I(3 \mathrm{~s})=4 \mathrm{~A}\)
+
+For integrating \(\vec{B}\) with correct limits and a correct substitution for \(d \vec{A}\), to determine the total flux through the loop
+1 point
+
+Example Response
+\[
+\begin{aligned}
+& \Phi_{B}=\int_{d}^{d+W} \frac{\mu_{0} I L}{2 \pi r} d r \\
+& \Phi_{B}=\frac{\mu_{0} I L}{2 \pi} \ln \left[r\right]_{d}^{d+W} \\
+& \Phi_{B}=\frac{\mu_{0} I L}{2 \pi} \ln \left[\frac{d+W}{d}\right] \\
+& \Phi_{B}=\frac{(4 \pi \times 10^{-7} \mathrm{~T} \cdot \mathrm{m} / \mathrm{A})(4 \mathrm{~A})(0.04 \mathrm{~m})}{2 \pi} \ln \left[\frac{0.03 \mathrm{~m}}{0.01 \mathrm{~m}}\right]=3.52 \times 10^{-8} \mathrm{~T} \cdot \mathrm{m}^{2}
+\end{aligned}
+\]
+
+Total for part (b) 4 points
+
+From Here, Go Anywhere
+关注TestDaily,和20W+出国留学党一起奋斗
+443

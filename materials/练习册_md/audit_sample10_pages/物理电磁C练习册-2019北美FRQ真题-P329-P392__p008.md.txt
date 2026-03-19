@@ -1,0 +1,55 @@
+以下是图片中的所有文字内容，包括公式和符号，完整保留题目内容和格式：
+
+---
+
+**AP**  
+**Physics C: Electricity and Magnetism**
+
+**2019 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS**
+
+```
+          y
+          ↑
+          |
+        P • y = c
+          |
+  ←-------+--------→ x
+     b    |    a
+```
+
+*Note:* This figure is shown again for reference.
+
+A student in class argues that using the integral shown below might be a useful approach for determining the electric field at point P.
+
+$$
+E = \int \frac{1}{4\pi\varepsilon_0} \frac{1}{r^2} \, dq
+$$
+
+The student uses this approach and writes the following two integrals for the magnitude of the horizontal and vertical components of the electric field at point P.
+
+Horizontal component:
+$$
+|E_x| = \frac{\lambda}{4\pi\varepsilon_0} \int_{-b}^{a} \frac{x}{(c^2 + x^2)^{3/2}} \, dx
+$$
+
+Vertical component:
+$$
+|E_y| = \frac{\lambda}{4\pi\varepsilon_0} \int_{-b}^{a} \frac{y}{(c^2 + x^2)} \, dy
+$$
+
+(e)  
+i. One of the two expressions above is not correct. Which expression is not correct?  
+____ Horizontal component  ____ Vertical component  
+
+ii. Identify two mistakes in the incorrect expression, and explain how to correct the mistakes.
+
+---
+
+**Page number:** 336  
+**Footer text:** From Here, Go Anywhere  
+关注TestDaily, 和20W+出国留学党一起奋斗  
+QR Code (bottom left corner)
+
+--- 
+
+> **Note**: The watermark "TestDaily" is visible across the center of the page but is not part of the official content.

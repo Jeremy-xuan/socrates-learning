@@ -1,0 +1,54 @@
+Electric Circuits
+
+6. (2012-21)
+
+When two identical resistors are connected in
+series to a battery, the total power dissipated is P.
+When the same two resistors are connected in
+
+el to the same battery, the total power
+
+ated is
+
+Power
+
+Supply |!0V
+
+Four resistors, all with the same resistance R, are
+connected as shown above.
+
+7. (2015-3)
+
+What is the equivalent resistance of the network?
+(A) 4R
+
+(B) 3R
+
+(C) SR/2
+
+(D) 有
+
+(E) 2R/5
+
+8. (2015-4)
+
+If the power supply produces 10 V and the
+resistance R is 5 Q, what is the current in
+resistor Ry?
+
+(A) ISA
+
+(B) SA
+
+(C) 2A
+
+(D) 1/2 A
+
+(E) 15 A
+
+AP Physics C: Electricity and Magnetism Practice Book
+
+123
+
+From Here, Go Anywhere
+@ 2022 TestDaily

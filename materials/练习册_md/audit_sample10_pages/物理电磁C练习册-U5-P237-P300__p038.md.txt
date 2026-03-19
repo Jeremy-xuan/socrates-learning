@@ -1,0 +1,73 @@
+UNIT  
+5  
+Electromagnetism  
+
+46. (2021-DE-D62503-Section 2-MCQ-12)  
+
+The circuit represented in the diagram consists of an ideal battery of voltage $ V $, switch $ S $, an inductor of inductance $ L $, and two resistors of resistance $ R $. A long time after switch $ S $ is closed, the current in the battery is $ I $. Which of the following circuits will also have a current $ I $ in the battery a long time after switch $ S $ is closed?  
+
+A.  
+```
+    ┌─────┐
+    │     │
+S   L     R
+    │     │
+V───┴─────┘
+```
+
+B.  
+```
+    ┌─────┐
+    │     │
+S   L     R
+    │     │
+V───┴─────┘
+        │
+        R
+        │
+        └───
+```
+
+C.  
+```
+    ┌─────┐
+    │     │
+S   L     R
+    │     │
+V───┴─────┘
+        │
+        R
+        │
+        └───
+```
+
+D.  
+```
+    ┌─────┐
+    │     │
+S   R     L
+    │     │
+V───┴─────┘
+        │
+        L
+        │
+        └───
+```
+
+E.  
+```
+    ┌─────┐
+    │     │
+S   L     R
+    │     │
+V───┴─────┘
+        │
+        L
+        │
+        └───
+```
+
+AP Physics C: Electricity and Magnetism Practice Book  
+274  
+From Here, Go Anywhere  
+@ 2022 TestDaily

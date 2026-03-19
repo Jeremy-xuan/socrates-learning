@@ -1,0 +1,33 @@
+Physics C:Electricity and Magnetism
+
+2018 AP®PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS
+
+Rectangular
+Loop
+d
+Wire 2
+I₂
+Figure 3. Side view
+
+Wire 1 is now replaced by a conducting rectangular loop of length ℓ, width w, and resistance R. The loop is placed a distance d from wire 2, as shown. The loop, wire, and distance d are all in the plane of the page. The long side of the loop is parallel to the wire. The current I₂ for wire 2 is decreasing linearly as a function of time t according to the equation I₂ = 2I₀(1 - kt), where k is a positive constant with units of s⁻¹.
+
+(e) Of the following, select the integration that will give an expression for the flux Φ as a function of time t.
+
+___ Φ = ∫_{r=d}^{r=d+w} μ₀(2I₀)(1 - kt)ℓw / (2πr) dr  
+___ Φ = ∫_{r=d}^{r=w} μ₀(2I₀)(1 - kt)ℓw / (2πr) dr  
+___ Φ = ∫_{r=d}^{r=d+w} μ₀(2I₀)(1 - kt)ℓ / (2πr) dr  
+___ Φ = ∫_{r=d}^{r=w} μ₀(2I₀)(1 - kt)ℓ / (2πr) dr
+
+(f) Given that the flux through the rectangular loop as a function of time t is given by the equation  
+Φ = (μ₀I₀ℓ(1 - kt)/π) ln((d + w)/d), derive an expression for the magnitude of the current, if any, induced in the loop. Express your answers in terms of I₀, d, r, w, k, ℓ, and physical constants, as appropriate.
+
+(g) What is the direction of the current, if any, induced in the loop as seen in Figure 3?
+
+___ Clockwise ___ Counterclockwise  
+___ Undefined, because there is no current induced in the loop
+
+Justify your answer.
+
+From Here, Go Anywhere
+关注TestDaily,和20W+出国留学党一起奋斗
+311

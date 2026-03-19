@@ -1,0 +1,15 @@
+Electrostatics
+
+3. (2021-DE-D62503-Section 2-MCQ-18)  
+A rod with a negative charge is brought near, but does not touch, a solid conducting sphere connected to ground. The rod approaches the sphere from the right and remains near the sphere while it is disconnected from ground. After the disconnection from ground, the rod is pulled away. Which of the following represents the charge distribution of the cross-sectional area of the sphere after the rod has been pulled away?
+
+A.  
+B.  
+C.  
+D.  
+E.  
+
+Physics C: Electricity and Magnetism Practice Book  
+7  
+From Here, Go Anywhere  
+© 2022 TestDaily

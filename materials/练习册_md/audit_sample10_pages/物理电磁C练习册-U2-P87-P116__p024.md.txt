@@ -1,0 +1,20 @@
+UNIT  
+2  
+Conductors, Capacitors, Dielectrics  
+
+29. (2021-DE-D62503-Section 2-4)  
+
+An air-filled $ 5\mu F $ capacitor is connected to a 10 V battery and fully charged. The capacitor is then disconnected and isolated from the battery. The plates of the capacitor are pulled apart so that the distance between the plates is increased to 125% of the original value. Dielectric material ($ \kappa = 2 $) is then inserted between the plates so that it fills the entire space between the plates. What is the change in capacitance of the capacitor?  
+
+A. $ \Delta C = +3\mu F $  
+B. $ \Delta C = +1\mu F $  
+C. $ \Delta C = 0 $  
+D. $ \Delta C = -1\mu F $  
+E. $ \Delta C = -3\mu F $  
+
+TestDaily  
+
+AP Physics C: Electricity and Magnetism Practice Book  
+110  
+From Here, Go Anywhere  
+© 2022 TestDaily

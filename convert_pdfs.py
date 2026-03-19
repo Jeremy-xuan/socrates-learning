@@ -7,8 +7,14 @@ def main():
     from marker.models import create_model_dict
     from marker.output import text_from_rendered
 
-    input_dir = "/Users/wujunjie/AP_Physics_EM/materials/练习册"
-    output_dir = "/Users/wujunjie/AP_Physics_EM/materials/练习册_md"
+    import sys
+    if len(sys.argv) > 2:
+        input_dir = sys.argv[1]
+        output_dir = sys.argv[2]
+    else:
+        # Default: 练习册
+        input_dir = "/root/.openclaw/workspace-gongbu/socrates-learning/materials/练习册"
+        output_dir = "/root/.openclaw/workspace-gongbu/socrates-learning/materials/练习册_md"
 
     files = [
         "物理电磁C练习册-U1-P1-P86.pdf",

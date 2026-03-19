@@ -1,0 +1,129 @@
+{
+  "timestamp": "2026-03-19T09:55:30.858954",
+  "model": "qwen-vl-plus-latest",
+  "total_pages": 24,
+  "successful_pages": 8,
+  "success_rate": 33.33333333333333,
+  "page_stats": [
+    {
+      "page": 1,
+      "success": true,
+      "text_length": 442
+    },
+    {
+      "page": 2,
+      "success": true,
+      "text_length": 270
+    },
+    {
+      "page": 3,
+      "success": true,
+      "text_length": 2976
+    },
+    {
+      "page": 4,
+      "success": true,
+      "text_length": 4113
+    },
+    {
+      "page": 5,
+      "success": true,
+      "text_length": 2121
+    },
+    {
+      "page": 6,
+      "success": true,
+      "text_length": 1388
+    },
+    {
+      "page": 7,
+      "success": true,
+      "text_length": 1302
+    },
+    {
+      "page": 8,
+      "success": true,
+      "text_length": 1653
+    },
+    {
+      "page": 9,
+      "success": false,
+      "text_length": 6
+    },
+    {
+      "page": 10,
+      "success": false,
+      "text_length": 6
+    },
+    {
+      "page": 11,
+      "success": false,
+      "text_length": 6
+    },
+    {
+      "page": 12,
+      "success": false,
+      "text_length": 6
+    },
+    {
+      "page": 13,
+      "success": false,
+      "text_length": 6
+    },
+    {
+      "page": 14,
+      "success": false,
+      "text_length": 6
+    },
+    {
+      "page": 15,
+      "success": false,
+      "text_length": 6
+    },
+    {
+      "page": 16,
+      "success": false,
+      "text_length": 6
+    },
+    {
+      "page": 17,
+      "success": false,
+      "text_length": 6
+    },
+    {
+      "page": 18,
+      "success": false,
+      "text_length": 6
+    },
+    {
+      "page": 19,
+      "success": false,
+      "text_length": 6
+    },
+    {
+      "page": 20,
+      "success": false,
+      "text_length": 6
+    },
+    {
+      "page": 21,
+      "success": false,
+      "text_length": 6
+    },
+    {
+      "page": 22,
+      "success": false,
+      "text_length": 6
+    },
+    {
+      "page": 23,
+      "success": false,
+      "text_length": 6
+    },
+    {
+      "page": 24,
+      "success": false,
+      "text_length": 6
+    }
+  ]
+}

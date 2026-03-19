@@ -1,0 +1,53 @@
+(c) 5 points
+
+For correctly selecting face $ABCD$  
+1 point  
+
+For correctly selecting face $ABGH$  
+1 point  
+
+For correctly selecting face $ADEH$  
+1 point  
+
+One earned point is deducted for each incorrect face selected.  
+For a correct and complete justification of the correctly checked choices  
+2 points  
+
+Examples:  
+The electric field from the sphere is radial, so it is parallel to the three correct faces.  
+The electric field vector does not penetrate the area of any of the three correct faces.  
+
+Note: One point can be earned for a partial explanation or an explanation with a minor factual error.
+
+(d) 1 point  
+
+For correctly identifying corner $A$ as having the smallest magnitude of electric field.  
+1 point  
+
+Corner $A$ is inside the small conducting sphere, so the electric field there is zero. All other corners have a nonzero electric field.
+
+(e) 1 point  
+
+For correctly determining the electric field strength at the position indicated in part (d).  
+1 point  
+
+As explained above, the electric field at point $A$ is zero. A correct calculation for whatever point is indicated in part (d) also receives full credit.
+
+(f) 3 points  
+
+For proper use of Gauss's Law that recognizes that the flux is a constant  
+1 point  
+
+Total electric flux = $\phi_{\text{total}} = \frac{Q_{\text{enc}}}{\epsilon_0}$. The cube encloses $\frac{1}{8}$ of the charge, i.e. $Q_{\text{enc}} = \frac{Q}{8}$.  
+
+For recognizing that the flux is the same through each of the three nonzero flux sides of the cube and is equal to $1/3$ of the total flux through the cube.  
+1 point  
+
+For proper reasoning leading to the final correct answer  
+1 point  
+
+$\phi_{\text{total}} = 3\phi_{CDEF} = \frac{Q/8}{\epsilon_0}$  
+
+$\phi_{CDEF} = \frac{Q}{24\epsilon_0}$  
+
+72

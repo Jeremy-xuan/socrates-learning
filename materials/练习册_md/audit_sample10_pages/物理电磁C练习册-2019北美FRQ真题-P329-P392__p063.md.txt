@@ -1,0 +1,19 @@
+Physics C:Electricity and Magnetism
+AP® PHYSICS C: ELECTRICITY AND MAGNETISM
+2019 SCORING GUIDELINES
+Question 3 (continued)
+Learning Objectives
+CHG-1.A.a: Calculate the magnitude and direction of the magnetic force of interaction between a moving charged particle of specified charge and velocity moving in a region of a uniform magnetic field.
+CHG-1.B: Describe the path of different moving charged particles (i.e., of different type of charge or mass) in a uniform magnetic field.
+CHG-1.C: Derive an expression for the radius of a circular path for a charged particle of specified characteristics moving in a specified magnetic field.
+CNV-1.E: Calculate the work done or changes in kinetic energy (or changes in speed) of a charged particle when it is moved through some known potential difference.
+Science Practices
+3.A: Select and plot appropriate data.
+4.C: Linearize data and/or determine a best-fit line or curve.
+4.D: Select relevant features of a graph to describe a physical situation or solve problems.
+5.A: Select an appropriate law, definition, or mathematical relationship or model to describe a physical situation.
+5.E: Derive a symbolic expression from known quantities by selecting and following a logical algebraic pathway.
+7.A: Make a scientific claim.
+From Here, Go Anywhere
+关注TestDaily,和20W+出国留学党一起奋斗
+391

@@ -1,0 +1,18 @@
+UNIT  
+2  
+Conductors, Capacitors, Dielectrics  
+
+22. (2021-DE-D62503-Section 2-7)  
+
+One of the three identical parallel plate capacitors is given a charge, $ q $, so that it has energy $ U $. The other two capacitors are initially uncharged. The capacitors are then connected as shown in the figure. After steady-state is reached, the total energy of the new system of capacitors is  
+
+A. $ 3U $  
+B. $ U $  
+C. $ \frac{U}{3} $  
+D. $ \frac{U}{6} $  
+E. $ \frac{U}{9} $  
+
+AP Physics C: Electricity and Magnetism Practice Book  
+104  
+From Here, Go Anywhere  
+© 2022 TestDaily

@@ -1,0 +1,36 @@
+Electrostatics
+
+UNIT  
+1  
+
+84. (2016-1)
+
+Two point charges, $ q_1 $ and $ q_2 $, are fixed in place on the x-axis at positions $ x_1 = -1.00 \, \text{m} $ and $ x_2 = +0.50 \, \text{m} $, respectively. Charge $ q_2 $ has a value of $ +2.0 \, \text{nC} $. Values of electric potential are illustrated by the given equipotentials in the diagram shown above, which is drawn to scale.
+
+(a) Calculate the value of $ q_1 $.
+
+(b) At point C on the diagram, draw a vector representing the direction of the electric field at that point.
+
+(c) Calculate the approximate magnitude of the electric field strength at point D on the diagram.
+
+(d) The equipotential labeled 0 V is the cross section of a nearly spherical surface. Calculate the electric flux for this surface.
+
+(e) A proton is placed at point A and then released from rest.  
+ i. Calculate the work done by the electric field on the proton as it moves from point A to point E.  
+ ii. Calculate the speed of the proton when it reaches point E.
+
+(f) An electron is released from rest at point B. Which of the following indicates the direction of the initial acceleration, if any, of the electron?  
+____ Up  
+____ Down  
+____ Left  
+____ Right  
+____ Into the page  
+____ Out of the page  
+____ The direction is undefined since the acceleration is zero.  
+
+Justify your answer.
+
+Physics C: Electricity and Magnetism Practice Book  
+63  
+From Here, Go Anywhere  
+© 2022 TestDaily

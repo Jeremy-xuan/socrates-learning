@@ -1,0 +1,31 @@
+Physics C:Electricity and Magnetism
+
+AP® Physics C: Electricity and Magnetism 2021 Free-Response Questions
+
+Continue your response to QUESTION 3 on this page.
+
+The ring is then rotated so that the plane of the ring is aligned at a 30° angle to the magnetic field, as shown.
+
+The magnitude of the magnetic field is reset to a magnitude of $ B_0 $ at a new time $ t = 0 $ and again begins to decrease at $ t = 1 \, \text{s} $ according to the equation $ B(t) = \frac{\beta}{t} $, where $ \beta $ has units of T·s.
+
+(c) Will the amount of energy dissipated in the ring from $ t = 1 \, \text{s} $ to $ t = 2 \, \text{s} $ be greater than, less than, or equal to the energy dissipated in part (b)?
+
+______ Greater than  
+______ Less than  
+______ Equal to  
+
+Justify your answer.
+
+$$
+A = 0.50 \, \text{m}^2 \\
+\text{Resistance} = 2.00 \, \Omega \\
+B_0 = 0.50 \, \text{T}
+$$
+
+The ring is now mounted on an axle that is perpendicular to the magnetic field. The magnitude of the magnetic field is now held at a constant $ B_0 = 0.50 \, \text{T} $, as shown. The ring rotates about the axle, and the emf $ \mathcal{E} $ induced in the ring as a function of time $ t $ is shown on the graph.
+
+(d) Calculate the angular speed $ \omega $ of the rotating ring in rad/s.
+
+From Here, Go Anywhere  
+关注TestDaily和20W+出国留学党一起奋斗  
+404

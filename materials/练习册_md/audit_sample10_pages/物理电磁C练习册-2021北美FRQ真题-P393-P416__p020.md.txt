@@ -1,0 +1,52 @@
+AP® Physics C: Electricity & Magnetism 2021 Scoring Guidelines
+
+(a) iii. For drawing a circle around the appropriate data point
+1 point
+
+F (μN)
+13,000
+12,000
+11,000
+10,000
+9000
+0
+20
+40
+60
+80
+100
+d² (1/m²)
+
+iv. For a correct answer
+1 point
+From the graph, 1/d² = 82.5 m⁻²
+d = 0.11 m
+
+v. For indicating that the y-intercept should be the weight of the conducting sphere
+and insulating rod
+1 point
+For a correct justification
+1 point
+
+Example responses for part (a)(v).
+When the spheres are infinitely far apart, there is no electric force between them.
+The only force recorded by the balance must be the weight of the lower sphere and
+insulating rod.
+OR
+The scale is zeroed before the insulating rod, and lower sphere are placed on it, so
+the nonzero y-intercept is their weight.
+
+Total for part (a) 8 points
+
+(b) For selecting "Yes" and providing a correct justification
+1 point
+
+Example response for part (b)
+Because the later force measurements are lower than the expected values on the
+best-fit line, then a decrease in charge could explain the discrepancy seen in the
+data.
+
+412
+
+From Here, Go Anywhere
+关注TestDaily和20W+出国留学党一起奋斗

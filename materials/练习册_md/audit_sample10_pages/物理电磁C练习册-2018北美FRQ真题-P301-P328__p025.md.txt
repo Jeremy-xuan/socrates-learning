@@ -1,0 +1,49 @@
+Physics C:Electricity and Magnetism
+
+AP® PHYSICS C: ELECTRICITY AND MAGNETISM
+2018 SCORING GUIDELINES
+
+Question 3 (continued)
+
+Distribution
+of points
+
+(c) 2 points
+
+Calculate the numerical value of the angle to the horizontal for the direction of the net magnetic field at point P.
+
+For correctly relating the angle to the individual magnetic fields
+1 point
+$$
+\theta = \tan^{-1}\left(\frac{B_1}{B_2}\right)
+$$
+
+For correctly substituting $ B_1 $ and $ B_2 $ into the equation
+1 point
+$$
+\theta = \tan^{-1}\left(\frac{B_1}{B_2}\right) = \tan^{-1}\left(\frac{\left(\frac{\mu_0 I}{2\pi d}\right)}{\left(\frac{\mu_0 (2I)}{2\pi d}\right)}\right) = \tan^{-1}\left(\frac{1}{2}\right) = 26.6^\circ
+$$
+
+(d) 2 points
+
+Wire 1 is now released. Which of the following best describes the initial motion of wire 1 due to the magnetic field of wire 2? Assume gravitational effects are negligible.
+
+____ Wire 1 will not move.
+____ Wire 1 will move upward as viewed in Figure 1.
+____ Wire 1 will move downward as viewed in Figure 1.
+____ Wire 1 will rotate clockwise as viewed in Figure 2.
+____ Wire 1 will rotate counterclockwise as viewed in Figure 2.
+
+Justify your answer.
+
+For stating there is no translational motion since the magnetic forces on the wire cancel
+1 point
+
+For stating there is a net torque which causes rotation
+1 point
+
+Example: In Figure 2, the top portion of wire 1 will be in a magnetic field into the page from wire 2 and, thus, will experience a force to the right. The bottom portion of wire 1 will be in a magnetic field out of the page from wire 2 and, thus, will experience a force to the left. So the net force will be zero, but there will be a net clockwise torque, so the wire will rotate clockwise.
+
+From Here, Go Anywhere
+关注TestDaily,和20W+出国留学党一起奋斗
+325

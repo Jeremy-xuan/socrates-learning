@@ -1,0 +1,58 @@
+以下是图片中所有文字内容的完整识别，包括题目、公式、符号和格式信息：
+
+---
+
+**AP® PHYSICS C: ELECTRICITY AND MAGNETISM**  
+**2018 SCORING GUIDELINES**
+
+**Question 1**  
+**15 points total**  
+**Distribution of points**
+
+A solid plastic sphere of radius $ a $ and a conducting spherical shell of inner radius $ b $ and outer radius $ c $ are shown in the figure above. The shell has an unknown charge. The solid plastic sphere has a charge per unit volume given by $ \rho(r) = \beta r $, where $ \beta $ is a positive constant and $ r $ is the distance from the center of the sphere. Express your answers to parts (a), (b), and (c) in terms of $ \beta $, $ r $, $ a $, and physical constants, as appropriate.
+
+**(a)** Consider a Gaussian sphere of radius $ r $ concentric with the plastic sphere. Derive an expression for the charge enclosed by the Gaussian sphere for the following regions.
+
+**i.** 3 points  
+$ r < a $
+
+| For using the integral to determine the charge enclosed | 1 point |
+|--------------------------------------------------------|---------|
+| $ q_{\text{enc}} = \int \rho dV = \int \beta r dV $ | |
+
+| For correctly substituting for $ dV $ into the integration to determine the charge enclosed | 1 point |
+|-----------------------------------------------------------------------------------------------|---------|
+| $ q_{\text{enc}} = \int (4\pi r'^2)(\beta r') dr' = 4\beta\pi \int_{r'=0}^{r'=r} r'^3 dr' = 4\beta\pi \left[ \frac{r'^4}{4} \right]_{r'=0}^{r'=r} $ | |
+
+| For a correct answer | 1 point |
+|----------------------|---------|
+| $ q_{\text{enc}} = \beta\pi r^4 $ | |
+
+**ii.** 1 point  
+$ a < r < b $
+
+| For an answer consistent with (a)(i) | 1 point |
+|--------------------------------------|---------|
+| $ q_{\text{enc}} = \beta\pi a^4 $ | |
+
+---
+
+**Page number:** 316  
+**Footer text:**  
+From Here, Go Anywhere  
+关注TestDaily和20W+出国留学党一起奋斗  
+
+---
+
+**Additional Notes:**
+
+- **Logo and Title:** The top left corner contains the "AP" logo inside a blue circle, followed by "Physics C: Electricity and Magnetism" in blue.
+- **Figure Description:** A diagram shows:
+  - A solid gray sphere labeled "Plastic Sphere" with radius $ a $.
+  - A surrounding concentric hollow shell labeled "Conducting Spherical Shell" with inner radius $ b $ and outer radius $ c $.
+  - Radial distances $ a $, $ b $, and $ c $ are marked.
+- **Watermark:** A faint watermark reading "TestDaily" appears across the center of the page.
+- **QR Code:** Located at the bottom left corner.
+- **Formatting:** The document uses standard AP scoring rubrics format with point distributions and detailed breakdowns of how points are awarded.
+
+This is a complete transcription of all visible text, formulas, and structural elements in the image.

@@ -1,0 +1,34 @@
+Electric Circuits
+
+27. (2021-DE-D62503-Section 1-MCQ-34)
+
+Students have a circuit with a 6 V_ battery placed in series with a 12 Q resistor. They measure the
+current in and potential difference across the resistor simultaneously. The ammeter reads 0.45 A , and the
+
+voltmeter reads 5.4 V . What is the most likely reason for his unexpected result?
+
+A. The resistance of the voltmeter is lower than expected.
+B. The resistance of the voltmeter is higher than expected.
+C. The resistance of the ammeter is lower than expected.
+
+D. The resistance of the ammeter is higher than expected.
+
+E. The resistance of the battery is lower than expected.
+
+28. (2021-DE-D62503-Section 2-MCQ-11)
+
+R\=100
+
+A battery is connected to three resistors with known quantities as given in the diagram. What is the
+resistance of R;?
+
+ASQ
+
+B.10Q
+C.15Q
+D.20Q
+
+E.25Q
+
+AP Physics C: Electricity and Magnetism Practice Book                 136                                                  From Here, Go Anywhere
+@ 2022 TestDaily

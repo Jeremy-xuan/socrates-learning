@@ -1,0 +1,50 @@
+Physics C:Electricity and Magnetism
+
+AP® Physics C: Electricity and Magnetism 2022 Scoring Guidelines
+
+(e)(i) For indicating E is positive and the magnitude increases linearly from 0 to R
+1 point
+For a positive, decreasing concave up graph for r > R
+1 point
+For a discontinuous increase in magnitude at r = 3R
+1 point
+
+Example Response
+
+E
+I
+II
+III
+O
+R
+3R
+r
+
+(e)(ii) For a graph that is concave down and always decreasing as r increases within Region I
+1 point
+For a graph that is concave up and always decreasing as r increases within each of the Regions II and III
+1 point
+For a continuous graph across all three regions
+1 point
+
+Scoring Notes:
+• The intercept of the curve on the vertical axis is irrelevant. The intercept of the curve on the horizontal axis is irrelevant. The curve can, hence, cross the horizontal axis at any location or even be entirely on the negative side of the horizontal axis as long as the other criteria are met.
+• The response can earn a maximum of 2 points if all three segments are reflected across the horizontal axis.
+
+Example Response
+
+V
+I
+II
+III
+O
+R
+3R
+r
+
+Total for part (e) 6 points
+Total for question 1 15 points
+
+From Here, Go Anywhere
+关注TestDaily,和20W+出国留学党一起奋斗
+467

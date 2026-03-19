@@ -1,0 +1,43 @@
+30.  
+(b) 1 point  
+
+Comparing the equation for electric field between parallel plates to the given equation:  
+$$
+E = \frac{Q}{\kappa \varepsilon_0 A} = \frac{Q}{\varepsilon_0 \kappa_0 e^{-x/D} A}
+$$  
+For an answer consistent with part (a)-iii  
+$$
+\kappa = \kappa_0 e^{-x/D}
+$$  
+1 point  
+
+(d) 1 point  
+
+Using the equation for capacitance:  
+$$
+C = \frac{Q}{\Delta V} = \frac{Q}{\left( \frac{QD}{\varepsilon_0 \kappa_0 A} \right)(e - 1)}
+$$  
+For an answer consistent with part (c)-ii  
+$$
+C = \frac{\varepsilon_0 \kappa_0 A}{D(e - 1)}
+$$  
+$$
+C = \frac{\varepsilon_0 \kappa_0 A}{1.72D}
+$$  
+1 point  
+
+(e) 3 points  
+
+For selecting $ U_V > U_C $  
+1 point  
+
+For correctly comparing the capacitance or the potential difference with the varying dielectric constant to the capacitance or the potential difference with the uniform dielectric constant  
+1 point  
+
+For correctly comparing the two stored energies consistent with the comparison of the capacitances or potential differences  
+1 point  
+
+Example: According to the equation from part (d), $ C_C > C_V $. Since $ U = \frac{Q^2}{2C} $, if the charge stored on the two capacitors is the same, then $ U_V > U_C $.  
+
+Distribution of points  
+115

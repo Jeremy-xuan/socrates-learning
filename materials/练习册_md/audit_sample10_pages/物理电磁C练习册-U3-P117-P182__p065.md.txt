@@ -1,0 +1,42 @@
+cc)
+
+ii
+
+2 points
+
+4                                                   1 point
+For using a voltage consistent with part (b) in J = 同                                           bp
+For substituting the correct resistance (32) into Ohm’s law                                    1 point
+3 points
+Current
+i
+OR
+OD                                                          Time
+Fora curve that is concave up throughout graph                                                            1 point
+For having the horizontal axis as an asymptote                                                              1 point
+For labeling the maximum current consistent with part (e)(i)                                         _1 point
+2 points
+For selecting “Equal to”                                                                                    1 point
+For a correct justification invoking conservation of energy                                                   1 point
+
+Example: After the switch is opened, the capacitor will discharge all of its stored energy
+and charge. Assuming no energy is lost in the wire, then the only parts of the circuit
+that will dissipate this energy are the two resistors in series with the capacitor.
+
+Alternate Solution
+
+Alternate Points
+
+For selecting “Less than”
+
+J point
+
+For a correct justification invoking conservation of energy
+
+J point
+
+Example: After the switch is opened, the capacitor will discharge all of its stored energy
+and charge. Additionally there is energy lost due to resistance in the wire and/or
+energy loss in the capacitor.
+
+181

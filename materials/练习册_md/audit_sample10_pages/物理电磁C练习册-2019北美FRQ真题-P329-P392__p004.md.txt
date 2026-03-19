@@ -1,0 +1,260 @@
+以下是图片中的所有文字内容，包括公式和符号，完整保留了题目内容和格式：
+
+---
+
+**AP Physics C: Electricity and Magnetism**
+
+**ADVANCED PLACEMENT PHYSICS C EQUATIONS**
+
+---
+
+### **MECHANICS**
+
+$$
+v_x = v_{x,0} + a_x t
+$$
+$$
+x = x_0 + v_{x0} t + \frac{1}{2} a_x t^2
+$$
+$$
+v_x^2 = v_{x0}^2 + 2a_x(x - x_0)
+$$
+$$
+\vec{a} = \frac{\sum \vec{F}}{m} = \frac{\vec{F}_{net}}{m}
+$$
+$$
+\vec{F} = \frac{d\vec{p}}{dt}
+$$
+$$
+\vec{J} = \int \vec{F} \, dt = \Delta \vec{p}
+$$
+$$
+\vec{p} = m\vec{v}
+$$
+$$
+|\vec{F}_f| \leq \mu |\vec{F}_N|
+$$
+$$
+\Delta E = W = \int \vec{F} \cdot d\vec{r}
+$$
+$$
+K = \frac{1}{2}mv^2
+$$
+$$
+P = \frac{dE}{dt}
+$$
+$$
+P = \vec{F} \cdot \vec{v}
+$$
+$$
+\Delta U_g = mg\Delta h
+$$
+$$
+a_c = \frac{v^2}{r} = \omega^2 r
+$$
+$$
+\vec{\tau} = \vec{r} \times \vec{F}
+$$
+$$
+\vec{\alpha} = \frac{\sum \vec{\tau}}{I} = \frac{\vec{\tau}_{net}}{I}
+$$
+$$
+I = \int r^2 dm = \sum mr^2
+$$
+$$
+x_{cm} = \frac{\sum m_i x_i}{\sum m_i}
+$$
+$$
+v = r\omega
+$$
+$$
+\vec{L} = \vec{r} \times \vec{p} = I\vec{\omega}
+$$
+$$
+K = \frac{1}{2} I \omega^2
+$$
+$$
+\omega = \omega_0 + \alpha t
+$$
+$$
+\theta = \theta_0 + \omega_0 t + \frac{1}{2} \alpha t^2
+$$
+
+---
+
+**Definitions and Variables (Mechanics):**
+
+- $ a $ = acceleration  
+- $ E $ = energy  
+- $ F $ = force  
+- $ f $ = frequency  
+- $ h $ = height  
+- $ I $ = rotational inertia  
+- $ J $ = impulse  
+- $ K $ = kinetic energy  
+- $ k $ = spring constant  
+- $ \ell $ = length  
+- $ L $ = angular momentum  
+- $ m $ = mass  
+- $ P $ = power  
+- $ p $ = momentum  
+- $ r $ = radius or distance  
+- $ T $ = period  
+- $ t $ = time  
+- $ U $ = potential energy  
+- $ v $ = velocity or speed  
+- $ W $ = work done on a system  
+- $ x $ = position  
+- $ \mu $ = coefficient of friction  
+- $ \theta $ = angle  
+- $ \tau $ = torque  
+- $ \omega $ = angular speed  
+- $ \alpha $ = angular acceleration  
+- $ \phi $ = phase angle  
+
+---
+
+### **ELECTRICITY AND MAGNETISM**
+
+$$
+|\vec{F}_E| = \frac{1}{4\pi \varepsilon_0} \left| \frac{q_1 q_2}{r^2} \right|
+$$
+$$
+\vec{E} = \frac{\vec{F}_E}{q}
+$$
+$$
+\oint \vec{E} \cdot d\vec{A} = \frac{Q}{\varepsilon_0}
+$$
+$$
+E_x = -\frac{dV}{dx}
+$$
+$$
+\Delta V = -\int \vec{E} \cdot d\vec{r}
+$$
+$$
+V = \frac{1}{4\pi \varepsilon_0} \sum_i \frac{q_i}{r_i}
+$$
+$$
+U_E = qV = \frac{1}{4\pi \varepsilon_0} \frac{q_1 q_2}{r}
+$$
+$$
+\Delta V = \frac{Q}{C}
+$$
+$$
+C = \frac{\kappa \varepsilon_0 A}{d}
+$$
+$$
+C_p = \sum_i C_i
+$$
+$$
+\frac{1}{C_s} = \sum_i \frac{1}{C_i}
+$$
+$$
+I = \frac{dQ}{dt}
+$$
+$$
+U_C = \frac{1}{2} Q \Delta V = \frac{1}{2} C (\Delta V)^2
+$$
+$$
+R = \frac{\rho \ell}{A}
+$$
+$$
+T_s = 2\pi \sqrt{\frac{m}{k}}
+$$
+$$
+T_p = 2\pi \sqrt{\frac{\ell}{g}}
+$$
+$$
+|\vec{F}_G| = \frac{G m_1 m_2}{r^2}
+$$
+$$
+U_G = -\frac{G m_1 m_2}{r}
+$$
+
+---
+
+**Definitions and Variables (Electricity and Magnetism):**
+
+- $ A $ = area  
+- $ B $ = magnetic field  
+- $ C $ = capacitance  
+- $ d $ = distance  
+- $ E $ = electric field  
+- $ \mathcal{E} $ = emf  
+- $ F $ = force  
+- $ I $ = current  
+- $ J $ = current density  
+- $ L $ = inductance  
+- $ \ell $ = length  
+- $ n $ = number of loops of wire per unit length  
+- $ N $ = number of charge carriers per unit volume  
+- $ P $ = power  
+- $ Q $ = charge  
+- $ q $ = point charge  
+- $ R $ = resistance  
+- $ r $ = radius or distance  
+- $ t $ = time  
+- $ U $ = potential or stored energy  
+- $ V $ = electric potential  
+- $ v $ = velocity or speed  
+- $ \rho $ = resistivity  
+- $ \Phi $ = flux  
+- $ \kappa $ = dielectric constant  
+
+---
+
+$$
+\vec{F}_M = q\vec{v} \times \vec{B}
+$$
+$$
+\oint \vec{B} \cdot d\vec{\ell} = \mu_0 I
+$$
+$$
+d\vec{B} = \frac{\mu_0}{4\pi} \frac{I \, d\vec{\ell} \times \hat{r}}{r^2}
+$$
+$$
+\vec{F} = \int I \, d\vec{\ell} \times \vec{B}
+$$
+$$
+B_s = \mu_0 nI
+$$
+$$
+\Phi_B = \int \vec{B} \cdot d\vec{A}
+$$
+$$
+\mathcal{E} = \oint \vec{E} \cdot d\vec{\ell} = -\frac{d\Phi_B}{dt}
+$$
+$$
+\mathcal{E} = -L \frac{dI}{dt}
+$$
+$$
+U_L = \frac{1}{2} L I^2
+$$
+$$
+\vec{E} = \rho \vec{J}
+$$
+$$
+I = Ne v_d A
+$$
+$$
+I = \frac{\Delta V}{R}
+$$
+$$
+R_s = \sum_i R_i
+$$
+$$
+\frac{1}{R_p} = \sum_i \frac{1}{R_i}
+$$
+$$
+P = I \Delta V
+$$
+
+---
+
+**Page Number:** 332  
+**Footer Text:** From Here, Go Anywhere  
+关注 TestDaily 和 20W+ 出国留学党一起奋斗  
+
+---
+
+（注：图片中包含一个水印 “TestDaily” 及二维码，但未影响文本内容识别。）

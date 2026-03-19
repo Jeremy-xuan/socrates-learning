@@ -1,0 +1,38 @@
+Electric Circuits
+
+(d) On the grid below, plot the straight line data points from part (c). Clearly scale and label all axes, including
+f appropriate. Draw a straight line that best represents the data.
+
+1
+PTAC tet
+
+POS R RR tobe teen
+
+[LELIL_LLLLLL LI LT
+
+1
+
+(e) Use your straight line to calculate the value of the res
+
+ance of the wire sample.
+
+(f) The wire sample has a length of 3.00 m and a radius of 1.00 x 10~ m_. Calculate the resistivity of the
+material from which the wire sample is made.
+
+(g)
+
+i, Suppose the ammeter used to collect these data was not ideal. Would the actual value of the resistance
+
+of the wire sample be greater than, less than, or equal to that calculated in part (e) ?
+Greater than             Less than             Equal to
+Justify your answer.
+
+ii. If the ideal voltmeter is replaced by a voltmeter that is not ideal and the experiment is repeated, would
+the readings of the ideal ammeter be greater than, less than, or equal to those in the data chart before
+part (c) ?
+
+Greater than               Less than               Equal to
+Justify your answer.
+AP Physics C: Electricity and Magnetism Practice Book                 148                                                  From Here, Go Anywhere
+
+@ 2022 TestDaily

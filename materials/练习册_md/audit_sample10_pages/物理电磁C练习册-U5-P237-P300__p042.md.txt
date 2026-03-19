@@ -1,0 +1,33 @@
+UNIT  
+5  
+Electromagnetism  
+
+50. (2014-2)  
+
+The rectangular loop of wire shown on the left in the figure above has mass $ M $, length $ L $, width $ L/4 $, and resistance $ R $. It is initially moving to the right at constant speed $ v_0 $, with no net force acting on it. At time $ t = 0 $ the loop enters a region of length $ 2L $ that contains a uniform magnetic field of magnitude $ B $ directed into the page. The loop emerges from the field at time $ t_f $ with final speed $ v_f $. Express all algebraic answers to the following in terms of $ M, L, R, B, v_0 $, and fundamental constants, as appropriate.  
+
+(a) Let $ x $ represent the position of the right end of the loop. Place a check mark in the appropriate box in each column in the table below to indicate whether the speed of the loop increases, decreases, or stays the same as the loop moves to the right.  
+
+| Speed of Loop | Position of Right End of Loop |
+|---------------|-------------------------------|
+|               | $ L < x < 2L $              | $ 2L < x < 3L $             | $ 3L < x < 4L $             | $ 4L < x < 5L $             |
+| Increases     |                               |                               |                               |                               |
+| Decreases     |                               |                               |                               |                               |
+| Stays the same|                               |                               |                               |                               |
+
+(b) Derive an expression for the magnitude of the current induced in the loop as its right edge enters the field.  
+
+(c) What is the direction of the induced current determined in part (b)?  
+____ Clockwise      ____ Counterclockwise  
+Justify your answer.  
+
+(d) Write, but do not solve, a differential equation for the speed $ v $ as a function of time as the loop enters the field.  
+
+(e) What is the direction of the acceleration of the loop just before its left edge leaves the field?  
+____ Left        ____ Right        ____ Up        ____ Down  
+Justify your answer.  
+
+AP Physics C: Electricity and Magnetism Practice Book  
+278  
+From Here, Go Anywhere  
+© 2022 TestDaily

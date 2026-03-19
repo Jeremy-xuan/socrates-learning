@@ -1,0 +1,529 @@
+{
+  "seed": 20260319,
+  "threshold": 0.22,
+  "mode": "fast_multimodal_sample10",
+  "files": [
+    {
+      "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+      "pass": 4,
+      "total": 10,
+      "pass_rate": 0.4,
+      "details": [
+        {
+          "page": 5,
+          "score": 0.206,
+          "status": "FAIL"
+        },
+        {
+          "page": 6,
+          "score": 0.285,
+          "status": "PASS"
+        },
+        {
+          "page": 8,
+          "score": 0.253,
+          "status": "PASS"
+        },
+        {
+          "page": 11,
+          "score": 0.253,
+          "status": "PASS"
+        },
+        {
+          "page": 14,
+          "score": 0.159,
+          "status": "FAIL"
+        },
+        {
+          "page": 16,
+          "score": 0.127,
+          "status": "FAIL"
+        },
+        {
+          "page": 17,
+          "score": 0.288,
+          "status": "PASS"
+        },
+        {
+          "page": 20,
+          "score": 0.0,
+          "status": "FAIL"
+        },
+        {
+          "page": 21,
+          "score": 0.188,
+          "status": "FAIL"
+        },
+        {
+          "page": 25,
+          "score": 0.146,
+          "status": "FAIL"
+        }
+      ]
+    },
+    {
+      "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+      "pass": 8,
+      "total": 10,
+      "pass_rate": 0.8,
+      "details": [
+        {
+          "page": 4,
+          "score": 0.111,
+          "status": "FAIL"
+        },
+        {
+          "page": 8,
+          "score": 0.415,
+          "status": "PASS"
+        },
+        {
+          "page": 25,
+          "score": 0.143,
+          "status": "FAIL"
+        },
+        {
+          "page": 27,
+          "score": 0.255,
+          "status": "PASS"
+        },
+        {
+          "page": 29,
+          "score": 0.312,
+          "status": "PASS"
+        },
+        {
+          "page": 34,
+          "score": 0.598,
+          "status": "PASS"
+        },
+        {
+          "page": 40,
+          "score": 0.411,
+          "status": "PASS"
+        },
+        {
+          "page": 49,
+          "score": 0.293,
+          "status": "PASS"
+        },
+        {
+          "page": 55,
+          "score": 0.225,
+          "status": "PASS"
+        },
+        {
+          "page": 63,
+          "score": 0.271,
+          "status": "PASS"
+        }
+      ]
+    },
+    {
+      "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+      "pass": 5,
+      "total": 10,
+      "pass_rate": 0.5,
+      "details": [
+        {
+          "page": 1,
+          "score": 0.195,
+          "status": "FAIL"
+        },
+        {
+          "page": 7,
+          "score": 0.22,
+          "status": "FAIL"
+        },
+        {
+          "page": 8,
+          "score": 0.166,
+          "status": "FAIL"
+        },
+        {
+          "page": 12,
+          "score": 0.164,
+          "status": "FAIL"
+        },
+        {
+          "page": 18,
+          "score": 0.189,
+          "status": "FAIL"
+        },
+        {
+          "page": 19,
+          "score": 0.297,
+          "status": "PASS"
+        },
+        {
+          "page": 20,
+          "score": 0.481,
+          "status": "PASS"
+        },
+        {
+          "page": 21,
+          "score": 0.707,
+          "status": "PASS"
+        },
+        {
+          "page": 23,
+          "score": 0.241,
+          "status": "PASS"
+        },
+        {
+          "page": 24,
+          "score": 0.275,
+          "status": "PASS"
+        }
+      ]
+    },
+    {
+      "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+      "pass": 5,
+      "total": 10,
+      "pass_rate": 0.5,
+      "details": [
+        {
+          "page": 14,
+          "score": 0.271,
+          "status": "PASS"
+        },
+        {
+          "page": 20,
+          "score": 0.189,
+          "status": "FAIL"
+        },
+        {
+          "page": 27,
+          "score": 0.175,
+          "status": "FAIL"
+        },
+        {
+          "page": 32,
+          "score": 0.406,
+          "status": "PASS"
+        },
+        {
+          "page": 37,
+          "score": 0.571,
+          "status": "PASS"
+        },
+        {
+          "page": 43,
+          "score": 0.295,
+          "status": "PASS"
+        },
+        {
+          "page": 51,
+          "score": 0.166,
+          "status": "FAIL"
+        },
+        {
+          "page": 55,
+          "score": 0.424,
+          "status": "PASS"
+        },
+        {
+          "page": 56,
+          "score": 0.174,
+          "status": "FAIL"
+        },
+        {
+          "page": 57,
+          "score": 0.135,
+          "status": "FAIL"
+        }
+      ]
+    },
+    {
+      "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+      "pass": 6,
+      "total": 10,
+      "pass_rate": 0.6,
+      "details": [
+        {
+          "page": 7,
+          "score": 0.298,
+          "status": "PASS"
+        },
+        {
+          "page": 15,
+          "score": 0.284,
+          "status": "PASS"
+        },
+        {
+          "page": 33,
+          "score": 0.358,
+          "status": "PASS"
+        },
+        {
+          "page": 39,
+          "score": 0.407,
+          "status": "PASS"
+        },
+        {
+          "page": 51,
+          "score": 0.162,
+          "status": "FAIL"
+        },
+        {
+          "page": 58,
+          "score": 0.188,
+          "status": "FAIL"
+        },
+        {
+          "page": 63,
+          "score": 0.228,
+          "status": "PASS"
+        },
+        {
+          "page": 64,
+          "score": 0.125,
+          "status": "FAIL"
+        },
+        {
+          "page": 70,
+          "score": 0.237,
+          "status": "PASS"
+        },
+        {
+          "page": 72,
+          "score": 0.202,
+          "status": "FAIL"
+        }
+      ]
+    },
+    {
+      "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+      "pass": 8,
+      "total": 10,
+      "pass_rate": 0.8,
+      "details": [
+        {
+          "page": 7,
+          "score": 0.408,
+          "status": "PASS"
+        },
+        {
+          "page": 9,
+          "score": 0.433,
+          "status": "PASS"
+        },
+        {
+          "page": 18,
+          "score": 0.612,
+          "status": "PASS"
+        },
+        {
+          "page": 20,
+          "score": 0.699,
+          "status": "PASS"
+        },
+        {
+          "page": 21,
+          "score": 0.561,
+          "status": "PASS"
+        },
+        {
+          "page": 23,
+          "score": 0.646,
+          "status": "PASS"
+        },
+        {
+          "page": 24,
+          "score": 0.298,
+          "status": "PASS"
+        },
+        {
+          "page": 26,
+          "score": 0.145,
+          "status": "FAIL"
+        },
+        {
+          "page": 28,
+          "score": 0.266,
+          "status": "PASS"
+        },
+        {
+          "page": 29,
+          "score": 0.159,
+          "status": "FAIL"
+        }
+      ]
+    },
+    {
+      "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+      "pass": 7,
+      "total": 10,
+      "pass_rate": 0.7,
+      "details": [
+        {
+          "page": 7,
+          "score": 0.447,
+          "status": "PASS"
+        },
+        {
+          "page": 20,
+          "score": 0.465,
+          "status": "PASS"
+        },
+        {
+          "page": 32,
+          "score": 0.236,
+          "status": "PASS"
+        },
+        {
+          "page": 35,
+          "score": 0.398,
+          "status": "PASS"
+        },
+        {
+          "page": 45,
+          "score": 0.221,
+          "status": "PASS"
+        },
+        {
+          "page": 51,
+          "score": 0.105,
+          "status": "FAIL"
+        },
+        {
+          "page": 52,
+          "score": 0.409,
+          "status": "PASS"
+        },
+        {
+          "page": 54,
+          "score": 0.551,
+          "status": "PASS"
+        },
+        {
+          "page": 64,
+          "score": 0.101,
+          "status": "FAIL"
+        },
+        {
+          "page": 65,
+          "score": 0.088,
+          "status": "FAIL"
+        }
+      ]
+    },
+    {
+      "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+      "pass": 4,
+      "total": 10,
+      "pass_rate": 0.4,
+      "details": [
+        {
+          "page": 11,
+          "score": 0.298,
+          "status": "PASS"
+        },
+        {
+          "page": 14,
+          "score": 0.547,
+          "status": "PASS"
+        },
+        {
+          "page": 16,
+          "score": 0.193,
+          "status": "FAIL"
+        },
+        {
+          "page": 30,
+          "score": 0.202,
+          "status": "FAIL"
+        },
+        {
+          "page": 32,
+          "score": 0.665,
+          "status": "PASS"
+        },
+        {
+          "page": 34,
+          "score": 0.165,
+          "status": "FAIL"
+        },
+        {
+          "page": 43,
+          "score": 0.25,
+          "status": "PASS"
+        },
+        {
+          "page": 46,
+          "score": 0.09,
+          "status": "FAIL"
+        },
+        {
+          "page": 47,
+          "score": 0.133,
+          "status": "FAIL"
+        },
+        {
+          "page": 54,
+          "score": 0.093,
+          "status": "FAIL"
+        }
+      ]
+    },
+    {
+      "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+      "pass": 5,
+      "total": 10,
+      "pass_rate": 0.5,
+      "details": [
+        {
+          "page": 17,
+          "score": 0.538,
+          "status": "PASS"
+        },
+        {
+          "page": 21,
+          "score": 0.601,
+          "status": "PASS"
+        },
+        {
+          "page": 29,
+          "score": 0.231,
+          "status": "PASS"
+        },
+        {
+          "page": 38,
+          "score": 0.277,
+          "status": "PASS"
+        },
+        {
+          "page": 40,
+          "score": 0.153,
+          "status": "FAIL"
+        },
+        {
+          "page": 42,
+          "score": 0.131,
+          "status": "FAIL"
+        },
+        {
+          "page": 45,
+          "score": 0.223,
+          "status": "PASS"
+        },
+        {
+          "page": 53,
+          "score": 0.105,
+          "status": "FAIL"
+        },
+        {
+          "page": 61,
+          "score": 0.134,
+          "status": "FAIL"
+        },
+        {
+          "page": 63,
+          "score": 0.162,
+          "status": "FAIL"
+        }
+      ]
+    }
+  ]
+}

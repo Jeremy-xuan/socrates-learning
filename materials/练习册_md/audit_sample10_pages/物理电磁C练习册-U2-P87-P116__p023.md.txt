@@ -1,0 +1,29 @@
+Conductors, Capacitors, Dielectrics
+
+UNIT
+2
+
+28. (2021-DE-D61102-Section 2-20)
+
+L
+L
+d
+Dielectric
+κs
+Capacitor S
+Capacitor T
+Diameter
+L
+d
+Dielectric
+κT
+
+Two capacitors of the same capacitance C have the identical plate separation d. Capacitor S has square plates of side L and is filled with a material of dielectric constant κs. Capacitor T has circular plates of diameter L and is filled with a material of dielectric constant κT. Which of the following could represent the relationship between κs and κT?
+
+A. κT = κs  
+B. κT = 4/π κs  
+C. κT = π/4 κs  
+D. κT = 1/π κs  
+E. κT = πκs  
+
+AP Physics C: Electricity and Magnetism Practice Book 109 From Here, Go Anywhere © 2022 TestDaily

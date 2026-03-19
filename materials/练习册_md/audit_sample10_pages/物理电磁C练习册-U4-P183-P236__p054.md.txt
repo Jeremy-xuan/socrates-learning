@@ -1,0 +1,19 @@
+(d)
+
+1 point
+If the line on the graph does not go through the origin, select “Yes”
+For a correct justification                                                                                                         1 point
+Example: The horizontal component of Earth’s magnetic field will add or subtract from.
+the magnetic field of the solenoid depending on the orientation of the solenoid.
+Alternate Solution                                                                                                         Alternate Points
+| If the line on the graph does pass through the origin, select “No”
+For a correct justification                                                                                        J point
+Example: Based on the graph, the line passes through the origin, so the magnetic field is
+zero when the emf of the power supply is zero, therefore Earth’s magnetic field is
+not affecting the values of B.
+1 point
+Select “No”
+For a correct justification                                                                                                 1 point
+Example: The horizontal component of Earth’s magnetic field will not affect the change
+in magnetic field as the emf is changed. Therefore, the value for the resistance of the
+solenoid will not change.

@@ -1,0 +1,3794 @@
+[
+  {
+    "timestamp": "2026-03-19T04:51:45.032950",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 1,
+    "status": "success",
+    "latency_ms": 4041
+  },
+  {
+    "timestamp": "2026-03-19T04:51:48.138131",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 2,
+    "status": "success",
+    "latency_ms": 3105
+  },
+  {
+    "timestamp": "2026-03-19T04:52:28.164631",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 3,
+    "status": "success",
+    "latency_ms": 40026
+  },
+  {
+    "timestamp": "2026-03-19T04:52:31.700296",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 4,
+    "status": "success",
+    "latency_ms": 3535
+  },
+  {
+    "timestamp": "2026-03-19T04:52:39.343361",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 5,
+    "status": "success",
+    "latency_ms": 7642
+  },
+  {
+    "timestamp": "2026-03-19T04:52:48.091661",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 6,
+    "status": "success",
+    "latency_ms": 8747
+  },
+  {
+    "timestamp": "2026-03-19T04:52:52.608241",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 7,
+    "status": "success",
+    "latency_ms": 4516
+  },
+  {
+    "timestamp": "2026-03-19T04:53:02.577040",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 8,
+    "status": "success",
+    "latency_ms": 9968
+  },
+  {
+    "timestamp": "2026-03-19T04:53:09.171997",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 9,
+    "status": "success",
+    "latency_ms": 6594
+  },
+  {
+    "timestamp": "2026-03-19T04:53:15.896103",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 10,
+    "status": "success",
+    "latency_ms": 6723
+  },
+  {
+    "timestamp": "2026-03-19T04:53:23.607668",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 11,
+    "status": "success",
+    "latency_ms": 7711
+  },
+  {
+    "timestamp": "2026-03-19T04:53:27.165414",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 12,
+    "status": "success",
+    "latency_ms": 3557
+  },
+  {
+    "timestamp": "2026-03-19T04:53:31.250517",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 13,
+    "status": "success",
+    "latency_ms": 4084
+  },
+  {
+    "timestamp": "2026-03-19T04:53:34.325345",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 14,
+    "status": "success",
+    "latency_ms": 3074
+  },
+  {
+    "timestamp": "2026-03-19T04:53:43.029434",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 15,
+    "status": "success",
+    "latency_ms": 8703
+  },
+  {
+    "timestamp": "2026-03-19T04:53:53.754244",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 16,
+    "status": "success",
+    "latency_ms": 10724
+  },
+  {
+    "timestamp": "2026-03-19T04:54:02.877348",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 17,
+    "status": "success",
+    "latency_ms": 9122
+  },
+  {
+    "timestamp": "2026-03-19T04:54:10.801982",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 18,
+    "status": "success",
+    "latency_ms": 7924
+  },
+  {
+    "timestamp": "2026-03-19T04:54:16.598470",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 19,
+    "status": "success",
+    "latency_ms": 5796
+  },
+  {
+    "timestamp": "2026-03-19T04:54:28.213388",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 20,
+    "status": "success",
+    "latency_ms": 11614
+  },
+  {
+    "timestamp": "2026-03-19T04:54:36.769457",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 21,
+    "status": "success",
+    "latency_ms": 8555
+  },
+  {
+    "timestamp": "2026-03-19T04:54:45.254224",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 22,
+    "status": "success",
+    "latency_ms": 8484
+  },
+  {
+    "timestamp": "2026-03-19T04:54:51.270761",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 23,
+    "status": "success",
+    "latency_ms": 6016
+  },
+  {
+    "timestamp": "2026-03-19T04:55:00.932689",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 24,
+    "status": "success",
+    "latency_ms": 9661
+  },
+  {
+    "timestamp": "2026-03-19T04:55:09.939241",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 25,
+    "status": "success",
+    "latency_ms": 9005
+  },
+  {
+    "timestamp": "2026-03-19T04:55:19.640714",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 26,
+    "status": "success",
+    "latency_ms": 9701
+  },
+  {
+    "timestamp": "2026-03-19T04:55:30.933692",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 27,
+    "status": "success",
+    "latency_ms": 11292
+  },
+  {
+    "timestamp": "2026-03-19T04:55:34.291942",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2018北美FRQ真题-P301-P328.pdf",
+    "page": 28,
+    "status": "success",
+    "latency_ms": 3357
+  },
+  {
+    "timestamp": "2026-03-19T04:55:46.966435",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 1,
+    "status": "success",
+    "latency_ms": 4204
+  },
+  {
+    "timestamp": "2026-03-19T04:55:50.602596",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 2,
+    "status": "success",
+    "latency_ms": 3636
+  },
+  {
+    "timestamp": "2026-03-19T04:56:24.048175",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 3,
+    "status": "success",
+    "latency_ms": 33445
+  },
+  {
+    "timestamp": "2026-03-19T04:56:27.840800",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 4,
+    "status": "success",
+    "latency_ms": 3792
+  },
+  {
+    "timestamp": "2026-03-19T04:56:38.349951",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 5,
+    "status": "success",
+    "latency_ms": 10509
+  },
+  {
+    "timestamp": "2026-03-19T04:56:47.498928",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 6,
+    "status": "success",
+    "latency_ms": 9148
+  },
+  {
+    "timestamp": "2026-03-19T04:56:53.450442",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 7,
+    "status": "success",
+    "latency_ms": 5950
+  },
+  {
+    "timestamp": "2026-03-19T04:57:00.503148",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 8,
+    "status": "success",
+    "latency_ms": 7052
+  },
+  {
+    "timestamp": "2026-03-19T04:57:06.470207",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 9,
+    "status": "success",
+    "latency_ms": 5966
+  },
+  {
+    "timestamp": "2026-03-19T04:57:12.064564",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 10,
+    "status": "success",
+    "latency_ms": 5593
+  },
+  {
+    "timestamp": "2026-03-19T04:57:19.256023",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 11,
+    "status": "success",
+    "latency_ms": 7191
+  },
+  {
+    "timestamp": "2026-03-19T04:57:25.246556",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 12,
+    "status": "success",
+    "latency_ms": 5990
+  },
+  {
+    "timestamp": "2026-03-19T04:57:33.508300",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 13,
+    "status": "success",
+    "latency_ms": 8261
+  },
+  {
+    "timestamp": "2026-03-19T04:57:37.572889",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 14,
+    "status": "success",
+    "latency_ms": 4064
+  },
+  {
+    "timestamp": "2026-03-19T04:57:41.442355",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 15,
+    "status": "success",
+    "latency_ms": 3869
+  },
+  {
+    "timestamp": "2026-03-19T04:57:44.526019",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 16,
+    "status": "success",
+    "latency_ms": 3083
+  },
+  {
+    "timestamp": "2026-03-19T04:57:56.564187",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 17,
+    "status": "success",
+    "latency_ms": 12038
+  },
+  {
+    "timestamp": "2026-03-19T04:58:02.940104",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 18,
+    "status": "success",
+    "latency_ms": 6375
+  },
+  {
+    "timestamp": "2026-03-19T04:58:12.041119",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 19,
+    "status": "success",
+    "latency_ms": 9100
+  },
+  {
+    "timestamp": "2026-03-19T04:58:24.365165",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 20,
+    "status": "success",
+    "latency_ms": 12323
+  },
+  {
+    "timestamp": "2026-03-19T04:58:33.398382",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 21,
+    "status": "success",
+    "latency_ms": 9032
+  },
+  {
+    "timestamp": "2026-03-19T04:58:47.726094",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 22,
+    "status": "success",
+    "latency_ms": 14327
+  },
+  {
+    "timestamp": "2026-03-19T04:58:56.866168",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 23,
+    "status": "success",
+    "latency_ms": 9139
+  },
+  {
+    "timestamp": "2026-03-19T04:59:04.557219",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 24,
+    "status": "success",
+    "latency_ms": 7690
+  },
+  {
+    "timestamp": "2026-03-19T04:59:14.763687",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 25,
+    "status": "success",
+    "latency_ms": 10206
+  },
+  {
+    "timestamp": "2026-03-19T04:59:21.185793",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 26,
+    "status": "success",
+    "latency_ms": 6421
+  },
+  {
+    "timestamp": "2026-03-19T04:59:29.351796",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 27,
+    "status": "success",
+    "latency_ms": 8165
+  },
+  {
+    "timestamp": "2026-03-19T04:59:37.615962",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 28,
+    "status": "success",
+    "latency_ms": 8263
+  },
+  {
+    "timestamp": "2026-03-19T04:59:47.545475",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 29,
+    "status": "success",
+    "latency_ms": 9929
+  },
+  {
+    "timestamp": "2026-03-19T04:59:56.109112",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 30,
+    "status": "success",
+    "latency_ms": 8563
+  },
+  {
+    "timestamp": "2026-03-19T05:00:01.343262",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 31,
+    "status": "success",
+    "latency_ms": 5234
+  },
+  {
+    "timestamp": "2026-03-19T05:00:07.492567",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 32,
+    "status": "success",
+    "latency_ms": 6148
+  },
+  {
+    "timestamp": "2026-03-19T05:00:17.849443",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 33,
+    "status": "success",
+    "latency_ms": 10356
+  },
+  {
+    "timestamp": "2026-03-19T05:00:22.932974",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 34,
+    "status": "success",
+    "latency_ms": 5083
+  },
+  {
+    "timestamp": "2026-03-19T05:00:27.338168",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 35,
+    "status": "success",
+    "latency_ms": 4404
+  },
+  {
+    "timestamp": "2026-03-19T05:00:30.391781",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 36,
+    "status": "success",
+    "latency_ms": 3053
+  },
+  {
+    "timestamp": "2026-03-19T05:00:57.482043",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 37,
+    "status": "success",
+    "latency_ms": 27089
+  },
+  {
+    "timestamp": "2026-03-19T05:01:01.285418",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 38,
+    "status": "success",
+    "latency_ms": 3802
+  },
+  {
+    "timestamp": "2026-03-19T05:01:10.516307",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 39,
+    "status": "success",
+    "latency_ms": 9230
+  },
+  {
+    "timestamp": "2026-03-19T05:01:16.632862",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 40,
+    "status": "success",
+    "latency_ms": 6116
+  },
+  {
+    "timestamp": "2026-03-19T05:01:22.759053",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 41,
+    "status": "success",
+    "latency_ms": 6125
+  },
+  {
+    "timestamp": "2026-03-19T05:01:28.649486",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 42,
+    "status": "success",
+    "latency_ms": 5889
+  },
+  {
+    "timestamp": "2026-03-19T05:01:33.044300",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 43,
+    "status": "success",
+    "latency_ms": 4394
+  },
+  {
+    "timestamp": "2026-03-19T05:01:38.503829",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 44,
+    "status": "success",
+    "latency_ms": 5459
+  },
+  {
+    "timestamp": "2026-03-19T05:01:47.077074",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 45,
+    "status": "success",
+    "latency_ms": 8572
+  },
+  {
+    "timestamp": "2026-03-19T05:01:50.457928",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 46,
+    "status": "success",
+    "latency_ms": 3380
+  },
+  {
+    "timestamp": "2026-03-19T05:01:54.441633",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 47,
+    "status": "success",
+    "latency_ms": 3983
+  },
+  {
+    "timestamp": "2026-03-19T05:01:57.525402",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 48,
+    "status": "success",
+    "latency_ms": 3083
+  },
+  {
+    "timestamp": "2026-03-19T05:02:06.825755",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 49,
+    "status": "success",
+    "latency_ms": 9299
+  },
+  {
+    "timestamp": "2026-03-19T05:02:15.872188",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 50,
+    "status": "success",
+    "latency_ms": 9046
+  },
+  {
+    "timestamp": "2026-03-19T05:02:26.509140",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 51,
+    "status": "success",
+    "latency_ms": 10636
+  },
+  {
+    "timestamp": "2026-03-19T05:02:33.150536",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 52,
+    "status": "success",
+    "latency_ms": 6640
+  },
+  {
+    "timestamp": "2026-03-19T05:02:39.496200",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 53,
+    "status": "success",
+    "latency_ms": 6345
+  },
+  {
+    "timestamp": "2026-03-19T05:02:46.673189",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 54,
+    "status": "success",
+    "latency_ms": 7176
+  },
+  {
+    "timestamp": "2026-03-19T05:02:59.790051",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 55,
+    "status": "success",
+    "latency_ms": 13116
+  },
+  {
+    "timestamp": "2026-03-19T05:03:08.708564",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 56,
+    "status": "success",
+    "latency_ms": 8918
+  },
+  {
+    "timestamp": "2026-03-19T05:03:24.805727",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 57,
+    "status": "success",
+    "latency_ms": 16096
+  },
+  {
+    "timestamp": "2026-03-19T05:03:33.061539",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 58,
+    "status": "success",
+    "latency_ms": 8255
+  },
+  {
+    "timestamp": "2026-03-19T05:03:41.070884",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 59,
+    "status": "success",
+    "latency_ms": 8008
+  },
+  {
+    "timestamp": "2026-03-19T05:03:59.738403",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 60,
+    "status": "success",
+    "latency_ms": 18667
+  },
+  {
+    "timestamp": "2026-03-19T05:04:11.401958",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 61,
+    "status": "success",
+    "latency_ms": 11663
+  },
+  {
+    "timestamp": "2026-03-19T05:04:20.743531",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 62,
+    "status": "success",
+    "latency_ms": 9341
+  },
+  {
+    "timestamp": "2026-03-19T05:04:26.919767",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 63,
+    "status": "success",
+    "latency_ms": 6175
+  },
+  {
+    "timestamp": "2026-03-19T05:04:29.679088",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2019北美FRQ真题-P329-P392.pdf",
+    "page": 64,
+    "status": "success",
+    "latency_ms": 2758
+  },
+  {
+    "timestamp": "2026-03-19T05:04:37.967748",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 1,
+    "status": "success",
+    "latency_ms": 4892
+  },
+  {
+    "timestamp": "2026-03-19T05:04:41.160848",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 2,
+    "status": "success",
+    "latency_ms": 3192
+  },
+  {
+    "timestamp": "2026-03-19T05:05:07.998646",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 3,
+    "status": "success",
+    "latency_ms": 26837
+  },
+  {
+    "timestamp": "2026-03-19T05:05:11.802767",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 4,
+    "status": "success",
+    "latency_ms": 3803
+  },
+  {
+    "timestamp": "2026-03-19T05:05:24.867820",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 5,
+    "status": "success",
+    "latency_ms": 13064
+  },
+  {
+    "timestamp": "2026-03-19T05:05:31.062057",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 6,
+    "status": "success",
+    "latency_ms": 6193
+  },
+  {
+    "timestamp": "2026-03-19T05:05:36.879283",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 7,
+    "status": "success",
+    "latency_ms": 5816
+  },
+  {
+    "timestamp": "2026-03-19T05:05:42.853213",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 8,
+    "status": "success",
+    "latency_ms": 5973
+  },
+  {
+    "timestamp": "2026-03-19T05:05:50.502640",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 9,
+    "status": "success",
+    "latency_ms": 7649
+  },
+  {
+    "timestamp": "2026-03-19T05:05:58.599813",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 10,
+    "status": "success",
+    "latency_ms": 8096
+  },
+  {
+    "timestamp": "2026-03-19T05:06:05.170462",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 11,
+    "status": "success",
+    "latency_ms": 6570
+  },
+  {
+    "timestamp": "2026-03-19T05:06:11.655766",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 12,
+    "status": "success",
+    "latency_ms": 6484
+  },
+  {
+    "timestamp": "2026-03-19T05:06:17.291083",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 13,
+    "status": "success",
+    "latency_ms": 5634
+  },
+  {
+    "timestamp": "2026-03-19T05:06:20.302826",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 14,
+    "status": "success",
+    "latency_ms": 3011
+  },
+  {
+    "timestamp": "2026-03-19T05:06:25.137913",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 15,
+    "status": "success",
+    "latency_ms": 4835
+  },
+  {
+    "timestamp": "2026-03-19T05:06:28.355351",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 16,
+    "status": "success",
+    "latency_ms": 3216
+  },
+  {
+    "timestamp": "2026-03-19T05:06:42.555952",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 17,
+    "status": "success",
+    "latency_ms": 14200
+  },
+  {
+    "timestamp": "2026-03-19T05:06:50.277952",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 18,
+    "status": "success",
+    "latency_ms": 7721
+  },
+  {
+    "timestamp": "2026-03-19T05:06:59.818550",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 19,
+    "status": "success",
+    "latency_ms": 9540
+  },
+  {
+    "timestamp": "2026-03-19T05:07:05.457753",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 20,
+    "status": "success",
+    "latency_ms": 5638
+  },
+  {
+    "timestamp": "2026-03-19T05:07:12.754986",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 21,
+    "status": "success",
+    "latency_ms": 7296
+  },
+  {
+    "timestamp": "2026-03-19T05:07:27.600839",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 22,
+    "status": "success",
+    "latency_ms": 14845
+  },
+  {
+    "timestamp": "2026-03-19T05:07:38.775929",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 23,
+    "status": "success",
+    "latency_ms": 11174
+  },
+  {
+    "timestamp": "2026-03-19T05:07:42.202732",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2021北美FRQ真题-P393-P416.pdf",
+    "page": 24,
+    "status": "success",
+    "latency_ms": 3426
+  },
+  {
+    "timestamp": "2026-03-19T05:07:56.487314",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 1,
+    "status": "success",
+    "latency_ms": 5350
+  },
+  {
+    "timestamp": "2026-03-19T05:07:59.590601",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 2,
+    "status": "success",
+    "latency_ms": 3102
+  },
+  {
+    "timestamp": "2026-03-19T05:08:28.819599",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 3,
+    "status": "success",
+    "latency_ms": 29228
+  },
+  {
+    "timestamp": "2026-03-19T05:08:32.472894",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 4,
+    "status": "success",
+    "latency_ms": 3652
+  },
+  {
+    "timestamp": "2026-03-19T05:08:43.100157",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 5,
+    "status": "success",
+    "latency_ms": 10627
+  },
+  {
+    "timestamp": "2026-03-19T05:08:48.230521",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 6,
+    "status": "success",
+    "latency_ms": 5129
+  },
+  {
+    "timestamp": "2026-03-19T05:08:53.236438",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 7,
+    "status": "success",
+    "latency_ms": 5004
+  },
+  {
+    "timestamp": "2026-03-19T05:08:57.466997",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 8,
+    "status": "success",
+    "latency_ms": 4229
+  },
+  {
+    "timestamp": "2026-03-19T05:09:02.996572",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 9,
+    "status": "success",
+    "latency_ms": 5528
+  },
+  {
+    "timestamp": "2026-03-19T05:09:10.053566",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 10,
+    "status": "success",
+    "latency_ms": 7056
+  },
+  {
+    "timestamp": "2026-03-19T05:09:15.006560",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 11,
+    "status": "success",
+    "latency_ms": 4952
+  },
+  {
+    "timestamp": "2026-03-19T05:09:22.520746",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 12,
+    "status": "success",
+    "latency_ms": 7513
+  },
+  {
+    "timestamp": "2026-03-19T05:09:27.916914",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 13,
+    "status": "success",
+    "latency_ms": 5394
+  },
+  {
+    "timestamp": "2026-03-19T05:09:33.480250",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 14,
+    "status": "success",
+    "latency_ms": 5562
+  },
+  {
+    "timestamp": "2026-03-19T05:09:37.033438",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 15,
+    "status": "success",
+    "latency_ms": 3552
+  },
+  {
+    "timestamp": "2026-03-19T05:09:40.420899",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 16,
+    "status": "success",
+    "latency_ms": 3387
+  },
+  {
+    "timestamp": "2026-03-19T05:09:45.535781",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 17,
+    "status": "success",
+    "latency_ms": 5113
+  },
+  {
+    "timestamp": "2026-03-19T05:09:50.689736",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 18,
+    "status": "success",
+    "latency_ms": 5153
+  },
+  {
+    "timestamp": "2026-03-19T05:10:04.888388",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 19,
+    "status": "success",
+    "latency_ms": 14198
+  },
+  {
+    "timestamp": "2026-03-19T05:10:12.388737",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 20,
+    "status": "success",
+    "latency_ms": 7499
+  },
+  {
+    "timestamp": "2026-03-19T05:10:24.255280",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 21,
+    "status": "success",
+    "latency_ms": 11865
+  },
+  {
+    "timestamp": "2026-03-19T05:10:29.118921",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 22,
+    "status": "success",
+    "latency_ms": 4862
+  },
+  {
+    "timestamp": "2026-03-19T05:10:35.620398",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 23,
+    "status": "success",
+    "latency_ms": 6500
+  },
+  {
+    "timestamp": "2026-03-19T05:10:39.667300",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 24,
+    "status": "success",
+    "latency_ms": 4046
+  },
+  {
+    "timestamp": "2026-03-19T05:10:49.185105",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 25,
+    "status": "success",
+    "latency_ms": 9517
+  },
+  {
+    "timestamp": "2026-03-19T05:10:53.333106",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 26,
+    "status": "success",
+    "latency_ms": 4147
+  },
+  {
+    "timestamp": "2026-03-19T05:11:03.869210",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 27,
+    "status": "success",
+    "latency_ms": 10535
+  },
+  {
+    "timestamp": "2026-03-19T05:11:15.540867",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 28,
+    "status": "success",
+    "latency_ms": 11670
+  },
+  {
+    "timestamp": "2026-03-19T05:11:19.813909",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 29,
+    "status": "success",
+    "latency_ms": 4272
+  },
+  {
+    "timestamp": "2026-03-19T05:11:25.862360",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 30,
+    "status": "success",
+    "latency_ms": 6047
+  },
+  {
+    "timestamp": "2026-03-19T05:11:30.472607",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 31,
+    "status": "success",
+    "latency_ms": 4610
+  },
+  {
+    "timestamp": "2026-03-19T05:11:33.856845",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 32,
+    "status": "success",
+    "latency_ms": 3383
+  },
+  {
+    "timestamp": "2026-03-19T05:12:06.077165",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 33,
+    "status": "success",
+    "latency_ms": 32220
+  },
+  {
+    "timestamp": "2026-03-19T05:12:09.846709",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 34,
+    "status": "success",
+    "latency_ms": 3768
+  },
+  {
+    "timestamp": "2026-03-19T05:12:19.224795",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 35,
+    "status": "success",
+    "latency_ms": 9378
+  },
+  {
+    "timestamp": "2026-03-19T05:12:25.095900",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 36,
+    "status": "success",
+    "latency_ms": 5870
+  },
+  {
+    "timestamp": "2026-03-19T05:12:29.051163",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 37,
+    "status": "success",
+    "latency_ms": 3954
+  },
+  {
+    "timestamp": "2026-03-19T05:12:33.198747",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 38,
+    "status": "success",
+    "latency_ms": 4147
+  },
+  {
+    "timestamp": "2026-03-19T05:12:38.333120",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 39,
+    "status": "success",
+    "latency_ms": 5134
+  },
+  {
+    "timestamp": "2026-03-19T05:12:43.974000",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 40,
+    "status": "success",
+    "latency_ms": 5640
+  },
+  {
+    "timestamp": "2026-03-19T05:12:48.138048",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 41,
+    "status": "success",
+    "latency_ms": 4163
+  },
+  {
+    "timestamp": "2026-03-19T05:12:53.921391",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 42,
+    "status": "success",
+    "latency_ms": 5783
+  },
+  {
+    "timestamp": "2026-03-19T05:13:00.181066",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 43,
+    "status": "success",
+    "latency_ms": 6258
+  },
+  {
+    "timestamp": "2026-03-19T05:13:05.766989",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 44,
+    "status": "success",
+    "latency_ms": 5585
+  },
+  {
+    "timestamp": "2026-03-19T05:13:14.448005",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 45,
+    "status": "success",
+    "latency_ms": 8680
+  },
+  {
+    "timestamp": "2026-03-19T05:13:18.202742",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 46,
+    "status": "success",
+    "latency_ms": 3753
+  },
+  {
+    "timestamp": "2026-03-19T05:13:25.334845",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 47,
+    "status": "success",
+    "latency_ms": 7132
+  },
+  {
+    "timestamp": "2026-03-19T05:13:28.540756",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 48,
+    "status": "success",
+    "latency_ms": 3205
+  },
+  {
+    "timestamp": "2026-03-19T05:13:41.048290",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 49,
+    "status": "success",
+    "latency_ms": 12507
+  },
+  {
+    "timestamp": "2026-03-19T05:13:54.004464",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 50,
+    "status": "success",
+    "latency_ms": 12955
+  },
+  {
+    "timestamp": "2026-03-19T05:14:03.339445",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 51,
+    "status": "success",
+    "latency_ms": 9334
+  },
+  {
+    "timestamp": "2026-03-19T05:14:11.674577",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 52,
+    "status": "success",
+    "latency_ms": 8334
+  },
+  {
+    "timestamp": "2026-03-19T05:14:18.212506",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 53,
+    "status": "success",
+    "latency_ms": 6537
+  },
+  {
+    "timestamp": "2026-03-19T05:14:27.391640",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 54,
+    "status": "success",
+    "latency_ms": 9178
+  },
+  {
+    "timestamp": "2026-03-19T05:14:31.888836",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 55,
+    "status": "success",
+    "latency_ms": 4496
+  },
+  {
+    "timestamp": "2026-03-19T05:14:37.432548",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 56,
+    "status": "success",
+    "latency_ms": 5543
+  },
+  {
+    "timestamp": "2026-03-19T05:14:45.926081",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 57,
+    "status": "success",
+    "latency_ms": 8493
+  },
+  {
+    "timestamp": "2026-03-19T05:14:59.237979",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-2022北美FRQ真题-P417-P474.pdf",
+    "page": 58,
+    "status": "success",
+    "latency_ms": 13311
+  },
+  {
+    "timestamp": "2026-03-19T05:15:14.957445",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 1,
+    "status": "success",
+    "latency_ms": 3637
+  },
+  {
+    "timestamp": "2026-03-19T05:15:23.530265",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 2,
+    "status": "success",
+    "latency_ms": 8572
+  },
+  {
+    "timestamp": "2026-03-19T05:15:27.335658",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 3,
+    "status": "success",
+    "latency_ms": 3805
+  },
+  {
+    "timestamp": "2026-03-19T05:15:30.352254",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 4,
+    "status": "success",
+    "latency_ms": 3016
+  },
+  {
+    "timestamp": "2026-03-19T05:15:35.424593",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 5,
+    "status": "success",
+    "latency_ms": 5071
+  },
+  {
+    "timestamp": "2026-03-19T05:15:40.003616",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 6,
+    "status": "success",
+    "latency_ms": 4578
+  },
+  {
+    "timestamp": "2026-03-19T05:15:44.343308",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 7,
+    "status": "success",
+    "latency_ms": 4339
+  },
+  {
+    "timestamp": "2026-03-19T05:15:49.841023",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 8,
+    "status": "success",
+    "latency_ms": 5497
+  },
+  {
+    "timestamp": "2026-03-19T05:15:55.643894",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 9,
+    "status": "success",
+    "latency_ms": 5802
+  },
+  {
+    "timestamp": "2026-03-19T05:16:01.901956",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 10,
+    "status": "success",
+    "latency_ms": 6257
+  },
+  {
+    "timestamp": "2026-03-19T05:16:07.859121",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 11,
+    "status": "success",
+    "latency_ms": 5956
+  },
+  {
+    "timestamp": "2026-03-19T05:16:13.727908",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 12,
+    "status": "success",
+    "latency_ms": 5868
+  },
+  {
+    "timestamp": "2026-03-19T05:16:19.667739",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 13,
+    "status": "success",
+    "latency_ms": 5939
+  },
+  {
+    "timestamp": "2026-03-19T05:16:26.932374",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 14,
+    "status": "success",
+    "latency_ms": 7264
+  },
+  {
+    "timestamp": "2026-03-19T05:16:33.028703",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 15,
+    "status": "success",
+    "latency_ms": 6095
+  },
+  {
+    "timestamp": "2026-03-19T05:16:46.825450",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 16,
+    "status": "success",
+    "latency_ms": 13796
+  },
+  {
+    "timestamp": "2026-03-19T05:16:57.933742",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 17,
+    "status": "success",
+    "latency_ms": 11107
+  },
+  {
+    "timestamp": "2026-03-19T05:17:03.763732",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 18,
+    "status": "success",
+    "latency_ms": 5829
+  },
+  {
+    "timestamp": "2026-03-19T05:17:09.833905",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 19,
+    "status": "success",
+    "latency_ms": 6069
+  },
+  {
+    "timestamp": "2026-03-19T05:17:17.403524",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 20,
+    "status": "success",
+    "latency_ms": 7569
+  },
+  {
+    "timestamp": "2026-03-19T05:17:24.286762",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 21,
+    "status": "success",
+    "latency_ms": 6882
+  },
+  {
+    "timestamp": "2026-03-19T05:17:33.491124",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 22,
+    "status": "success",
+    "latency_ms": 9203
+  },
+  {
+    "timestamp": "2026-03-19T05:17:38.111846",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 23,
+    "status": "success",
+    "latency_ms": 4620
+  },
+  {
+    "timestamp": "2026-03-19T05:17:43.643749",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 24,
+    "status": "success",
+    "latency_ms": 5531
+  },
+  {
+    "timestamp": "2026-03-19T05:17:49.335531",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 25,
+    "status": "success",
+    "latency_ms": 5691
+  },
+  {
+    "timestamp": "2026-03-19T05:17:53.987646",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 26,
+    "status": "success",
+    "latency_ms": 4651
+  },
+  {
+    "timestamp": "2026-03-19T05:18:02.021587",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 27,
+    "status": "success",
+    "latency_ms": 8033
+  },
+  {
+    "timestamp": "2026-03-19T05:18:10.595735",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 28,
+    "status": "success",
+    "latency_ms": 8573
+  },
+  {
+    "timestamp": "2026-03-19T05:18:17.890442",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 29,
+    "status": "success",
+    "latency_ms": 7294
+  },
+  {
+    "timestamp": "2026-03-19T05:18:26.562355",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 30,
+    "status": "success",
+    "latency_ms": 8671
+  },
+  {
+    "timestamp": "2026-03-19T05:18:33.729803",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 31,
+    "status": "success",
+    "latency_ms": 7167
+  },
+  {
+    "timestamp": "2026-03-19T05:18:39.688458",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 32,
+    "status": "success",
+    "latency_ms": 5958
+  },
+  {
+    "timestamp": "2026-03-19T05:18:45.796893",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 33,
+    "status": "success",
+    "latency_ms": 6107
+  },
+  {
+    "timestamp": "2026-03-19T05:18:51.434611",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 34,
+    "status": "success",
+    "latency_ms": 5637
+  },
+  {
+    "timestamp": "2026-03-19T05:19:02.383509",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 35,
+    "status": "success",
+    "latency_ms": 10948
+  },
+  {
+    "timestamp": "2026-03-19T05:19:07.667885",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 36,
+    "status": "success",
+    "latency_ms": 5283
+  },
+  {
+    "timestamp": "2026-03-19T05:19:12.122032",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 37,
+    "status": "success",
+    "latency_ms": 4453
+  },
+  {
+    "timestamp": "2026-03-19T05:19:24.142169",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 38,
+    "status": "success",
+    "latency_ms": 12019
+  },
+  {
+    "timestamp": "2026-03-19T05:19:32.531546",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 39,
+    "status": "success",
+    "latency_ms": 8388
+  },
+  {
+    "timestamp": "2026-03-19T05:19:38.224766",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 40,
+    "status": "success",
+    "latency_ms": 5692
+  },
+  {
+    "timestamp": "2026-03-19T05:19:43.106591",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 41,
+    "status": "success",
+    "latency_ms": 4881
+  },
+  {
+    "timestamp": "2026-03-19T05:19:50.184062",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 42,
+    "status": "success",
+    "latency_ms": 7077
+  },
+  {
+    "timestamp": "2026-03-19T05:19:56.380882",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 43,
+    "status": "success",
+    "latency_ms": 6196
+  },
+  {
+    "timestamp": "2026-03-19T05:20:03.862300",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 44,
+    "status": "success",
+    "latency_ms": 7480
+  },
+  {
+    "timestamp": "2026-03-19T05:20:12.034672",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 45,
+    "status": "success",
+    "latency_ms": 8171
+  },
+  {
+    "timestamp": "2026-03-19T05:20:18.271136",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 46,
+    "status": "success",
+    "latency_ms": 6235
+  },
+  {
+    "timestamp": "2026-03-19T05:20:27.510024",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 47,
+    "status": "success",
+    "latency_ms": 9238
+  },
+  {
+    "timestamp": "2026-03-19T05:20:33.924208",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 48,
+    "status": "success",
+    "latency_ms": 6413
+  },
+  {
+    "timestamp": "2026-03-19T05:20:39.574892",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 49,
+    "status": "success",
+    "latency_ms": 5650
+  },
+  {
+    "timestamp": "2026-03-19T05:20:44.872264",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 50,
+    "status": "success",
+    "latency_ms": 5296
+  },
+  {
+    "timestamp": "2026-03-19T05:20:56.566756",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 51,
+    "status": "success",
+    "latency_ms": 11693
+  },
+  {
+    "timestamp": "2026-03-19T05:21:01.476696",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 52,
+    "status": "success",
+    "latency_ms": 4909
+  },
+  {
+    "timestamp": "2026-03-19T05:21:05.804535",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 53,
+    "status": "success",
+    "latency_ms": 4327
+  },
+  {
+    "timestamp": "2026-03-19T05:21:11.275760",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 54,
+    "status": "success",
+    "latency_ms": 5470
+  },
+  {
+    "timestamp": "2026-03-19T05:21:16.988366",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 55,
+    "status": "success",
+    "latency_ms": 5712
+  },
+  {
+    "timestamp": "2026-03-19T05:21:24.984700",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 56,
+    "status": "success",
+    "latency_ms": 7995
+  },
+  {
+    "timestamp": "2026-03-19T05:21:32.001700",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 57,
+    "status": "success",
+    "latency_ms": 7016
+  },
+  {
+    "timestamp": "2026-03-19T05:21:38.130218",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 58,
+    "status": "success",
+    "latency_ms": 6127
+  },
+  {
+    "timestamp": "2026-03-19T05:21:48.775848",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 59,
+    "status": "success",
+    "latency_ms": 10645
+  },
+  {
+    "timestamp": "2026-03-19T05:21:54.678177",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 60,
+    "status": "success",
+    "latency_ms": 5901
+  },
+  {
+    "timestamp": "2026-03-19T05:22:01.367466",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 61,
+    "status": "success",
+    "latency_ms": 6688
+  },
+  {
+    "timestamp": "2026-03-19T05:22:12.017461",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 62,
+    "status": "success",
+    "latency_ms": 10649
+  },
+  {
+    "timestamp": "2026-03-19T05:22:22.474656",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 63,
+    "status": "success",
+    "latency_ms": 10456
+  },
+  {
+    "timestamp": "2026-03-19T05:22:29.732413",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 64,
+    "status": "success",
+    "latency_ms": 7257
+  },
+  {
+    "timestamp": "2026-03-19T05:22:34.170602",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 65,
+    "status": "success",
+    "latency_ms": 4437
+  },
+  {
+    "timestamp": "2026-03-19T05:22:41.483945",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 66,
+    "status": "success",
+    "latency_ms": 7312
+  },
+  {
+    "timestamp": "2026-03-19T05:22:49.824162",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 67,
+    "status": "success",
+    "latency_ms": 8339
+  },
+  {
+    "timestamp": "2026-03-19T05:22:57.745874",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 68,
+    "status": "success",
+    "latency_ms": 7921
+  },
+  {
+    "timestamp": "2026-03-19T05:23:16.360788",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 69,
+    "status": "success",
+    "latency_ms": 18614
+  },
+  {
+    "timestamp": "2026-03-19T05:23:29.185996",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 70,
+    "status": "success",
+    "latency_ms": 12824
+  },
+  {
+    "timestamp": "2026-03-19T05:23:38.968869",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 71,
+    "status": "success",
+    "latency_ms": 9782
+  },
+  {
+    "timestamp": "2026-03-19T05:23:46.622463",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 72,
+    "status": "success",
+    "latency_ms": 7653
+  },
+  {
+    "timestamp": "2026-03-19T05:23:55.201808",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 73,
+    "status": "success",
+    "latency_ms": 8578
+  },
+  {
+    "timestamp": "2026-03-19T05:24:06.573704",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 74,
+    "status": "success",
+    "latency_ms": 11371
+  },
+  {
+    "timestamp": "2026-03-19T05:24:12.446989",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 75,
+    "status": "success",
+    "latency_ms": 5872
+  },
+  {
+    "timestamp": "2026-03-19T05:24:21.669624",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 76,
+    "status": "success",
+    "latency_ms": 9222
+  },
+  {
+    "timestamp": "2026-03-19T05:24:33.007837",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 77,
+    "status": "success",
+    "latency_ms": 11337
+  },
+  {
+    "timestamp": "2026-03-19T05:24:44.845723",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 78,
+    "status": "success",
+    "latency_ms": 11837
+  },
+  {
+    "timestamp": "2026-03-19T05:24:52.478605",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 79,
+    "status": "success",
+    "latency_ms": 7632
+  },
+  {
+    "timestamp": "2026-03-19T05:25:00.967544",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 80,
+    "status": "success",
+    "latency_ms": 8488
+  },
+  {
+    "timestamp": "2026-03-19T05:25:13.279770",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 81,
+    "status": "success",
+    "latency_ms": 12311
+  },
+  {
+    "timestamp": "2026-03-19T05:25:20.586938",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 82,
+    "status": "success",
+    "latency_ms": 7306
+  },
+  {
+    "timestamp": "2026-03-19T05:25:29.577360",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 83,
+    "status": "success",
+    "latency_ms": 8989
+  },
+  {
+    "timestamp": "2026-03-19T05:25:40.552626",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 84,
+    "status": "success",
+    "latency_ms": 10974
+  },
+  {
+    "timestamp": "2026-03-19T05:25:44.754236",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 85,
+    "status": "success",
+    "latency_ms": 4201
+  },
+  {
+    "timestamp": "2026-03-19T05:25:48.875113",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U1-P1-P86.pdf",
+    "page": 86,
+    "status": "success",
+    "latency_ms": 4120
+  },
+  {
+    "timestamp": "2026-03-19T05:25:56.910141",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 1,
+    "status": "success",
+    "latency_ms": 4140
+  },
+  {
+    "timestamp": "2026-03-19T05:26:08.735034",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 2,
+    "status": "success",
+    "latency_ms": 11824
+  },
+  {
+    "timestamp": "2026-03-19T05:26:13.067168",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 3,
+    "status": "success",
+    "latency_ms": 4331
+  },
+  {
+    "timestamp": "2026-03-19T05:26:16.003035",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 4,
+    "status": "success",
+    "latency_ms": 2935
+  },
+  {
+    "timestamp": "2026-03-19T05:26:22.027537",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 5,
+    "status": "success",
+    "latency_ms": 6023
+  },
+  {
+    "timestamp": "2026-03-19T05:26:29.608928",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 6,
+    "status": "success",
+    "latency_ms": 7580
+  },
+  {
+    "timestamp": "2026-03-19T05:26:35.943066",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 7,
+    "status": "success",
+    "latency_ms": 6333
+  },
+  {
+    "timestamp": "2026-03-19T05:26:40.408459",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 8,
+    "status": "success",
+    "latency_ms": 4464
+  },
+  {
+    "timestamp": "2026-03-19T05:26:44.923113",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 9,
+    "status": "success",
+    "latency_ms": 4514
+  },
+  {
+    "timestamp": "2026-03-19T05:26:52.325764",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 10,
+    "status": "success",
+    "latency_ms": 7402
+  },
+  {
+    "timestamp": "2026-03-19T05:27:01.754566",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 11,
+    "status": "success",
+    "latency_ms": 9428
+  },
+  {
+    "timestamp": "2026-03-19T05:27:07.516210",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 12,
+    "status": "success",
+    "latency_ms": 5761
+  },
+  {
+    "timestamp": "2026-03-19T05:27:15.766912",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 13,
+    "status": "success",
+    "latency_ms": 8250
+  },
+  {
+    "timestamp": "2026-03-19T05:27:22.003122",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 14,
+    "status": "success",
+    "latency_ms": 6235
+  },
+  {
+    "timestamp": "2026-03-19T05:27:28.416789",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 15,
+    "status": "success",
+    "latency_ms": 6413
+  },
+  {
+    "timestamp": "2026-03-19T05:27:36.102465",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 16,
+    "status": "success",
+    "latency_ms": 7685
+  },
+  {
+    "timestamp": "2026-03-19T05:27:43.766336",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 17,
+    "status": "success",
+    "latency_ms": 7663
+  },
+  {
+    "timestamp": "2026-03-19T05:27:48.655480",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 18,
+    "status": "success",
+    "latency_ms": 4888
+  },
+  {
+    "timestamp": "2026-03-19T05:27:53.038007",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 19,
+    "status": "success",
+    "latency_ms": 4381
+  },
+  {
+    "timestamp": "2026-03-19T05:28:01.348669",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 20,
+    "status": "success",
+    "latency_ms": 8310
+  },
+  {
+    "timestamp": "2026-03-19T05:28:06.362954",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 21,
+    "status": "success",
+    "latency_ms": 5013
+  },
+  {
+    "timestamp": "2026-03-19T05:28:13.664654",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 22,
+    "status": "success",
+    "latency_ms": 7300
+  },
+  {
+    "timestamp": "2026-03-19T05:28:21.171705",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 23,
+    "status": "success",
+    "latency_ms": 7506
+  },
+  {
+    "timestamp": "2026-03-19T05:28:26.806057",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 24,
+    "status": "success",
+    "latency_ms": 5633
+  },
+  {
+    "timestamp": "2026-03-19T05:28:34.051146",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 25,
+    "status": "success",
+    "latency_ms": 7244
+  },
+  {
+    "timestamp": "2026-03-19T05:28:44.214501",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 26,
+    "status": "success",
+    "latency_ms": 10162
+  },
+  {
+    "timestamp": "2026-03-19T05:28:47.576024",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 27,
+    "status": "success",
+    "latency_ms": 3360
+  },
+  {
+    "timestamp": "2026-03-19T05:28:52.330107",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 28,
+    "status": "success",
+    "latency_ms": 4754
+  },
+  {
+    "timestamp": "2026-03-19T05:28:59.048311",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 29,
+    "status": "success",
+    "latency_ms": 6717
+  },
+  {
+    "timestamp": "2026-03-19T05:29:03.888967",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U2-P87-P116.pdf",
+    "page": 30,
+    "status": "success",
+    "latency_ms": 4840
+  },
+  {
+    "timestamp": "2026-03-19T05:29:17.663657",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 1,
+    "status": "success",
+    "latency_ms": 4474
+  },
+  {
+    "timestamp": "2026-03-19T05:29:24.791021",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 2,
+    "status": "success",
+    "latency_ms": 7127
+  },
+  {
+    "timestamp": "2026-03-19T05:29:28.782005",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 3,
+    "status": "success",
+    "latency_ms": 3990
+  },
+  {
+    "timestamp": "2026-03-19T05:29:31.867934",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 4,
+    "status": "success",
+    "latency_ms": 3085
+  },
+  {
+    "timestamp": "2026-03-19T05:29:39.374424",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 5,
+    "status": "success",
+    "latency_ms": 7506
+  },
+  {
+    "timestamp": "2026-03-19T05:29:46.356832",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 6,
+    "status": "success",
+    "latency_ms": 6981
+  },
+  {
+    "timestamp": "2026-03-19T05:29:54.528664",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 7,
+    "status": "success",
+    "latency_ms": 8171
+  },
+  {
+    "timestamp": "2026-03-19T05:30:01.057929",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 8,
+    "status": "success",
+    "latency_ms": 6528
+  },
+  {
+    "timestamp": "2026-03-19T05:30:10.787159",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 9,
+    "status": "success",
+    "latency_ms": 9728
+  },
+  {
+    "timestamp": "2026-03-19T05:30:18.848534",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 10,
+    "status": "success",
+    "latency_ms": 8060
+  },
+  {
+    "timestamp": "2026-03-19T05:30:23.499963",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 11,
+    "status": "success",
+    "latency_ms": 4650
+  },
+  {
+    "timestamp": "2026-03-19T05:30:28.490927",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 12,
+    "status": "success",
+    "latency_ms": 4990
+  },
+  {
+    "timestamp": "2026-03-19T05:30:34.569661",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 13,
+    "status": "success",
+    "latency_ms": 6078
+  },
+  {
+    "timestamp": "2026-03-19T05:30:42.051617",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 14,
+    "status": "success",
+    "latency_ms": 7481
+  },
+  {
+    "timestamp": "2026-03-19T05:30:50.858525",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 15,
+    "status": "success",
+    "latency_ms": 8805
+  },
+  {
+    "timestamp": "2026-03-19T05:30:56.335204",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 16,
+    "status": "success",
+    "latency_ms": 5476
+  },
+  {
+    "timestamp": "2026-03-19T05:31:01.382576",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 17,
+    "status": "success",
+    "latency_ms": 5046
+  },
+  {
+    "timestamp": "2026-03-19T05:31:06.013274",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 18,
+    "status": "success",
+    "latency_ms": 4630
+  },
+  {
+    "timestamp": "2026-03-19T05:31:11.778670",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 19,
+    "status": "success",
+    "latency_ms": 5764
+  },
+  {
+    "timestamp": "2026-03-19T05:31:17.798752",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 20,
+    "status": "success",
+    "latency_ms": 6019
+  },
+  {
+    "timestamp": "2026-03-19T05:31:23.153237",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 21,
+    "status": "success",
+    "latency_ms": 5353
+  },
+  {
+    "timestamp": "2026-03-19T05:31:29.233480",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 22,
+    "status": "success",
+    "latency_ms": 6079
+  },
+  {
+    "timestamp": "2026-03-19T05:31:34.413548",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 23,
+    "status": "success",
+    "latency_ms": 5179
+  },
+  {
+    "timestamp": "2026-03-19T05:31:40.468678",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 24,
+    "status": "success",
+    "latency_ms": 6054
+  },
+  {
+    "timestamp": "2026-03-19T05:31:46.100798",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 25,
+    "status": "success",
+    "latency_ms": 5631
+  },
+  {
+    "timestamp": "2026-03-19T05:31:51.135290",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 26,
+    "status": "success",
+    "latency_ms": 5034
+  },
+  {
+    "timestamp": "2026-03-19T05:31:57.099492",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 27,
+    "status": "success",
+    "latency_ms": 5963
+  },
+  {
+    "timestamp": "2026-03-19T05:32:02.649096",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 28,
+    "status": "success",
+    "latency_ms": 5549
+  },
+  {
+    "timestamp": "2026-03-19T05:32:10.404346",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 29,
+    "status": "success",
+    "latency_ms": 7754
+  },
+  {
+    "timestamp": "2026-03-19T05:32:17.541575",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 30,
+    "status": "success",
+    "latency_ms": 7136
+  },
+  {
+    "timestamp": "2026-03-19T05:32:29.107739",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 31,
+    "status": "success",
+    "latency_ms": 11565
+  },
+  {
+    "timestamp": "2026-03-19T05:32:35.038006",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 32,
+    "status": "success",
+    "latency_ms": 5929
+  },
+  {
+    "timestamp": "2026-03-19T05:32:42.268307",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 33,
+    "status": "success",
+    "latency_ms": 7229
+  },
+  {
+    "timestamp": "2026-03-19T05:32:52.537381",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 34,
+    "status": "success",
+    "latency_ms": 10268
+  },
+  {
+    "timestamp": "2026-03-19T05:32:57.954057",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 35,
+    "status": "success",
+    "latency_ms": 5415
+  },
+  {
+    "timestamp": "2026-03-19T05:33:04.393385",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 36,
+    "status": "success",
+    "latency_ms": 6438
+  },
+  {
+    "timestamp": "2026-03-19T05:33:11.661530",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 37,
+    "status": "success",
+    "latency_ms": 7267
+  },
+  {
+    "timestamp": "2026-03-19T05:33:19.980059",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 38,
+    "status": "success",
+    "latency_ms": 8318
+  },
+  {
+    "timestamp": "2026-03-19T05:33:26.393517",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 39,
+    "status": "success",
+    "latency_ms": 6412
+  },
+  {
+    "timestamp": "2026-03-19T05:33:35.554165",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 40,
+    "status": "success",
+    "latency_ms": 9160
+  },
+  {
+    "timestamp": "2026-03-19T05:33:40.110482",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 41,
+    "status": "success",
+    "latency_ms": 4555
+  },
+  {
+    "timestamp": "2026-03-19T05:33:48.210369",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 42,
+    "status": "success",
+    "latency_ms": 8099
+  },
+  {
+    "timestamp": "2026-03-19T05:33:52.855174",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 43,
+    "status": "success",
+    "latency_ms": 4644
+  },
+  {
+    "timestamp": "2026-03-19T05:34:02.377519",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 44,
+    "status": "success",
+    "latency_ms": 9521
+  },
+  {
+    "timestamp": "2026-03-19T05:34:08.276288",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 45,
+    "status": "success",
+    "latency_ms": 5898
+  },
+  {
+    "timestamp": "2026-03-19T05:34:14.047667",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 46,
+    "status": "success",
+    "latency_ms": 5770
+  },
+  {
+    "timestamp": "2026-03-19T05:34:20.827165",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 47,
+    "status": "success",
+    "latency_ms": 6778
+  },
+  {
+    "timestamp": "2026-03-19T05:34:31.958615",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 48,
+    "status": "success",
+    "latency_ms": 11130
+  },
+  {
+    "timestamp": "2026-03-19T05:34:40.065203",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 49,
+    "status": "success",
+    "latency_ms": 8105
+  },
+  {
+    "timestamp": "2026-03-19T05:34:48.595456",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 50,
+    "status": "success",
+    "latency_ms": 8529
+  },
+  {
+    "timestamp": "2026-03-19T05:35:03.827051",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 51,
+    "status": "success",
+    "latency_ms": 15231
+  },
+  {
+    "timestamp": "2026-03-19T05:35:18.623185",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 52,
+    "status": "success",
+    "latency_ms": 14795
+  },
+  {
+    "timestamp": "2026-03-19T05:35:40.113853",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 53,
+    "status": "success",
+    "latency_ms": 21490
+  },
+  {
+    "timestamp": "2026-03-19T05:35:50.182471",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 54,
+    "status": "success",
+    "latency_ms": 10068
+  },
+  {
+    "timestamp": "2026-03-19T05:35:58.531373",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 55,
+    "status": "success",
+    "latency_ms": 8348
+  },
+  {
+    "timestamp": "2026-03-19T05:36:08.591113",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 56,
+    "status": "success",
+    "latency_ms": 10059
+  },
+  {
+    "timestamp": "2026-03-19T05:36:15.988630",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 57,
+    "status": "success",
+    "latency_ms": 7396
+  },
+  {
+    "timestamp": "2026-03-19T05:36:31.171782",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 58,
+    "status": "success",
+    "latency_ms": 15182
+  },
+  {
+    "timestamp": "2026-03-19T05:36:37.425432",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 59,
+    "status": "success",
+    "latency_ms": 6253
+  },
+  {
+    "timestamp": "2026-03-19T05:36:44.747959",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 60,
+    "status": "success",
+    "latency_ms": 7321
+  },
+  {
+    "timestamp": "2026-03-19T05:36:50.824412",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 61,
+    "status": "success",
+    "latency_ms": 6076
+  },
+  {
+    "timestamp": "2026-03-19T05:37:03.023615",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 62,
+    "status": "success",
+    "latency_ms": 12198
+  },
+  {
+    "timestamp": "2026-03-19T05:37:13.160896",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 63,
+    "status": "success",
+    "latency_ms": 10136
+  },
+  {
+    "timestamp": "2026-03-19T05:37:24.978970",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 64,
+    "status": "success",
+    "latency_ms": 11817
+  },
+  {
+    "timestamp": "2026-03-19T05:37:34.965660",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 65,
+    "status": "success",
+    "latency_ms": 9986
+  },
+  {
+    "timestamp": "2026-03-19T05:37:37.958741",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U3-P117-P182.pdf",
+    "page": 66,
+    "status": "success",
+    "latency_ms": 2992
+  },
+  {
+    "timestamp": "2026-03-19T05:37:48.784289",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 1,
+    "status": "success",
+    "latency_ms": 4057
+  },
+  {
+    "timestamp": "2026-03-19T05:37:59.328959",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 2,
+    "status": "success",
+    "latency_ms": 10544
+  },
+  {
+    "timestamp": "2026-03-19T05:38:02.860026",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 3,
+    "status": "success",
+    "latency_ms": 3530
+  },
+  {
+    "timestamp": "2026-03-19T05:38:05.882224",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 4,
+    "status": "success",
+    "latency_ms": 3021
+  },
+  {
+    "timestamp": "2026-03-19T05:38:11.743082",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 5,
+    "status": "success",
+    "latency_ms": 5860
+  },
+  {
+    "timestamp": "2026-03-19T05:38:18.381169",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 6,
+    "status": "success",
+    "latency_ms": 6637
+  },
+  {
+    "timestamp": "2026-03-19T05:38:23.806352",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 7,
+    "status": "success",
+    "latency_ms": 5424
+  },
+  {
+    "timestamp": "2026-03-19T05:38:33.530435",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 8,
+    "status": "success",
+    "latency_ms": 9723
+  },
+  {
+    "timestamp": "2026-03-19T05:38:38.837062",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 9,
+    "status": "success",
+    "latency_ms": 5306
+  },
+  {
+    "timestamp": "2026-03-19T05:38:42.600344",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 10,
+    "status": "success",
+    "latency_ms": 3762
+  },
+  {
+    "timestamp": "2026-03-19T05:38:50.960822",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 11,
+    "status": "success",
+    "latency_ms": 8360
+  },
+  {
+    "timestamp": "2026-03-19T05:38:56.471376",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 12,
+    "status": "success",
+    "latency_ms": 5509
+  },
+  {
+    "timestamp": "2026-03-19T05:39:04.883528",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 13,
+    "status": "success",
+    "latency_ms": 8411
+  },
+  {
+    "timestamp": "2026-03-19T05:39:13.453245",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 14,
+    "status": "success",
+    "latency_ms": 8569
+  },
+  {
+    "timestamp": "2026-03-19T05:39:19.688644",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 15,
+    "status": "success",
+    "latency_ms": 6234
+  },
+  {
+    "timestamp": "2026-03-19T05:39:24.254207",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 16,
+    "status": "success",
+    "latency_ms": 4565
+  },
+  {
+    "timestamp": "2026-03-19T05:39:31.860564",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 17,
+    "status": "success",
+    "latency_ms": 7605
+  },
+  {
+    "timestamp": "2026-03-19T05:39:39.122608",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 18,
+    "status": "success",
+    "latency_ms": 7261
+  },
+  {
+    "timestamp": "2026-03-19T05:39:43.807273",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 19,
+    "status": "success",
+    "latency_ms": 4684
+  },
+  {
+    "timestamp": "2026-03-19T05:39:50.240907",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 20,
+    "status": "success",
+    "latency_ms": 6433
+  },
+  {
+    "timestamp": "2026-03-19T05:39:56.847454",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 21,
+    "status": "success",
+    "latency_ms": 6605
+  },
+  {
+    "timestamp": "2026-03-19T05:40:05.044471",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 22,
+    "status": "success",
+    "latency_ms": 8196
+  },
+  {
+    "timestamp": "2026-03-19T05:40:10.142845",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 23,
+    "status": "success",
+    "latency_ms": 5097
+  },
+  {
+    "timestamp": "2026-03-19T05:40:16.051305",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 24,
+    "status": "success",
+    "latency_ms": 5907
+  },
+  {
+    "timestamp": "2026-03-19T05:40:20.616930",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 25,
+    "status": "success",
+    "latency_ms": 4565
+  },
+  {
+    "timestamp": "2026-03-19T05:40:26.996247",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 26,
+    "status": "success",
+    "latency_ms": 6378
+  },
+  {
+    "timestamp": "2026-03-19T05:40:31.253744",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 27,
+    "status": "success",
+    "latency_ms": 4256
+  },
+  {
+    "timestamp": "2026-03-19T05:40:35.789621",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 28,
+    "status": "success",
+    "latency_ms": 4535
+  },
+  {
+    "timestamp": "2026-03-19T05:40:40.598029",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 29,
+    "status": "success",
+    "latency_ms": 4807
+  },
+  {
+    "timestamp": "2026-03-19T05:40:46.504061",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 30,
+    "status": "success",
+    "latency_ms": 5905
+  },
+  {
+    "timestamp": "2026-03-19T05:40:54.521088",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 31,
+    "status": "success",
+    "latency_ms": 8016
+  },
+  {
+    "timestamp": "2026-03-19T05:41:01.774636",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 32,
+    "status": "success",
+    "latency_ms": 7252
+  },
+  {
+    "timestamp": "2026-03-19T05:41:09.771886",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 33,
+    "status": "success",
+    "latency_ms": 7996
+  },
+  {
+    "timestamp": "2026-03-19T05:41:23.590211",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 34,
+    "status": "success",
+    "latency_ms": 13817
+  },
+  {
+    "timestamp": "2026-03-19T05:41:27.658649",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 35,
+    "status": "success",
+    "latency_ms": 4067
+  },
+  {
+    "timestamp": "2026-03-19T05:41:35.148115",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 36,
+    "status": "success",
+    "latency_ms": 7488
+  },
+  {
+    "timestamp": "2026-03-19T05:41:46.825812",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 37,
+    "status": "success",
+    "latency_ms": 11677
+  },
+  {
+    "timestamp": "2026-03-19T05:41:50.515155",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 38,
+    "status": "success",
+    "latency_ms": 3688
+  },
+  {
+    "timestamp": "2026-03-19T05:41:57.912667",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 39,
+    "status": "success",
+    "latency_ms": 7396
+  },
+  {
+    "timestamp": "2026-03-19T05:42:03.994816",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 40,
+    "status": "success",
+    "latency_ms": 6081
+  },
+  {
+    "timestamp": "2026-03-19T05:42:11.215995",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 41,
+    "status": "success",
+    "latency_ms": 7220
+  },
+  {
+    "timestamp": "2026-03-19T05:42:15.843157",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 42,
+    "status": "success",
+    "latency_ms": 4626
+  },
+  {
+    "timestamp": "2026-03-19T05:42:20.779062",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 43,
+    "status": "success",
+    "latency_ms": 4935
+  },
+  {
+    "timestamp": "2026-03-19T05:42:27.423857",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 44,
+    "status": "success",
+    "latency_ms": 6644
+  },
+  {
+    "timestamp": "2026-03-19T05:42:34.949531",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 45,
+    "status": "success",
+    "latency_ms": 7525
+  },
+  {
+    "timestamp": "2026-03-19T05:42:42.634521",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 46,
+    "status": "success",
+    "latency_ms": 7684
+  },
+  {
+    "timestamp": "2026-03-19T05:42:50.198150",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 47,
+    "status": "success",
+    "latency_ms": 7563
+  },
+  {
+    "timestamp": "2026-03-19T05:42:58.361906",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 48,
+    "status": "success",
+    "latency_ms": 8163
+  },
+  {
+    "timestamp": "2026-03-19T05:43:04.402255",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 49,
+    "status": "success",
+    "latency_ms": 6039
+  },
+  {
+    "timestamp": "2026-03-19T05:43:14.824744",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 50,
+    "status": "success",
+    "latency_ms": 10421
+  },
+  {
+    "timestamp": "2026-03-19T05:43:29.534344",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 51,
+    "status": "success",
+    "latency_ms": 14709
+  },
+  {
+    "timestamp": "2026-03-19T05:43:33.971997",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 52,
+    "status": "success",
+    "latency_ms": 4437
+  },
+  {
+    "timestamp": "2026-03-19T05:43:43.009670",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 53,
+    "status": "success",
+    "latency_ms": 9037
+  },
+  {
+    "timestamp": "2026-03-19T05:43:53.112453",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U4-P183-P236.pdf",
+    "page": 54,
+    "status": "success",
+    "latency_ms": 10102
+  },
+  {
+    "timestamp": "2026-03-19T05:44:07.328571",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 1,
+    "status": "success",
+    "latency_ms": 6179
+  },
+  {
+    "timestamp": "2026-03-19T05:44:16.117987",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 2,
+    "status": "success",
+    "latency_ms": 8789
+  },
+  {
+    "timestamp": "2026-03-19T05:44:19.179995",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 3,
+    "status": "success",
+    "latency_ms": 3061
+  },
+  {
+    "timestamp": "2026-03-19T05:44:22.173888",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 4,
+    "status": "success",
+    "latency_ms": 2993
+  },
+  {
+    "timestamp": "2026-03-19T05:44:29.954112",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 5,
+    "status": "success",
+    "latency_ms": 7779
+  },
+  {
+    "timestamp": "2026-03-19T05:44:35.456833",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 6,
+    "status": "success",
+    "latency_ms": 5502
+  },
+  {
+    "timestamp": "2026-03-19T05:44:43.105506",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 7,
+    "status": "success",
+    "latency_ms": 7648
+  },
+  {
+    "timestamp": "2026-03-19T05:44:49.115768",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 8,
+    "status": "success",
+    "latency_ms": 6009
+  },
+  {
+    "timestamp": "2026-03-19T05:44:55.671683",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 9,
+    "status": "success",
+    "latency_ms": 6555
+  },
+  {
+    "timestamp": "2026-03-19T05:45:03.065361",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 10,
+    "status": "success",
+    "latency_ms": 7393
+  },
+  {
+    "timestamp": "2026-03-19T05:45:08.761920",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 11,
+    "status": "success",
+    "latency_ms": 5696
+  },
+  {
+    "timestamp": "2026-03-19T05:45:17.391996",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 12,
+    "status": "success",
+    "latency_ms": 8629
+  },
+  {
+    "timestamp": "2026-03-19T05:45:20.006310",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 13,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2613
+  },
+  {
+    "timestamp": "2026-03-19T05:45:22.897421",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 14,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2890
+  },
+  {
+    "timestamp": "2026-03-19T05:45:25.699986",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 15,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2802
+  },
+  {
+    "timestamp": "2026-03-19T05:45:28.526628",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 16,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2826
+  },
+  {
+    "timestamp": "2026-03-19T05:45:31.220646",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 17,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2693
+  },
+  {
+    "timestamp": "2026-03-19T05:45:33.855216",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 18,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2634
+  },
+  {
+    "timestamp": "2026-03-19T05:45:36.538539",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 19,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2682
+  },
+  {
+    "timestamp": "2026-03-19T05:45:39.203703",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 20,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2664
+  },
+  {
+    "timestamp": "2026-03-19T05:45:41.840429",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 21,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2636
+  },
+  {
+    "timestamp": "2026-03-19T05:45:44.507717",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 22,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2666
+  },
+  {
+    "timestamp": "2026-03-19T05:45:47.180606",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 23,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2672
+  },
+  {
+    "timestamp": "2026-03-19T05:45:49.830650",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 24,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2649
+  },
+  {
+    "timestamp": "2026-03-19T05:45:52.417572",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 25,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2586
+  },
+  {
+    "timestamp": "2026-03-19T05:45:55.125288",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 26,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2707
+  },
+  {
+    "timestamp": "2026-03-19T05:45:57.903436",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 27,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2777
+  },
+  {
+    "timestamp": "2026-03-19T05:46:00.605270",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 28,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2701
+  },
+  {
+    "timestamp": "2026-03-19T05:46:03.364031",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 29,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2758
+  },
+  {
+    "timestamp": "2026-03-19T05:46:06.063485",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 30,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2699
+  },
+  {
+    "timestamp": "2026-03-19T05:46:08.786473",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 31,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2722
+  },
+  {
+    "timestamp": "2026-03-19T05:46:11.627056",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 32,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2840
+  },
+  {
+    "timestamp": "2026-03-19T05:46:14.424568",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 33,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2797
+  },
+  {
+    "timestamp": "2026-03-19T05:46:17.066662",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 34,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2642
+  },
+  {
+    "timestamp": "2026-03-19T05:46:19.738094",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 35,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2671
+  },
+  {
+    "timestamp": "2026-03-19T05:46:22.693719",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 36,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2955
+  },
+  {
+    "timestamp": "2026-03-19T05:46:25.362862",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 37,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2669
+  },
+  {
+    "timestamp": "2026-03-19T05:46:28.055041",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 38,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2692
+  },
+  {
+    "timestamp": "2026-03-19T05:46:30.877219",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 39,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2821
+  },
+  {
+    "timestamp": "2026-03-19T05:46:33.662504",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 40,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2784
+  },
+  {
+    "timestamp": "2026-03-19T05:46:36.449765",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 41,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2786
+  },
+  {
+    "timestamp": "2026-03-19T05:46:39.282750",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 42,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2832
+  },
+  {
+    "timestamp": "2026-03-19T05:46:42.013713",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 43,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2730
+  },
+  {
+    "timestamp": "2026-03-19T05:46:44.928103",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 44,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2914
+  },
+  {
+    "timestamp": "2026-03-19T05:46:47.775405",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 45,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2847
+  },
+  {
+    "timestamp": "2026-03-19T05:46:50.474872",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 46,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2699
+  },
+  {
+    "timestamp": "2026-03-19T05:46:53.467767",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 47,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2992
+  },
+  {
+    "timestamp": "2026-03-19T05:46:56.338254",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 48,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2870
+  },
+  {
+    "timestamp": "2026-03-19T05:46:59.137023",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 49,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2798
+  },
+  {
+    "timestamp": "2026-03-19T05:47:01.804498",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 50,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2667
+  },
+  {
+    "timestamp": "2026-03-19T05:47:04.591431",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 51,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2786
+  },
+  {
+    "timestamp": "2026-03-19T05:47:07.520403",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 52,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2928
+  },
+  {
+    "timestamp": "2026-03-19T05:47:10.480682",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 53,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2959
+  },
+  {
+    "timestamp": "2026-03-19T05:47:13.424564",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 54,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2943
+  },
+  {
+    "timestamp": "2026-03-19T05:47:16.192254",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 55,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2767
+  },
+  {
+    "timestamp": "2026-03-19T05:47:19.090187",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 56,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2897
+  },
+  {
+    "timestamp": "2026-03-19T05:47:21.958196",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 57,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2867
+  },
+  {
+    "timestamp": "2026-03-19T05:47:25.077630",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 58,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 3119
+  },
+  {
+    "timestamp": "2026-03-19T05:47:28.013957",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 59,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2935
+  },
+  {
+    "timestamp": "2026-03-19T05:47:30.793745",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 60,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2779
+  },
+  {
+    "timestamp": "2026-03-19T05:47:33.648381",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 61,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2854
+  },
+  {
+    "timestamp": "2026-03-19T05:47:36.356519",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 62,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2707
+  },
+  {
+    "timestamp": "2026-03-19T05:47:39.169244",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 63,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2812
+  },
+  {
+    "timestamp": "2026-03-19T05:47:41.997523",
+    "model": "qwen-vl-ocr-latest",
+    "pdf": "物理电磁C练习册-U5-P237-P300.pdf",
+    "page": 64,
+    "status": "error_AllocationQuota.FreeTierOnly",
+    "latency_ms": 2827
+  }
+]

@@ -1,0 +1,32 @@
+AP Physics C:Electricity and Magnetism
+
+2018 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS
+
+Multimeter
+Aluminum Foil
+Paper
+
+2. An experiment is designed to measure the dielectric constant of paper that has an area $ A = 0.060 \, \mathrm{m}^2 $. Using aluminum foil, two parallel plates are created with the same area as the paper. Five hundred sheets of paper are placed between the aluminum foil plates to create a parallel plate capacitor, as shown in the figure above. Using a multimeter, the capacitance $ C $ of the capacitor is measured. The number of sheets and the total thickness $ d $ of the stack of paper are recorded. The experiment is repeated, reducing the number of sheets of paper each time. The data are recorded in the table below.
+
+| Sheets of Paper | $ d $ (m) | $ C $ (F) |
+|------------------|-------------|-------------|
+| 500              | 0.045       | $ 6.5 \times 10^{-11} $ |
+| 400              | 0.036       | $ 7.4 \times 10^{-11} $ |
+| 300              | 0.027       | $ 8.9 \times 10^{-11} $ |
+| 200              | 0.018       | $ 11.9 \times 10^{-11} $ |
+| 100              | 0.010       | $ 21.0 \times 10^{-11} $ |
+
+(a) Indicate below which quantities should be graphed to yield a straight line whose slope could be used to calculate a numerical value for the dielectric constant of the paper.
+
+Vertical axis: ____________
+
+Horizontal axis: ____________
+
+Use the remaining columns in the table above, as needed, to record any quantities that you indicated that are not given. Label each column you use and include units.
+
+TestDaily
+
+From Here, Go Anywhere  
+关注TestDaily和20W+出国留学党一起奋斗
+
+308

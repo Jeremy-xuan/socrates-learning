@@ -1,0 +1,13 @@
+以下是图片中的所有文字内容，包括公式、符号和格式的完整保留：
+
+---
+
+**AP** Physics C: Electricity and Magnetism
+
+---
+
+**AP® Physics C: Electricity & Magnetism 2021 Scoring Guidelines**
+
+**(d)**  
+i. For indicating that the current through $ R_1 $ is zero when the switch is opened  
+ $ I_1 = 0 $

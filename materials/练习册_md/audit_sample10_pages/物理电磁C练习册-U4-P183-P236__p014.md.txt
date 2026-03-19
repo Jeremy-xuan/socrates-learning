@@ -1,0 +1,35 @@
+Magnetic Fields
+
+15. (2021-DE-D61102-Section 2-MCQ-22)
+
+A particle with a charge of -1.4 nC is moving at an angle of 30° with respect to a magnetic field of
+magnitude 2.0 mT, as shown in the diagram. At the moment shown, the speed of the particle is
+3.0x10°m/s. The magnitude and direction of the magnetic force acting on the charged particle is
+A.4.2x107N, into the page
+
+B.4.2x107N, out of the page
+
+C.8.4x107N, into the page
+
+D.8.4x10-’N , out of the page
+
+E. The magnetic force is zero.
+
+16. (2013-30)
+
+A negative charge —q is moving with a velocity
+V to the right, parallel to a wire that is carrying a
+current / to the right, as shown above. The
+direction of the force on the charge due to the
+magnetic field produced by the wire is
+
+(A) toward the top of the page
+(B) toward the bottom of the page
+(C) out of the page
+
+(D) into the page
+
+(E) toward the left
+
+AP Physics C: Electricity and Magnetism Practice Book                 196                                                  From Here, Go Anywhere
+@ 2022 TestDaily

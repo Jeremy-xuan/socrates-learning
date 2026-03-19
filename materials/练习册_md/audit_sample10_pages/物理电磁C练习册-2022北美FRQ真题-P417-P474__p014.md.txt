@@ -1,0 +1,17 @@
+AP Physics C: Electricity and Magnetism
+
+Continue your response to QUESTION 3 on this page.
+
+d = 1.0 cm
+I
+
+(e) Later, the same rectangular loop with lightbulb is rotated such that a short side of the loop is 1.0 cm above and parallel to the long current-carrying wire, as shown. The current in the wire is again initially flowing from left to right and given by I(t) = C - Dt, where C = 10.0 A and D = 2.0 A/s. The current through the lightbulb in the loop's new orientation at time t = 3.0s is I₂. Which of the following correctly relates the current I₂ to I₁, the current through the lightbulb in part (c)?
+
+___ I₂ < I₁ ___ I₂ = I₁ ___ I₂ > I₁
+
+Justify your answer.
+
+GO ON TO THE NEXT PAGE.
+
+430 From Here, Go Anywhere
+关注TestDaily和20W+出国留学党一起奋斗

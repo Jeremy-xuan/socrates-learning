@@ -1,0 +1,45 @@
+UNIT  
+1  
+Electrostatics  
+
+80. (2011-1)  
+A nonconducting, thin, spherical shell has a uniform surface charge density σ on its outside surface and no charge anywhere else inside.  
+
+(a) Use Gauss’s law to prove that the electric field inside the shell is zero everywhere. Describe the Gaussian surface that you use.  
+
+(b) The charges are now redistributed so that the surface charge density is no longer uniform. Is the electric field still zero everywhere inside the shell?  
+____ Yes ____ No ____ It cannot be determined from the information given.  
+Justify your answer.  
+
+Now consider a small conducting sphere with charge +Q whose center is at corner A of a cubical surface, as shown below.  
+
+```
+        B
+       /|
+      / |
+     /  |
+    /   | G
+   /____|____
+  A     |    F
+  |     |   /
+  |     |  /
+  |     | /
+  |     |/ 
+  D-----|-E
+       H
+```
+
+(c) For which faces of the surface, if any, is the electric flux through that face equal to zero?  
+___ ABCD ___ CDEF ___ EFGH ___ ABGH ___ BCFG ___ ADEH  
+Explain your reasoning.  
+
+(d) At which corner(s) of the surface does the electric field have the least magnitude?  
+
+(e) Determine the electric field strength at the position(s) you have indicated in part (d) in terms of Q, L, and fundamental constants, as appropriate.  
+
+(f) Given that one-eighth of the sphere at point A is inside the surface, calculate the electric flux through face CDEF.  
+
+Physics C: Electricity and Magnetism Practice Book  
+58  
+From Here, Go Anywhere  
+© 2022 TestDaily

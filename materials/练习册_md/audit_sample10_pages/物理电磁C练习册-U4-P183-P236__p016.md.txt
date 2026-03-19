@@ -1,0 +1,45 @@
+Magnetic Fields
+
+18. (2015-5)
+
+7” Preston of
+
+Current /
+
+A long, cylindrical conductor with inner radius a and outer radius b carries a current / distributed uniformly
+over its cross section (the shaded region shown above). Which of the following graphs best shows the magnitude
+of the magnetic field B as a function of the distance r from the axis of the conductor?
+
+(A) B                                                        (B) B
+
+人               1
+
+|
+
+1
+
+|
+
+|
+
+1
+
+i
+
+|
+
+=r                                        1
+
+(C) B                                                        (D)
+i
+|
+1
+|
+|
+|
+OO                                                         r
+a                 b
+=r
+AP Physics C: Electricity and Magnetism Practice Book                 198                                                  From Here, Go Anywhere
+
+@ 2022 TestDaily

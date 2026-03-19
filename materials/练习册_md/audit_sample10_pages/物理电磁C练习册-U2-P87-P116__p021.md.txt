@@ -1,0 +1,77 @@
+UNIT  
+2  
+
+**Conductors, Capacitors, Dielectrics**
+
+26. (2021-DE-D61102-Section 1-19)  
+
+```
+    y
+    ↑
+    → x
++Q ────────────────
+         A   B
+    ──────────────── -Q
+     Figure 1
+
+E (V/m)
+  ↑
+  │ E_air
+  │
+  │ E_d
+  │
+  └───────────→ x (m)
+     A   B
+     Figure 2
+```
+
+A parallel plate capacitor is charged and insulated from its surroundings such that the upper and lower plates have charges $+Q$, and $-Q$, respectively, as shown in Figure 1. Later, a dielectric material of dielectric constant $\kappa$ is inserted in the space between the plates. Figure 2 shows the graph of the magnitude of the electric field $E$ along the path AB before and after the dielectric material is inserted, labeled $E_{\text{air}}$ and $E_d$, respectively.
+
+Which of the following graphs correctly shows the potential difference $\Delta V_{\text{air}}$ and $\Delta V_d$ between the bottom plate and the points along the path AB as a function of position, before and after the dielectric is inserted, respectively?
+
+```
+A. ΔV (V)
+     ↑
+     │●─────────●
+     │        V_air = V_d
+     │
+     └──────────→ x (m)
+        A   B
+
+B. ΔV (V)
+     ↑
+     │●─────────●
+     │  V_air/k  V_d
+     │
+     └──────────→ x (m)
+        A   B
+
+C. ΔV (V)
+     ↑
+     │●─────────●
+     │  κV_air   V_d
+     │
+     └──────────→ x (m)
+        A   B
+
+D. ΔV (V)
+     ↑
+     │●─────────●
+     │  κV_air   V_d
+     │
+     └──────────→ x (m)
+        A   B
+
+E. ΔV (V)
+     ↑
+     │●─────────●
+     │  κV_air   V_d
+     │
+     └──────────→ x (m)
+        A   B
+```
+
+AP Physics C: Electricity and Magnetism Practice Book  
+107  
+From Here, Go Anywhere  
+© 2022 TestDaily

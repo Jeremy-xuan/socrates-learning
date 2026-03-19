@@ -1,0 +1,28 @@
+(©)
+
+(d)
+
+2 points
+
+For correctly relating the angle to the individual magnetic fields
+
+1 point
+= tan? Be
+@=tan  ( Bs
+For correctly substituting B, and B, into the equation                                          1 point
+(sr)
+af,          -       2ad               afl
+6 = tan 全還 tan 1一一二一| == tan (3) = 26.6°
+By                為07                 2
+2ad
+2 points
+For stating there is no translational motion since the magnetic forces on the wire cancel           1 point
+For stating there is a net torque which causes rotation                                                             T point
+
+Example: In Figure 2, the top portion of wire 1 will be in a magnetic field into the page
+from wire 2 and, thus, will experience a force to the right. The bottom portion of
+wire 1 will be in a magnetic field out of the page from wire 2 and, thus, will
+experience a force to the left. So the net force will be zero, but there will be a net
+clockwise torque, so the wire will rotate clockwise.
+
+229

@@ -1,0 +1,45 @@
+以下是图片中的所有文字内容，包括公式和符号，完整保留了题目内容和格式：
+
+---
+
+**Physics C: Electricity and Magnetism**
+
+**AP® PHYSICS C: ELECTRICITY AND MAGNETISM**  
+**2018 SCORING GUIDELINES**
+
+**Question 1 (continued)**
+
+**Distribution of points**
+
+**(b)** Use Gauss’s law to derive an expression for the magnitude of the electric field in the following regions.
+
+**i.** 2 points  
+$r < a$
+
+| For correctly substituting the area of a Gaussian sphere into Gauss’s law | 1 point |
+|--------------------------------------------------------------------------|---------|
+| $\frac{q_{\text{enc}}}{\varepsilon_0} = \oint \vec{E} \cdot d\vec{A}$ |         |
+| $\frac{q(r)}{\varepsilon_0} = E A_{\text{sphere}} = E \left(4\pi r^2\right)$ |         |
+| For correctly substituting the charge from part (a)(i) into the equation above | 1 point |
+| $\frac{\beta \pi r^4}{\varepsilon_0} = E \left(4\pi r^2\right)$ |         |
+| $E = \frac{\beta r^2}{4\varepsilon_0}$ |         |
+
+**ii.** 1 point  
+$a < r < b$
+
+| For correctly substituting the charge from part (a)(ii) into Gauss’s law to calculate the electric field | 1 point |
+|--------------------------------------------------------------------------------------------------------|---------|
+| $\frac{\beta \pi a^4}{\varepsilon_0} = E \left(4\pi r^2\right)$ |         |
+| $E = \frac{\beta a^4}{4\varepsilon_0 r^2}$ |         |
+
+---
+
+**From Here, Go Anywhere**  
+关注TestDaily, 和20W+出国留学党一起奋斗  
+317  
+
+（右下角二维码及“TestDaily”水印）
+
+--- 
+
+> 注：图像中包含一个灰色的圆形水印，内含“TestDaily”字样，以及页面底部的“From Here, Go Anywhere”标语。这些为附加信息，非题干内容。

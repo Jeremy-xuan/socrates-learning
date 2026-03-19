@@ -1,0 +1,40 @@
+(e) 1 point
+
+For a correct or consistent substitution in an appropriate power equation  
+1 point  
+$ P = I^2 R $ or $ V = IR $  
+$ \frac{BLv_T}{R} = I $  
+$ P = \frac{B^2 L^2 v_T^2}{R} $
+
+Alternate Solution  
+Alternate points  
+For a correct or consistent substitution in an appropriate power equation  
+1 point  
+$ P = I^2 R $  
+$ Mg = BIL $  
+$ I = \frac{Mg}{BL} $  
+$ P = \frac{M^2 g^2 R}{B^2 L^2} $
+
+(f) 3 points
+
+Using the equation from part (c)  
+$ \frac{dv}{dt} = g - \frac{B^2 L^2 v}{MR} $  
+$ \frac{dv}{dt} = \frac{-B^2 L^2}{MR} \left( v - \frac{MRg}{B^2 L^2} \right) $
+
+For attempting separation of variables  
+1 point  
+$ \frac{dv}{v - \frac{MRg}{B^2 L^2}} = \frac{-B^2 L^2}{MR} dt $
+
+For attempting to integrate with the correct limits or the correct constant of integration  
+1 point  
+$ \int_{v'=0}^{v'=v(t)} \frac{1}{\left( v' - \frac{MRg}{B^2 L^2} \right)} dv' = \int_{t'=0}^{t'=t} \frac{-B^2 L^2}{MR} dt' $  
+$ \ln \left[ v' - \frac{MRg}{B^2 L^2} \right]_{v'=0}^{v'=v(t)} = \frac{-B^2 L^2}{MR} t $  
+$ \ln \left( \frac{v(t) - \frac{MRg}{B^2 L^2}}{\frac{-MRg}{B^2 L^2}} \right) = \frac{-B^2 L^2}{MR} t $
+
+For a correct answer  
+1 point  
+$ v(t) = \frac{MRg}{B^2 L^2} \left( 1 - e^{-\frac{B^2 L^2}{MR} t} \right) $
+
+Using a trial solution in the differential equation and verifying its correctness is also acceptable.
+
+297

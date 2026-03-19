@@ -1,0 +1,51 @@
+以下是图片中的所有文字内容，包括公式和符号，完整保留了题目内容和格式：
+
+---
+
+**Physics C: Electricity and Magnetism**
+
+**AP® PHYSICS C: ELECTRICITY AND MAGNETISM**  
+**2019 SCORING GUIDELINES**
+
+**Question 2 (continued)**
+
+(c) LO CNV-6.C.a, SP 6.A, 6.C  
+3 points
+
+Calculate the voltage $\mathcal{E}$ of the battery.
+
+| For using a correct equation to determine the current through the $150\ \Omega$ resistor | 1 point |
+|----------------------------------------------------------------------------------------|---------|
+| For correctly substituting the current from part (b) as $I_3$                          | 1 point |
+| $I_1 = I_2 + I_3 = \dfrac{(4.4\ \text{V})}{(200\ \Omega)} + 0.029\ \text{A} = 0.051\ \text{A}$ |         |
+| For using a correct equation to determine the emf of the battery                     | 1 point |
+| $\mathcal{E} = I_1 R_1 + V_2 = (0.051\ \text{A})(150\ \Omega) + 4.4\ \text{V} = 12.1\ \text{V}$ |         |
+
+**Alternate Third Point**
+
+| For calculating the equivalent resistance of the circuit and substituting this resistance into a correct equation to determine the emf of the battery | 1 point |
+|-----------------------------------------------------------------------------------------------------------------------------|---------|
+| $R_T = 150\ \Omega + \dfrac{1}{\dfrac{1}{200\ \Omega} + \dfrac{1}{150\ \Omega}} = 236\ \Omega$ |         |
+| $\mathcal{E} = I_1 R_T = (0.051\ \text{A})(236\ \Omega) = 12.0\ \text{V}$ |         |
+
+**Alternate Solution**  
+**Alternate Points**
+
+| For using a correct equation to determine the equivalent resistance of the parallel resistors | 1 point |
+|--------------------------------------------------------------------------------------------------|---------|
+| $\dfrac{1}{R_p} = \dfrac{1}{200\ \Omega} + \dfrac{1}{150\ \Omega}\quad\therefore R_p = 86\ \Omega$ |         |
+| For correctly substituting the given potential difference and the calculated equivalent resistance to determine the total current of the circuit | 1 point |
+| $I_T = \dfrac{(4.4\ \text{V})}{(86\ \Omega)} = 0.051\ \text{A}$ |         |
+| For calculating the equivalent resistance of the circuit and substituting into a correct equation to determine the emf of the battery | 1 point |
+| $R_T = 150\ \Omega + 86\ \Omega = 236\ \Omega$ |         |
+| $\mathcal{E} = I_1 R_T = (0.051\ \text{A})(236\ \Omega) = 12.0\ \text{V}$ |         |
+
+---
+
+**From Here, Go Anywhere**  
+关注TestDaily, 和20W+出国留学党一起奋斗  
+353  
+
+--- 
+
+> 注：图片右下角有二维码及“TestDaily”水印，但未包含可读文本信息。

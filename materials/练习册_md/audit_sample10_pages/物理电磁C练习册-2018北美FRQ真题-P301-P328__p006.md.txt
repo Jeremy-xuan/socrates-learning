@@ -1,0 +1,26 @@
+AP Physics C:Electricity and Magnetism
+2018 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS
+PHYSICS C: ELECTRICITY AND MAGNETISM
+SECTION II
+Time—45 minutes
+3 Questions
+
+Directions: Answer all three questions. The suggested time is about 15 minutes for answering each of the questions, which are worth 15 points each. The parts within a question may not have equal weight. Show all your work in this booklet in the spaces provided after each part.
+
+Plastic Sphere
+Conducting Spherical Shell
+
+1. A solid plastic sphere of radius a and a conducting spherical shell of inner radius b and outer radius c are shown in the figure above. The shell has an unknown charge. The solid plastic sphere has a charge per unit volume given by p(r) = Br, where B is a positive constant and r is the distance from the center of the sphere. Express your answers to parts (a), (b), and (c) in terms of B, r, a, and physical constants, as appropriate.
+(a) Consider a Gaussian sphere of radius r concentric with the plastic sphere. Derive an expression for the charge enclosed by the Gaussian sphere for the following regions.
+i. r < a
+ii. a < r < b
+(b) Use Gauss's law to derive an expression for the magnitude of the electric field in the following regions.
+i. r < a
+ii. a < r < b
+(c) At any point outside of the conducting shell, it is observed that the magnitude of the electric field is zero.
+i. Determine the charge on the inner surface of the conducting shell.
+Justify your answer.
+ii. Determine the charge on the outer surface of the conducting shell.
+
+From Here, Go Anywhere
+关注TestDaily和20W+出国留学党一起奋斗

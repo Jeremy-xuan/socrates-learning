@@ -1,0 +1,29 @@
+Physics C:Electricity and Magnetism
+
+AP® PHYSICS C: ELECTRICITY AND MAGNETISM
+2019 SCORING GUIDELINES
+
+Question 2
+15 points
+
+A nonconducting hollow sphere of inner radius 0.030 m and outer radius 0.050 m carries a positive volume charge density p, as shown in the figure above. The charge density p of the sphere is given as a function of the distance r from the center of the sphere, in meters, by the following.
+
+r < 0.030 m: p = 0
+0.030 m < r < 0.050 m: p = b/r, where b = 1.6 × 10⁻⁶ C/m²
+r > 0.050 m: p = 0
+
+(a) LO CNV-2.D.a, SP 6.B, 6.C
+3 points
+
+Calculate the total charge of the sphere.
+
+For indicating the need to integrate the expression for charge density to determine the total charge on the sphere
+Q = ∫ρdV
+
+For proper substitutions into the integration
+Q = ∫(1.6 × 10⁻⁶)/r (4πr²)dr
+
+For using the proper limits of integration
+Q = 4π(1.6 × 10⁻⁶) ∫r=0.05 r=0.03 rdr = 4π(1.6 × 10⁻⁶)[r²/2]r=0.05 r=0.03
+
+Q = (2π)(1.6 × 10⁻⁶)(0.05² - 0.03²) = 1.61 × 10⁻⁸ C

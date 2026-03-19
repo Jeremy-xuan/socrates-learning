@@ -1,0 +1,51 @@
+54. (c)  
+i.  
+2 points  
+
+| Select "Clockwise" |  |  |
+|---------------------|---|---|
+| For a justification indicating that the magnetic field inside the solenoid, and therefore the loop, will decrease | 1 point |  |
+| For a justification using Lenz’s law to relate the change in magnetic field to the direction of the current | 1 point |  |
+| Example: As the current in the solenoid decreases, the magnetic field inside the solenoid decreases. As the solenoid's magnetic field decreases, the induced current in the loop will create a magnetic field to oppose this change. Because the solenoid's magnetic field is toward the right and decreasing, the magnetic field due to the current in the loop must be toward the right. Therefore, the current in the loop must be clockwise. |  |  |
+
+ii.  
+3 points  
+
+| For using Faraday’s law to calculate the emf in the loop | 1 point |  |
+|--------------------------------------------------------|---------|---|
+| $\mathcal{E} = \left|\frac{d\Phi}{dt}\right| = \frac{d(BA)}{dt} = A\frac{\Delta B}{\Delta t}$ |  |  |
+| For using Ohm’s law to calculate the current in the loop | 1 point |  |
+| $I_{\text{IND}} = \frac{V}{R} = \frac{A\Delta B/\Delta t}{R_L} = \frac{A\Delta B}{R_L\Delta t}$ |  |  |
+| For using the correct radius for the area in the equation above | 1 point |  |
+| $I_{\text{IND}} = \frac{\pi a^2 \mu_0 N\Delta I / \ell}{R_L\Delta t} = \frac{\pi a^2 \mu_0 NI}{R_L\ell\Delta t}$ |  |  |
+
+55. ii.  
+2 points  
+
+The maximum current occurs when there is no charge on the capacitor and all the energy is stored in the inductor.  
+$$
+U_L = \frac{1}{2}LI^2
+$$  
+The total energy is the energy that was stored in the capacitor at time $t_2$.  
+
+For a correct expression of energy conservation  
+1 point  
+$$
+\frac{1}{2}LI^2 = U_C
+$$  
+$$
+I = \sqrt{2U_C/L}
+$$  
+
+Substituting the given value for $L$ and the value of $U_C$, determined in part (b) i  
+$$
+I = \sqrt{2(0.22\,\text{J})/5.0\,\text{H}}
+$$  
+
+For an answer with units consistent with previous work  
+1 point  
+$$
+I = 0.30\,\text{A}
+$$
+
+299

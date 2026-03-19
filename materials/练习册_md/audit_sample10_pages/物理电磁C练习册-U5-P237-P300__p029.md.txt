@@ -1,0 +1,29 @@
+Electromagnetism
+
+UNIT  
+5  
+
+34. (2021-DE-D61102-Section 1-MCQ-26)
+
+Magnetic Field  
+○ ○ ○ ○ ○ +y  
+○ ○ ○ ○ ○ → +x  
+○ ○ ○ ○ ○ +z  
+○ ○ ○ ○ ○  
+
+A conducting loop of wire lies in the xy-plane. A uniform magnetic field points in the +z direction. Which of the following would induce current in the loop and gives a correct explanation for why?  
+
+A. Moving the loop along the +z axis at an accelerating rate because doing so would increase the magnetic flux through the loop  
+
+B. Adding another magnetic field pointed in the -x-direction because doing so would decrease the magnetic flux through the loop  
+
+C. Rotating the loop about the z-axis because doing so would initially decrease the magnetic flux through the loop  
+
+D. Moving the loop along the x-axis such that the right edge of the loop moves from point S to point T because doing so would decrease the magnetic flux through the loop  
+
+E. Rotating the loop about the x-axis because doing so would initially decrease the magnetic flux through the loop  
+
+AP Physics C: Electricity and Magnetism Practice Book  
+265  
+From Here, Go Anywhere  
+© 2022 TestDaily

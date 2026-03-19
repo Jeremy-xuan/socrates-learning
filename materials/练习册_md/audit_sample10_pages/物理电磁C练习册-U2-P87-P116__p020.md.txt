@@ -1,0 +1,35 @@
+UNIT  
+2  
+Conductors, Capacitors, Dielectrics  
+
+24. (2013-25)  
+A parallel-plate capacitor is charged and the  
+battery is removed. If a dielectric with dielectric  
+constant k > 1 is then inserted in the capacitor,  
+which of the following will decrease?  
+(A) The voltage across the capacitor  
+(B) The charge on one of the capacitor plates  
+(C) The distance between the capacitor plates  
+(D) The capacitance of the capacitor  
+(E) The resistance of the capacitor  
+
+25. (2015-14)  
+If a dielectric is inserted between the plates of  
+a capacitor while the capacitor maintains its  
+connection to a constant voltage source, which  
+of the following is true?  
+(A) The capacitance of the capacitor is  
+unchanged.  
+(B) The charge on the capacitor plates increases.  
+(C) The potential difference across the capacitor  
+increases.  
+(D) The electric field between the capacitor plates  
+increases.  
+(E) The electric field between the capacitor plates  
+decreases.  
+
+AP Physics C: Electricity and Magnetism Practice Book  
+106  
+From Here, Go Anywhere  
+@ 2022 TestDaily  
+TestDaily

@@ -1,0 +1,22 @@
+Conductors, Capacitors, Dielectrics
+
+UNIT 2
+
+7. (2021-DE-D61102-Section 1-15)
+
+The figure shows the electric field lines around an object of ellipsoidal shape. Which of the following must be true?
+
+A. The object is a solid conductor.
+
+B. The object is hollow conductor.
+
+C. The object has zero net charge.
+
+D. The electric field is larger at point A than at point B.
+
+E. The electric field has the same magnitude at point A than at point B.
+
+AP Physics C: Electricity and Magnetism Practice Book
+95
+From Here, Go Anywhere
+© 2022 TestDaily

@@ -1,0 +1,20 @@
+Electric Circuits
+
+(c) Use the straight line from part (b) to obtain values for the following.
+i €
+
+. 了
+(d) Using the results of the experiment, calculate the maximum current that the battery can provide.
+
+(e) A voltmeter is to be used to determine the emf of the battery after removing the battery from the circuit.
+Two voltmeters are available to take this measurement—one with low internal resistance and one with high
+internal resistance. Indicate which voltmeter will provide the most accurate measurement.
+
+The voltmeter with low resistance will provide the most accurate measurement.
+The voltmeter with high resistance will provide the most accurate measurement.
+The two voltmeters will provide equal accuracy.
+
+Justify your answer.
+
+AP Physics C: Electricity and Magnetism Practice Book           151                                                            From Here, Go Anywhere
+@ 2022 TestDaily

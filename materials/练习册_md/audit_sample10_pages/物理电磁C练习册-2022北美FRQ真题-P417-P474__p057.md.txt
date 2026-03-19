@@ -1,0 +1,44 @@
+Physics C:Electricity and Magnetism
+
+AP® Physics C: Electricity and Magnetism 2022 Scoring Guidelines
+
+(c) For using an appropriate expression for the power for a constant current through a resistor 1 point
+
+Example Response  
+$ P = I_{\text{loop}}^2 R $
+
+For a correct substitution consistent with (b) into a correct expression for electrical power 1 point
+
+Example Response  
+$ P = I_{\text{loop}}^2 R = \left( \frac{\mu_0 n A}{R} \frac{dI}{dt} \right)^2 R = \left( 1.3 \times 10^{-4} \, \text{A} \right)^2 (3.0 \, \Omega) = 5.2 \times 10^{-8} \, \text{W} $
+
+For correctly substituting the power dissipated by the loop of wire into a correct energy equation 1 point
+
+Example Response  
+$ P = \frac{dE}{dt} = \frac{\Delta E}{\Delta t} \therefore \Delta E = P \Delta t $  
+$ \Delta E = \left( 5.2 \times 10^{-8} \, \text{W} \right)(2.0 \, \text{s}) = 1.0 \times 10^{-7} \, \text{J} $
+
+Total for part (c) 3 points
+
+(d) For selecting “The plane of the loop is not perpendicular to the axis of the solenoid.” 1 point
+
+For correctly justifying the selection 1 point
+
+Scoring Note: A response cannot earn this point if the incorrect selection is chosen.
+
+Example Response  
+If the plane of the loop is not perpendicular to the axis of the solenoid it is not perpendicular to the magnetic field. Therefore, the magnetic flux and emf will be less, so the current will be less.
+
+Total for part (d) 2 points
+
+(e) For selecting “$ \frac{I_2}{I_1} = 2 $” with an attempt at a relevant justification 1 point
+
+Scoring Note: The response can earn this point if selecting “$ \frac{I_2}{I_1} > 2 $” and only referencing the increase in flux through the loop in the justification.
+
+For a statement that indicates that the resistance of the second loop is double the resistance of the original loop 1 point
+
+For a statement that indicates that the new emf is four times greater than the original emf due to the increased flux through the loop resulting from the quadrupled area 1 point
+
+From Here, Go Anywhere  
+关注TestDaily, 和20W+出国留学党一起奋斗  
+473

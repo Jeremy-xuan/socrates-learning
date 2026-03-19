@@ -1,0 +1,159 @@
+{
+  "timestamp": "2026-03-19T09:34:01.999626",
+  "model": "qwen-vl-plus-latest",
+  "total_pages": 30,
+  "successful_pages": 30,
+  "success_rate": 100.0,
+  "page_stats": [
+    {
+      "page": 1,
+      "success": true,
+      "text_length": 424
+    },
+    {
+      "page": 2,
+      "success": true,
+      "text_length": 1417
+    },
+    {
+      "page": 3,
+      "success": true,
+      "text_length": 893
+    },
+    {
+      "page": 4,
+      "success": true,
+      "text_length": 52
+    },
+    {
+      "page": 5,
+      "success": true,
+      "text_length": 1331
+    },
+    {
+      "page": 6,
+      "success": true,
+      "text_length": 1148
+    },
+    {
+      "page": 7,
+      "success": true,
+      "text_length": 837
+    },
+    {
+      "page": 8,
+      "success": true,
+      "text_length": 721
+    },
+    {
+      "page": 9,
+      "success": true,
+      "text_length": 644
+    },
+    {
+      "page": 10,
+      "success": true,
+      "text_length": 2393
+    },
+    {
+      "page": 11,
+      "success": true,
+      "text_length": 1362
+    },
+    {
+      "page": 12,
+      "success": true,
+      "text_length": 1094
+    },
+    {
+      "page": 13,
+      "success": true,
+      "text_length": 1477
+    },
+    {
+      "page": 14,
+      "success": true,
+      "text_length": 1037
+    },
+    {
+      "page": 15,
+      "success": true,
+      "text_length": 1079
+    },
+    {
+      "page": 16,
+      "success": true,
+      "text_length": 1074
+    },
+    {
+      "page": 17,
+      "success": true,
+      "text_length": 842
+    },
+    {
+      "page": 18,
+      "success": true,
+      "text_length": 685
+    },
+    {
+      "page": 19,
+      "success": true,
+      "text_length": 632
+    },
+    {
+      "page": 20,
+      "success": true,
+      "text_length": 1181
+    },
+    {
+      "page": 21,
+      "success": true,
+      "text_length": 2036
+    },
+    {
+      "page": 22,
+      "success": true,
+      "text_length": 1378
+    },
+    {
+      "page": 23,
+      "success": true,
+      "text_length": 962
+    },
+    {
+      "page": 24,
+      "success": true,
+      "text_length": 890
+    },
+    {
+      "page": 25,
+      "success": true,
+      "text_length": 1638
+    },
+    {
+      "page": 26,
+      "success": true,
+      "text_length": 1841
+    },
+    {
+      "page": 27,
+      "success": true,
+      "text_length": 337
+    },
+    {
+      "page": 28,
+      "success": true,
+      "text_length": 527
+    },
+    {
+      "page": 29,
+      "success": true,
+      "text_length": 1221
+    },
+    {
+      "page": 30,
+      "success": true,
+      "text_length": 1555
+    }
+  ]
+}

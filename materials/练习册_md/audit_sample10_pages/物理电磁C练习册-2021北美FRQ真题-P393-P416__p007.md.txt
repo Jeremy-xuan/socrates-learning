@@ -1,0 +1,22 @@
+以下是图片中的所有文字内容，包括公式和符号，完整保留了题目内容和格式：
+
+---
+
+**AP® Physics C: Electricity and Magnetism 2021 Free-Response Questions**
+
+Continue your response to **QUESTION 1** on this page.
+
+Switch S is then opened.
+
+**(d)**  
+i. Determine the current through $ R_1 $ immediately after the switch is opened.
+
+ii. Calculate the current through $ R_2 $ immediately after the switch is opened.
+
+**(e)** On the axes below, sketch a graph of the potential difference $ V $ across capacitor $ C_2 $ as a function of time $ t $ if switch S is opened at time $ t = 0 $. Label the maximum value.
+
+$$
+\begin{array}{c}
+\text{V} \\
+\uparrow \\
+\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad

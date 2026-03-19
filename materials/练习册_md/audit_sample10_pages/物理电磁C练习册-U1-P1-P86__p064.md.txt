@@ -1,0 +1,41 @@
+UNIT  
+1  
+Electrostatics  
+
+85. (2018-1)  
+
+A solid plastic sphere of radius $ a $ and a conducting spherical shell of inner radius $ b $ and outer radius $ c $ are shown in the figure above. The shell has an unknown charge. The solid plastic sphere has a charge per unit volume given by $ \rho(r) = \beta r $, where $ \beta $ is a positive constant and $ r $ is the distance from the center of the sphere. Express your answers to parts (a), (b), and (c) in terms of $ \beta $, $ r $, $ a $, and physical constants, as appropriate.  
+
+(a) Consider a Gaussian sphere of radius $ r $ concentric with the plastic sphere. Derive an expression for the charge enclosed by the Gaussian sphere for the following regions.  
+i. $ r < a $  
+ii. $ a < r < b $  
+
+(b) Use Gauss’s law to derive an expression for the magnitude of the electric field in the following regions.  
+i. $ r < a $  
+ii. $ a < r < b $  
+
+(c) At any point outside of the conducting shell, it is observed that the magnitude of the electric field is zero.  
+i. Determine the charge on the inner surface of the conducting shell.  
+Justify your answer.  
+ii. Determine the charge on the outer surface of the conducting shell.  
+
+(d)  
+i. On the axes below, sketch the electric field $ E $ as a function of distance $ r $ from the center of the sphere. Sketch the graph for the range $ r = 0 $ at the center of the sphere to $ r = c $ at the outside of the conducting shell.  
+
+$$
+\begin{array}{c}
+E \\
+\uparrow \\
+\phantom{---} \\
+O \quad a \quad \quad \quad \quad b \quad c \quad \rightarrow r \\
+\end{array}
+$$
+
+Plastic  
+Sphere  
+Conducting Spherical Shell  
+
+Physics C: Electricity and Magnetism Practice Book  
+64  
+From Here, Go Anywhere  
+© 2022 TestDaily

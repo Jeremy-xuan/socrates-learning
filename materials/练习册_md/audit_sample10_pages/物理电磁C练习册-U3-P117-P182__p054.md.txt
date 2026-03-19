@@ -1,0 +1,46 @@
+43. (0
+i.
+
+ii.
+
+iii.
+
+3 points
+
+For a concave up curve in the first quadrant
+For having the horizontal axis as an asymptote
+For correctly labeling the initial current with units or algebraic expression
+
+2 points
+
+For correctly using the time constant to calculate the capacitance of the capacitor
+t= RC
+= 5 = 059) -323x10 F
+R (13.95 x 10° Q)
+
+Note: Linear regression gives C = 3.20 x 10° F
+For a correct application of an expression for the energy stored in the capacitor
+
+lay _ (1      6     2
+u=5CV = (5)(023~ 10° F)(4 V)
+
+U =2.58x 10% J
+Note: Linear regression gives U = 2.56 x 107 J
+
+2 points
+
+For a concave down curve starting at the origin and above the original curve
+For a curve that asymptotes later than the original and at twice the original value.
+
+170
+
+1 point
+1 point
+1 point
+
+1 point
+
+1 point
+
+1 point
+1 point

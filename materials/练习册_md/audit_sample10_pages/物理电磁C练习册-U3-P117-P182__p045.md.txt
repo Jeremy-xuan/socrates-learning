@@ -1,0 +1,42 @@
+Electric Circuits
+
+49. (2019-set2-1a~b/d~f)
+
+2R
+Vo                                     R               品
+
+EE全
+
+The circuit represented above is composed of three resistors with the resistances shown, a battery of voltage Vj.
+a capacitor of capacitance C, and a switch S. The switch is closed, and after a long time, the circuit reaches
+steady-state conditions. Answer the following questions in terms of W . R, C, and fundamental constants, as
+appropriate.
+
+(a) Derive an expression for the steady-state current supplied by the battery.
+(b) Derive an expression for the charge on the capacitor.
+(d) Write, but do NOT solve, a differential equation that could be used to solve for the charge 7(/) on the
+
+capacitor as a function of the time f after the switch is opened.
+(e)
+
+。 Calculate the current in resistor R immediately after the switch is opened.
+
+ii. On the axes below, sketch the current in the circuit as a function of time from time r= 0 to a long time
+
+after the switch is opened. Explicitly label the maxima with aumerical values or algebraic express
+as appropriate.
+
+Current
+
+al                                      > Time
+
+(f) Is the total amount of energy dissipated in the resistors after the switch is opened greater than, less than, or
+equal to the amount of energy stored in the capacitor calculated in part (c) ?
+
+Greater than             Less than             Equal to
+
+Justify your answer.
+
+AP Physics C: Electricity and Magnetism Practice Book           161                                                            From Here, Go Anywhere
+
+@ 2022 TestDaily

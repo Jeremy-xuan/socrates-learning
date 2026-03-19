@@ -1,0 +1,339 @@
+{
+  "timestamp": "2026-03-19T09:38:38.082765",
+  "model": "qwen-vl-plus-latest",
+  "total_pages": 66,
+  "successful_pages": 66,
+  "success_rate": 100.0,
+  "page_stats": [
+    {
+      "page": 1,
+      "success": true,
+      "text_length": 344
+    },
+    {
+      "page": 2,
+      "success": true,
+      "text_length": 1291
+    },
+    {
+      "page": 3,
+      "success": true,
+      "text_length": 1842
+    },
+    {
+      "page": 4,
+      "success": true,
+      "text_length": 163
+    },
+    {
+      "page": 5,
+      "success": true,
+      "text_length": 1091
+    },
+    {
+      "page": 6,
+      "success": true,
+      "text_length": 1553
+    },
+    {
+      "page": 7,
+      "success": true,
+      "text_length": 935
+    },
+    {
+      "page": 8,
+      "success": true,
+      "text_length": 801
+    },
+    {
+      "page": 9,
+      "success": true,
+      "text_length": 989
+    },
+    {
+      "page": 10,
+      "success": true,
+      "text_length": 854
+    },
+    {
+      "page": 11,
+      "success": true,
+      "text_length": 657
+    },
+    {
+      "page": 12,
+      "success": true,
+      "text_length": 1190
+    },
+    {
+      "page": 13,
+      "success": true,
+      "text_length": 823
+    },
+    {
+      "page": 14,
+      "success": true,
+      "text_length": 1131
+    },
+    {
+      "page": 15,
+      "success": true,
+      "text_length": 1830
+    },
+    {
+      "page": 16,
+      "success": true,
+      "text_length": 1223
+    },
+    {
+      "page": 17,
+      "success": true,
+      "text_length": 573
+    },
+    {
+      "page": 18,
+      "success": true,
+      "text_length": 820
+    },
+    {
+      "page": 19,
+      "success": true,
+      "text_length": 1085
+    },
+    {
+      "page": 20,
+      "success": true,
+      "text_length": 2251
+    },
+    {
+      "page": 21,
+      "success": true,
+      "text_length": 1237
+    },
+    {
+      "page": 22,
+      "success": true,
+      "text_length": 847
+    },
+    {
+      "page": 23,
+      "success": true,
+      "text_length": 955
+    },
+    {
+      "page": 24,
+      "success": true,
+      "text_length": 885
+    },
+    {
+      "page": 25,
+      "success": true,
+      "text_length": 3306
+    },
+    {
+      "page": 26,
+      "success": true,
+      "text_length": 1442
+    },
+    {
+      "page": 27,
+      "success": true,
+      "text_length": 950
+    },
+    {
+      "page": 28,
+      "success": true,
+      "text_length": 1160
+    },
+    {
+      "page": 29,
+      "success": true,
+      "text_length": 1055
+    },
+    {
+      "page": 30,
+      "success": true,
+      "text_length": 1346
+    },
+    {
+      "page": 31,
+      "success": true,
+      "text_length": 1878
+    },
+    {
+      "page": 32,
+      "success": true,
+      "text_length": 1162
+    },
+    {
+      "page": 33,
+      "success": true,
+      "text_length": 1203
+    },
+    {
+      "page": 34,
+      "success": true,
+      "text_length": 2213
+    },
+    {
+      "page": 35,
+      "success": true,
+      "text_length": 966
+    },
+    {
+      "page": 36,
+      "success": true,
+      "text_length": 1183
+    },
+    {
+      "page": 37,
+      "success": true,
+      "text_length": 1230
+    },
+    {
+      "page": 38,
+      "success": true,
+      "text_length": 957
+    },
+    {
+      "page": 39,
+      "success": true,
+      "text_length": 1189
+    },
+    {
+      "page": 40,
+      "success": true,
+      "text_length": 605
+    },
+    {
+      "page": 41,
+      "success": true,
+      "text_length": 649
+    },
+    {
+      "page": 42,
+      "success": true,
+      "text_length": 3710
+    },
+    {
+      "page": 43,
+      "success": true,
+      "text_length": 865
+    },
+    {
+      "page": 44,
+      "success": true,
+      "text_length": 4006
+    },
+    {
+      "page": 45,
+      "success": true,
+      "text_length": 1524
+    },
+    {
+      "page": 46,
+      "success": true,
+      "text_length": 1027
+    },
+    {
+      "page": 47,
+      "success": true,
+      "text_length": 2378
+    },
+    {
+      "page": 48,
+      "success": true,
+      "text_length": 1921
+    },
+    {
+      "page": 49,
+      "success": true,
+      "text_length": 1336
+    },
+    {
+      "page": 50,
+      "success": true,
+      "text_length": 1254
+    },
+    {
+      "page": 51,
+      "success": true,
+      "text_length": 1430
+    },
+    {
+      "page": 52,
+      "success": true,
+      "text_length": 1916
+    },
+    {
+      "page": 53,
+      "success": true,
+      "text_length": 1704
+    },
+    {
+      "page": 54,
+      "success": true,
+      "text_length": 1818
+    },
+    {
+      "page": 55,
+      "success": true,
+      "text_length": 1392
+    },
+    {
+      "page": 56,
+      "success": true,
+      "text_length": 1570
+    },
+    {
+      "page": 57,
+      "success": true,
+      "text_length": 1351
+    },
+    {
+      "page": 58,
+      "success": true,
+      "text_length": 1142
+    },
+    {
+      "page": 59,
+      "success": true,
+      "text_length": 822
+    },
+    {
+      "page": 60,
+      "success": true,
+      "text_length": 1019
+    },
+    {
+      "page": 61,
+      "success": true,
+      "text_length": 1371
+    },
+    {
+      "page": 62,
+      "success": true,
+      "text_length": 2397
+    },
+    {
+      "page": 63,
+      "success": true,
+      "text_length": 1562
+    },
+    {
+      "page": 64,
+      "success": true,
+      "text_length": 1266
+    },
+    {
+      "page": 65,
+      "success": true,
+      "text_length": 1295
+    },
+    {
+      "page": 66,
+      "success": true,
+      "text_length": 152
+    }
+  ]
+}

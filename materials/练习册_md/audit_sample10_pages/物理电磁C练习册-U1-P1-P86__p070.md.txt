@@ -1,0 +1,70 @@
+79.15 points total
+
+(a) 3 points
+
+For indicating that the potential at point B ranks 1 (has the highest potential)  
+1 point
+
+For indicating that the potentials at points A and C are equal and rank 2  
+1 point
+
+For a correct justification  
+1 point
+
+Example: Compared to points A and C, point B is closer to most, and possibly all, points along the charge distribution. Since potential varies inversely with distance, point B has the highest potential. Points A and C have the same potential by symmetry.
+
+(b) 2 points
+
+For any indication of correct qualitative reasoning about the potential for this particular geometry  
+1 point
+
+Example: All points on the arc are a distance R from point P. Since potential is a scalar quantity, the potential will be the same as that of a point charge with charge Q located a distance R away.
+
+For a correct answer  
+1 point  
+V = kQ/R
+
+Alternate solution  
+For indicating the potential is obtained by integrating the contributions from each part of the charge distribution  
+1 point  
+
+V = ∫(kdq)/r where dq = λr dθ = Q/(r(π/2)) r dθ = (2Q/π)dθ  
+
+Noting that r = R for the entire distribution, the integral becomes:  
+V = (2kQ)/(πR) ∫₀^(π/2) dθ  
+
+For a correct answer  
+1 point  
+V = kQ/R
+
+(c) 4 points
+
+For an indication that mechanical energy is conserved  
+1 point  
+U_i + K_i = U_f + K_f
+
+For correct substitution of potential energies  
+1 point  
+U_f = 0  
+U_i = qV
+
+For substituting the potential at P from part (b)  
+1 point  
+q(kQ/R) = K_f
+
+For substituting correctly for the kinetic energy and solving for the velocity  
+1 point  
+q(kQ/R) = (1/2)mv²  
+v = √(2kqQ/mR)
+
+(d) 1 point
+
+For a vector drawn in the correct direction — horizontally to the right  
+1 point
+
+Distribution  
+of points
+
+TestDaily
+
+70

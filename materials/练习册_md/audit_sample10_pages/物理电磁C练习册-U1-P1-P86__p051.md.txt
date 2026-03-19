@@ -1,0 +1,61 @@
+以下是图片中所有文字内容的完整识别，包括公式、符号和题目格式：
+
+---
+
+**Electrostatics**
+
+UNIT  
+1
+
+72. (2021-DE-D61102-Section 2-MCQ-26)
+
+```
+       ↑
+     ← ○ →
+       ↓
+```
+
+Note: Figure is drawn to scale
+
+A conducting sphere carries a net charge $ Q_A $. It is surrounded by a conducting spherical shell which carries a net charge $ Q_B $. The figure shows electric field lines in the region between the conductors and outside the spherical shell. Which of the following correctly states the sign of each object’s net charge and the relationship of their net charges?
+
+A.  
+| Charge $ Q_A $ | Charge $ Q_B $ | Relationship |
+|------------------|------------------|--------------|
+| +                | +                | $ |Q_A| > |Q_B| $ |
+
+B.  
+| Charge $ Q_A $ | Charge $ Q_B $ | Relationship |
+|------------------|------------------|--------------|
+| +                | –                | $ |Q_A| > |Q_B| $ |
+
+C.  
+| Charge $ Q_A $ | Charge $ Q_B $ | Relationship |
+|------------------|------------------|--------------|
+| +                | +                | $ |Q_A| < |Q_B| $ |
+
+D.  
+| Charge $ Q_A $ | Charge $ Q_B $ | Relationship |
+|------------------|------------------|--------------|
+| +                | –                | $ |Q_A| < |Q_B| $ |
+
+E.  
+| Charge $ Q_A $ | Charge $ Q_B $ | Relationship |
+|------------------|------------------|--------------|
+| –                | +                | $ |Q_A| < |Q_B| $ |
+
+---
+
+Physics C: Electricity and Magnetism Practice Book  
+51  
+From Here, Go Anywhere  
+© 2022 TestDaily
+
+---
+
+> **Note**: The image contains a watermark "TestDaily" across the center, but it is not part of the actual text content. The diagram includes arrows indicating electric field lines:  
+> - Field lines originate from the inner sphere $ Q_A $ and point outward.  
+> - Inside the conducting shell (between inner and outer surfaces), the field lines are directed inward toward the inner surface of the shell.  
+> - Outside the shell, field lines again point outward, suggesting a net positive charge on the outer shell or overall system.
+
+This information is critical for interpreting the correct answer based on electrostatic principles.

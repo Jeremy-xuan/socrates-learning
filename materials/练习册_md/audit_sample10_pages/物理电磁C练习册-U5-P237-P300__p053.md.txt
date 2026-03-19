@@ -1,0 +1,84 @@
+(d) 4 points
+
+$$
+\phi = \int \mathbf{B} \cdot d\mathbf{A}
+$$
+
+For correctly substituting the expression for $ B $ as a function of $ r $ into the flux equation  
+1 point
+
+$$
+\phi = \int \left( \frac{\mu_0 I}{2\pi r} \right) dA
+$$
+
+For correctly recognizing that $ dA = b\, dr $  
+1 point
+
+$$
+\phi = \int \left( \frac{\mu_0 I}{2\pi r} \right) b\, dr
+$$
+
+For correctly integrating with respect to $ r $  
+1 point
+
+$$
+\phi = \frac{\mu_0 I b}{2\pi} \int_d^{d+a} \frac{dr}{r}
+$$
+
+$$
+\phi = \frac{\mu_0 I b}{2\pi} \ln(r)\Big|_d^{d+a}
+$$
+
+$$
+\phi = \frac{\mu_0 I b}{2\pi} \ln\left( \frac{d+a}{d} \right)
+$$
+
+For correctly substituting the current as a function of time  
+1 point
+
+$$
+\phi = \frac{\mu_0 (I_0 - Kt) b}{2\pi} \ln\left( \frac{d+a}{d} \right)
+$$
+
+(e) 3 points
+
+$$
+P = V^2 / R \quad \text{(which can be derived from } P = I^2 R \text{ and } V = IR)
+$$
+
+For recognizing that the voltage across the bulb is the induced emf in the loop, and using that emf in the above expression for power  
+1 point
+
+$$
+P = \mathcal{E}^2 / R, \text{ where } \mathcal{E} = -d\phi/dt
+$$
+
+For correctly substituting the flux from part (d) into the above equation for emf  
+1 point
+
+$$
+\mathcal{E} = -\frac{d}{dt} \left[ \frac{\mu_0 b (I_0 - Kt)}{2\pi} \ln\left( \frac{d+a}{d} \right) \right]
+$$
+
+For correctly taking the derivative (with respect to time) of the flux  
+1 point
+
+$$
+\mathcal{E} = -\frac{\mu_0 b}{2\pi} \ln\left( \frac{d+a}{d} \right) \left[ \frac{d}{dt} (I_0 - Kt) \right]
+$$
+
+$$
+\mathcal{E} = -\frac{\mu_0 b}{2\pi} \ln\left( \frac{d+a}{d} \right) (-K)
+$$
+
+$$
+P = \frac{\mathcal{E}^2}{R} = \frac{1}{R} \left[ \frac{\mu_0 b K}{2\pi} \ln\left( \frac{d+a}{d} \right) \right]^2
+$$
+
+Note: If $ P = I\mathcal{E} $ is used with the expression for the current in the long wire (rather than the loop being substituted for $ I $, the last 2 points for correctly determining the emf could still be earned.
+
+---
+
+**Distribution of points**
+
+Page number: 289

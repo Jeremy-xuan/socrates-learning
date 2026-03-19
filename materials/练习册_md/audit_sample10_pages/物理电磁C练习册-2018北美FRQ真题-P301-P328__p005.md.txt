@@ -1,0 +1,84 @@
+以下是图片中的所有文字内容，包括公式和符号，完整保留了格式和物理题目内容：
+
+---
+
+**Physics C: Electricity and Magnetism**
+
+**ADVANCED PLACEMENT PHYSICS C EQUATIONS**
+
+---
+
+### **GEOMETRY AND TRIGONOMETRY**
+
+**Rectangle**  
+$ A = bh $  
+$ A = \text{area} $  
+$ C = \text{circumference} $  
+$ V = \text{volume} $  
+$ S = \text{surface area} $  
+$ b = \text{base} $  
+$ h = \text{height} $  
+$ \ell = \text{length} $  
+$ w = \text{width} $  
+$ r = \text{radius} $  
+$ s = \text{arc length} $  
+$ \theta = \text{angle} $
+
+**Triangle**  
+$ A = \frac{1}{2}bh $
+
+**Circle**  
+$ A = \pi r^2 $  
+$ C = 2\pi r $  
+$ s = r\theta $
+
+**Rectangular Solid**  
+$ V = \ell wh $
+
+**Cylinder**  
+$ V = \pi r^2 \ell $  
+$ S = 2\pi r\ell + 2\pi r^2 $
+
+**Sphere**  
+$ V = \frac{4}{3}\pi r^3 $  
+$ S = 4\pi r^2 $
+
+**Right Triangle**  
+$ a^2 + b^2 = c^2 $  
+$ \sin\theta = \frac{a}{c} $  
+$ \cos\theta = \frac{b}{c} $  
+$ \tan\theta = \frac{a}{b} $
+
+---
+
+### **CALCULUS**
+
+$ \frac{df}{dx} = \frac{df}{du} \frac{du}{dx} $  
+$ \frac{d}{dx}(x^n) = nx^{n-1} $  
+$ \frac{d}{dx}(e^{ax}) = ae^{ax} $  
+$ \frac{d}{dx}(\ln ax) = \frac{1}{x} $  
+$ \frac{d}{dx}[\sin(ax)] = a\cos(ax) $  
+$ \frac{d}{dx}[\cos(ax)] = -a\sin(ax) $  
+$ \int x^n dx = \frac{1}{n+1}x^{n+1},\ n \neq -1 $  
+$ \int e^{ax} dx = \frac{1}{a}e^{ax} $  
+$ \int \frac{dx}{x+a} = \ln|x+a| $  
+$ \int \cos(ax)\,dx = \frac{1}{a}\sin(ax) $  
+$ \int \sin(ax)\,dx = -\frac{1}{a}\cos(ax) $
+
+---
+
+### **VECTOR PRODUCTS**
+
+$ \vec{A} \cdot \vec{B} = AB\cos\theta $  
+$ |\vec{A} \times \vec{B}| = AB\sin\theta $
+
+---
+
+**From Here, Go Anywhere**  
+关注TestDaily, 和20W+出国留学党一起奋斗
+
+**305**
+
+---
+
+（注：图片中包含一个水印“TestDaily”以及右下角的二维码，但这些不属于文字内容本身。）

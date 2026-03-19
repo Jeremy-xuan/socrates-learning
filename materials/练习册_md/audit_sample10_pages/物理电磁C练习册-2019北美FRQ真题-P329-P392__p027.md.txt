@@ -1,0 +1,44 @@
+以下是图片中的所有文字内容，包括公式、符号和格式信息：
+
+---
+
+**Physics C: Electricity and Magnetism**
+
+**AP® PHYSICS C: ELECTRICITY AND MAGNETISM**  
+**2019 SCORING GUIDELINES**
+
+**Question 2 (continued)**
+
+**Learning Objectives**
+
+- **CNV-5.A.a:** Derive expressions that relate current, voltage, and resistance to the rate at which heat is produced in a resistor.
+- **CNV-6.C.a:** Calculate voltage, current, and power dissipation for any resistor in a circuit containing a network of known resistors with a single battery or energy source.
+- **CNV-6.F.b:** Set up simultaneous equations to calculate at least two unknowns (currents or resistance values) in a multi-loop circuit.
+- **CNV-7.B.a:** Calculate the potential difference across a capacitor in a circuit arrangement containing capacitors, resistors, and an energy source under steady-state conditions.
+- **CNV-10.C.a:** Calculate initial transient currents and final steady-state currents through any part of a series or parallel circuit containing an inductor and one or more resistors.
+
+**Science Practices**
+
+- **6.A:** Extract quantities from narratives or mathematical relationships to solve problems.
+- **6.B:** Apply an appropriate law, definition, or mathematical relationship to solve a problem.
+- **6.C:** Calculate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway.
+- **7.A:** Make a scientific claim.
+- **7.C:** Support a claim with evidence from physical representations.
+
+---
+
+**From Here, Go Anywhere**  
+关注TestDaily, 和20W+出国留学党一起奋斗
+
+355
+
+（右下角二维码）
+
+---
+
+**注：**
+- 图片中有一个灰色圆形水印，包含“TestDaily”字样和一个抽象的图标。
+- 页面顶部有“AP”标志，右侧为蓝色圆圈内白色字母“AP”。
+- 文字排版清晰，使用标准字体，标题加粗，学习目标和科学实践部分以项目符号列出。
+- 所有物理术语如“current”, “voltage”, “resistance”, “capacitor”, “inductor”等均保留原样。
+- 没有出现数学公式或图表，仅包含文本描述。

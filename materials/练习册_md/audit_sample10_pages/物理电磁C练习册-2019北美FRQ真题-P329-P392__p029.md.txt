@@ -1,0 +1,34 @@
+Physics C:Electricity and Magnetism
+
+AP® PHYSICS C: ELECTRICITY AND MAGNETISM
+2019 SCORING GUIDELINES
+
+Question 3 (continued)
+
+(b)
+i. LO CNV-8.C.c, SP 3.D
+1 point
+
+On the cutaway view below, clearly draw an Amperian loop that can be used to determine the magnetic field at point P at the center of the solenoid.
+
+Axis of Solenoid
+
+For drawing a rectangle with one side along the central axis of the solenoid and another side outside the solenoid and whose edges do not extend beyond the solenoid | 1 point
+
+ii. LO CNV-8.C.c, SP 5.A, 5.E
+2 points
+
+Use Ampere's law to derive an expression for the magnetic field strength at point P. Express your answer in terms of I, ℓ, N, a, and physical constants, as appropriate.
+
+| For using Ampere's law to calculate the magnetic field along the axis of the solenoid | 1 point |
+| ∫B·dℓ = μ₀I_enc ∴ (∫B·dℓ)₁ + (∫B·dℓ)₂ + (∫B·dℓ)₃ + (∫B·dℓ)₄ = μ₀I_enc | |
+| (∫B·dℓ)₁ + 0 + (-(∫B·dℓ)₁) + Bh = μ₀(N/ℓ)hI | |
+| Bh = μ₀(N/ℓ)hI | |
+| For a correct answer | 1 point |
+| B = μ₀NI / ℓ | |
+
+Some physics students conduct an experiment to determine the resistance Rₛ of a solenoid with radius a = 0.015 m, total turns N = 100, and total length ℓ = 0.40 m. The students connect the solenoid to a variable power supply. A magnetic field sensor is used to measure the magnetic field strength along the central axis at the center of the solenoid. The plot of the magnetic field strength B as a function of the emf ε of the power supply is shown below.
+
+From Here, Go Anywhere
+关注TestDaily,和20W+出国留学生党一起奋斗
+357

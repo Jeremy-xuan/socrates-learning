@@ -1,0 +1,40 @@
+Electrostatics
+
+13. (2021-DE-D62503-Section 1-MCQ-31)
+
+Sphere 2  
++q  
+a  
+a  
+Sphere 1 Sphere 3  
++q -q  
+a  
+
+Spheres 1, 2, and 3 are identical, with charges of magnitude $ q $ and signs indicated in the figure. The spheres form an equilateral triangle with sides of length $ a $. Which of the following best indicates the direction of the net force on sphere 3?
+
+A. ↑  
+B. ←  
+C. ↖  
+D. →  
+E. The direction is undefined, because the net force on sphere 3 is zero.
+
+14. (2012-19)  
+y  
+-q  
++Q +Q  
+d d  
+x  
+Top View  
+
+Two objects on a horizontal frictionless surface each have charge $ +Q $ and each are fixed in place on the x axis at the same distance $ d $ from the origin as shown in the figure above. A particle of charge $ -q $ constrained to move along the y axis is released from rest. After release, the particle will  
+(A) stay where it is  
+(B) exhibit oscillatory motion  
+(C) move in the direction of increasing y  
+(D) move in the direction of decreasing y and stop at the origin  
+(E) move in the direction of decreasing y and keep going to negative infinity  
+
+Physics C: Electricity and Magnetism Practice Book  
+From Here, Go Anywhere  
+© 2022 TestDaily  
+UNIT 1  
+15

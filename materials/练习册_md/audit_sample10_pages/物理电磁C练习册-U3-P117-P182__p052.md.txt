@@ -1,0 +1,88 @@
+(d)
+
+(e)
+
+42. (a)  |
+
+iii.
+
+2 points
+
+For using Ohm's law
+
+é€=lr
+
+For a correct substitution of values from part (c):
+(12.5 V) = 1(0.58 Q)
+
+T=216A
+
+2 points
+
+For selecting “The voltmeter with high resistance”
+
+For a correct justification
+
+Example: The voltmeter acts like a resistor in a circuit with the battery. It will
+measure the potential difference across its own internal resistance. The higher
+its internal resistance, the closer its potential difference will be to the emf of the
+battery.
+
+3 points
+
+1 point
+
+1 point
+
+1 point
+1 point
+
+For an equation representing the sum of the currents at one of the junctions
+
+1 point
+
+1 -Ih+h=0
+
+For an equation representing the sum of the potential differences around one of the loops
+
+1 point
+
+For an equation representing the sum of the potential differences around a loop different
+from the above loop
+
+1 point
+
+6 -150/, — 200/, =0
+
+6 — 1001, — 200, = 0
+
+6-150/, + 100/,; -6 = 0
+
+Note: Full credit is earned for two correct loop equations using loop currents.
+
+2 points
+
+For combining the equations from part (a)(i)
+
+1 point
+
+1 -I,+1,=0
+=I, - 1.331, = -.04 2. 4.331, = -0.10
+=I, — 2 = -.06
+
+Note: Credit is earned if students indicate they used a calculator function to solve the
+system of equations.
+
+For a correct answer with correct units
+
+1 point
+
+-4.337 = -0.10 “. I, = 0.023 A
+
+1 point
+
+For using a correct equation to calculate the power in the 200 Q resistor
+
+1 point
+
+P = PR = (0.023 A)” (200 Q) -. P = 0.107 W

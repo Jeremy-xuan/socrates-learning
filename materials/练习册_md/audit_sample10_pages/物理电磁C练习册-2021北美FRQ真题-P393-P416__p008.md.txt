@@ -1,0 +1,32 @@
+Physics C:Electricity and Magnetism
+
+AP® Physics C: Electricity and Magnetism 2021 Free-Response Questions
+
+Begin your response to QUESTION 2 on this page.
+
+Insulating String
+Conducting Sphere (upper)
+d
+Insulating Rod Conducting Sphere (lower)
+Electronic
+Balance
+
+2. Students perform an experiment to study the force between two charged objects using the apparatus shown above, which contains two identical conducting spheres. The upper sphere is attached to an insulating string, which can be used to move the sphere downward. The lower sphere sits on an insulating rod, which is on an electronic balance. The electronic balance is zeroed before the lower sphere and insulating rod are in place.
+
+For the first trial, a charge of Q is placed on each sphere and then the upper sphere is slowly moved downward. The students measure the distance d between the centers of the spheres and the magnitude F of the force that appears on the electronic balance. The recorded data are shown on the graph of F as a function of $\frac{1}{d^2}$ shown below.
+
+F (μN)
+13,000
+12,000
+11,000
+10,000
+9000
+0 20 40 60 80 100 $\left(\frac{1}{d^2}\right)\left(\frac{1}{\mathrm{m}^2}\right)$
+
+(a)
+i. Draw a line that represents the best fit to the points shown.
+ii. Use the graph to calculate the charge Q.
+
+From Here, Go Anywhere
+关注TestDaily,和20W+出国留学党一起奋斗
+400

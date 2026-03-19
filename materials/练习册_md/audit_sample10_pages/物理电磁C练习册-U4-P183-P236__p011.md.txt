@@ -1,0 +1,32 @@
+Magnetic Fields
+
+12. (2021-DE-D61102-Section 1-MCQ-10)
+4.0.
+3.2
+2.4:
+1.6
+0.8
+0.0:
+0
+
+F (x10°N)
+
+5                 10
+v(x10°m/s)
+
+The graph shows the magnetic force F on a charged particle that moves with velocity v as it travels
+perpendicularly to a magnetic field. Based on the graph, what can be concluded about the magnetic field?
+A. There is not enough information in the graph to make any conclusions about the magnetic field.
+
+B. The magnetic field must increase linearly as the speed of the particle increases.
+
+C. The magnetic field must reverse when the speed of the particle reaches a specific value.
+
+D. The magnetic field must be nonuniform because the velocity is changing as a function of the- force.
+
+E. The magnetic field must be uniform because there is direct relationship between the force and velocity
+
+according to the graph.
+
+AP Physics C: Electricity and Magnetism Practice Book           193                                                           From Here, Go Anywhere
+@ 2022 TestDaily

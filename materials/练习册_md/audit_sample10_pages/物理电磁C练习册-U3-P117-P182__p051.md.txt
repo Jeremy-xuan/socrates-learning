@@ -1,0 +1,73 @@
+4points
+
+(b)
+
+(a)
+
+For correctly scaling both axes with an acceptable and appropriate scale
+
+For correctly plotting the data points
+
+1
+Resistance
+
+1point
+1point
+1point
+1point
+
+For correctly drawing a straight line that best represents the data
+
+For correctly labeling both axes with variables and units
+
+(c)
+
+2 points
+
+1 point
+
+part (b)
+mx +b
+
+For using a value for the y-intercept consistent with tke straight line drawn in
+
+了
+b
+
+0.080 1/V
+For a correct substitution into the equation from part (a)(ii)
+
+1 point
+
+12.5V
+
+ex
+
+2 points
+
+1 point
+
+_ Y= M1 _ (0.151 0.100)
+
+For calculating the slope using the straight line from part (b) and not data points
+m=
+
+0.0463 Q/V
+
+(1.50 — 0.40)
+For a correct substitution into equation from part (a)(ii)
+
+x2 7%
+
+1 point
+
+m=-L
+é€
+r=mé
+
+(0.0463 Q/V)(12.5 V)
+r= 0.58 Q
+
+r
+
+167
