@@ -13,7 +13,7 @@ from datetime import datetime
 from dashscope import MultiModalConversation
 
 DASHSCOPE_API_KEY = "sk-ce013fbefe7a41d796b0717cd2b070f6"
-MODELS = ["qwen-vl-plus-latest", "qwen-vl-max-latest"]
+MODELS = ["qwen3-vl-235b-a22b-thinking", "qwen-vl-max-2025-08-13"]
 MAX_RETRIES = 5
 WAIT_BASE = 10
 

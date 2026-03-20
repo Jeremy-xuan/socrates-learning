@@ -1,66 +1,114 @@
 [
   {
     "page": 14,
-    "final_status": "failed"
+    "final_status": "success",
+    "latency_ms": 17843,
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "total_attempts": 1
   },
   {
     "page": 16,
-    "final_status": "failed"
+    "final_status": "success",
+    "latency_ms": 16734,
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "total_attempts": 1
   },
   {
     "page": 15,
-    "final_status": "failed"
+    "final_status": "success",
+    "latency_ms": 51427,
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "total_attempts": 1
   },
   {
     "page": 11,
-    "final_status": "failed"
+    "final_status": "success",
+    "latency_ms": 39931,
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "total_attempts": 1
   },
   {
     "page": 10,
-    "final_status": "failed"
+    "final_status": "success",
+    "latency_ms": 24916,
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "total_attempts": 1
   },
   {
     "page": 13,
-    "final_status": "failed"
+    "final_status": "success",
+    "latency_ms": 44649,
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "total_attempts": 1
   },
   {
     "page": 12,
-    "final_status": "failed"
+    "final_status": "success",
+    "latency_ms": 34308,
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "total_attempts": 1
   },
   {
     "page": 9,
-    "final_status": "failed"
+    "final_status": "success",
+    "latency_ms": 28999,
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "total_attempts": 1
   },
   {
     "page": 18,
-    "final_status": "failed"
+    "final_status": "success",
+    "latency_ms": 46718,
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "total_attempts": 1
   },
   {
     "page": 19,
-    "final_status": "failed"
+    "final_status": "success",
+    "latency_ms": 33027,
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "total_attempts": 1
   },
   {
     "page": 24,
-    "final_status": "failed"
+    "final_status": "success",
+    "latency_ms": 22866,
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "total_attempts": 1
   },
   {
     "page": 20,
-    "final_status": "failed"
+    "final_status": "success",
+    "latency_ms": 81347,
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "total_attempts": 1
   },
   {
     "page": 21,
-    "final_status": "failed"
+    "final_status": "success",
+    "latency_ms": 74149,
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "total_attempts": 1
   },
   {
     "page": 17,
-    "final_status": "failed"
+    "final_status": "success",
+    "latency_ms": 30690,
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "total_attempts": 1
   },
   {
     "page": 22,
-    "final_status": "failed"
+    "final_status": "success",
+    "latency_ms": 53253,
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "total_attempts": 1
   },
   {
     "page": 23,
-    "final_status": "failed"
+    "final_status": "success",
+    "latency_ms": 35601,
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "total_attempts": 1
   }
 ]

@@ -1,0 +1,146 @@
+[
+  {
+    "timestamp": "2026-03-19T15:09:58.613957",
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "page": 14,
+    "status": "success",
+    "latency_ms": 17843,
+    "attempt": 1,
+    "round": 3
+  },
+  {
+    "timestamp": "2026-03-19T15:10:15.348509",
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "page": 16,
+    "status": "success",
+    "latency_ms": 16734,
+    "attempt": 1,
+    "round": 3
+  },
+  {
+    "timestamp": "2026-03-19T15:11:06.775671",
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "page": 15,
+    "status": "success",
+    "latency_ms": 51427,
+    "attempt": 1,
+    "round": 3
+  },
+  {
+    "timestamp": "2026-03-19T15:11:46.706768",
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "page": 11,
+    "status": "success",
+    "latency_ms": 39931,
+    "attempt": 1,
+    "round": 3
+  },
+  {
+    "timestamp": "2026-03-19T15:12:11.622882",
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "page": 10,
+    "status": "success",
+    "latency_ms": 24916,
+    "attempt": 1,
+    "round": 3
+  },
+  {
+    "timestamp": "2026-03-19T15:12:56.272344",
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "page": 13,
+    "status": "success",
+    "latency_ms": 44649,
+    "attempt": 1,
+    "round": 3
+  },
+  {
+    "timestamp": "2026-03-19T15:13:30.580862",
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "page": 12,
+    "status": "success",
+    "latency_ms": 34308,
+    "attempt": 1,
+    "round": 3
+  },
+  {
+    "timestamp": "2026-03-19T15:13:59.580674",
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "page": 9,
+    "status": "success",
+    "latency_ms": 28999,
+    "attempt": 1,
+    "round": 3
+  },
+  {
+    "timestamp": "2026-03-19T15:14:46.299156",
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "page": 18,
+    "status": "success",
+    "latency_ms": 46718,
+    "attempt": 1,
+    "round": 3
+  },
+  {
+    "timestamp": "2026-03-19T15:15:19.326558",
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "page": 19,
+    "status": "success",
+    "latency_ms": 33027,
+    "attempt": 1,
+    "round": 3
+  },
+  {
+    "timestamp": "2026-03-19T15:15:42.192775",
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "page": 24,
+    "status": "success",
+    "latency_ms": 22866,
+    "attempt": 1,
+    "round": 3
+  },
+  {
+    "timestamp": "2026-03-19T15:17:03.540150",
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "page": 20,
+    "status": "success",
+    "latency_ms": 81347,
+    "attempt": 1,
+    "round": 3
+  },
+  {
+    "timestamp": "2026-03-19T15:18:17.689768",
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "page": 21,
+    "status": "success",
+    "latency_ms": 74149,
+    "attempt": 1,
+    "round": 3
+  },
+  {
+    "timestamp": "2026-03-19T15:18:48.380478",
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "page": 17,
+    "status": "success",
+    "latency_ms": 30690,
+    "attempt": 1,
+    "round": 3
+  },
+  {
+    "timestamp": "2026-03-19T15:19:41.633961",
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "page": 22,
+    "status": "success",
+    "latency_ms": 53253,
+    "attempt": 1,
+    "round": 3
+  },
+  {
+    "timestamp": "2026-03-19T15:20:17.235043",
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "page": 23,
+    "status": "success",
+    "latency_ms": 35601,
+    "attempt": 1,
+    "round": 3
+  }
+]

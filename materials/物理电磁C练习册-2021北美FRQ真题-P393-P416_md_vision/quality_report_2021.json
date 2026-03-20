@@ -1,9 +1,12 @@
 {
-  "timestamp": "2026-03-19T09:55:30.858954",
-  "model": "qwen-vl-plus-latest",
+  "timestamp": "2026-03-19T15:20:17.235862",
+  "models_used": [
+    "qwen3-vl-235b-a22b-thinking",
+    "qwen-vl-max-2025-08-13"
+  ],
   "total_pages": 24,
-  "successful_pages": 8,
-  "success_rate": 33.33333333333333,
+  "successful_pages": 24,
+  "success_rate": 100.0,
   "page_stats": [
     {
       "page": 1,
@@ -47,83 +50,85 @@
     },
     {
       "page": 9,
-      "success": false,
-      "text_length": 6
+      "success": true,
+      "text_length": 1117
     },
     {
       "page": 10,
-      "success": false,
-      "text_length": 6
+      "success": true,
+      "text_length": 1418
     },
     {
       "page": 11,
-      "success": false,
-      "text_length": 6
+      "success": true,
+      "text_length": 1167
     },
     {
       "page": 12,
-      "success": false,
-      "text_length": 6
+      "success": true,
+      "text_length": 1440
     },
     {
       "page": 13,
-      "success": false,
-      "text_length": 6
+      "success": true,
+      "text_length": 1008
     },
     {
       "page": 14,
-      "success": false,
-      "text_length": 6
+      "success": true,
+      "text_length": 63
     },
     {
       "page": 15,
-      "success": false,
-      "text_length": 6
+      "success": true,
+      "text_length": 372
     },
     {
       "page": 16,
-      "success": false,
-      "text_length": 6
+      "success": true,
+      "text_length": 63
     },
     {
       "page": 17,
-      "success": false,
-      "text_length": 6
+      "success": true,
+      "text_length": 1749
     },
     {
       "page": 18,
-      "success": false,
-      "text_length": 6
+      "success": true,
+      "text_length": 1375
     },
     {
       "page": 19,
-      "success": false,
-      "text_length": 6
+      "success": true,
+      "text_length": 1061
     },
     {
       "page": 20,
-      "success": false,
-      "text_length": 6
+      "success": true,
+      "text_length": 1295
     },
     {
       "page": 21,
-      "success": false,
-      "text_length": 6
+      "success": true,
+      "text_length": 1252
     },
     {
       "page": 22,
-      "success": false,
-      "text_length": 6
+      "success": true,
+      "text_length": 1997
     },
     {
       "page": 23,
-      "success": false,
-      "text_length": 6
+      "success": true,
+      "text_length": 1413
     },
     {
       "page": 24,
-      "success": false,
-      "text_length": 6
+      "success": true,
+      "text_length": 102
     }
-  ]
+  ],
+  "fixed_pages": 16,
+  "original_failed": 16
 }
